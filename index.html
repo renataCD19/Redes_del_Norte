@@ -1,0 +1,551 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar Norte</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#e6eae9;
+    --panel:#f5f7f6;
+    --ink:#13232b;
+    --muted:#586a70;
+    --line:#c3cccc;
+    --teal:#1d5c68;
+    --brass:#94620f;
+    --brass-bg:#f1e3c8;
+    --teal-bg:#d3e4e6;
+    --grey-bg:#dde3e3;
+    --focus:#1d5c68;
+    --display:"Bricolage Grotesque","Trebuchet MS",sans-serif;
+    --body:"Figtree","Segoe UI",Arial,sans-serif;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#0e181d; --panel:#16252b; --ink:#e3eceb; --muted:#94a7ac; --line:#2c3f46;
+      --teal:#6fc0cd; --brass:#e0ab52; --brass-bg:#3a2e17; --teal-bg:#1a3a41; --grey-bg:#21333a; --focus:#6fc0cd;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#0e181d; --panel:#16252b; --ink:#e3eceb; --muted:#94a7ac; --line:#2c3f46;
+    --teal:#6fc0cd; --brass:#e0ab52; --brass-bg:#3a2e17; --teal-bg:#1a3a41; --grey-bg:#21333a; --focus:#6fc0cd;
+  }
+  *{box-sizing:border-box}
+  html{scroll-padding-top:env(safe-area-inset-top,0px)}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:var(--body); font-size:16px; line-height:1.5;
+    padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+  }
+  :focus-visible{outline:3px solid var(--focus); outline-offset:2px}
+  button,select,input{font:inherit;color:inherit}
+
+  .wrap{max-width:1180px;margin:0 auto;padding:28px 24px 56px}
+
+  header.top{display:flex;flex-wrap:wrap;gap:16px 32px;align-items:flex-end;justify-content:space-between;margin-bottom:22px}
+  h1{font-family:var(--display);font-weight:700;font-size:clamp(2rem,4vw,2.9rem);letter-spacing:-.02em;line-height:1.05;margin:0}
+  .tagline{margin:6px 0 0;color:var(--muted);max-width:52ch}
+  .stamp{text-align:right;color:var(--muted);font-size:.9rem}
+  .stamp strong{display:block;color:var(--ink);font-weight:600}
+
+  .sample{
+    background:var(--brass-bg);border-left:4px solid var(--brass);
+    padding:10px 14px;margin:0 0 20px;border-radius:0 6px 6px 0;font-size:.93rem
+  }
+
+  nav.tabs{display:flex;gap:4px;border-bottom:2px solid var(--line);margin-bottom:22px;overflow-x:auto}
+  nav.tabs button{
+    background:none;border:0;padding:10px 18px;cursor:pointer;color:var(--muted);
+    font-family:var(--display);font-weight:500;font-size:1.05rem;border-bottom:3px solid transparent;margin-bottom:-2px;white-space:nowrap
+  }
+  nav.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--teal);font-weight:700}
+  nav.tabs button:hover{color:var(--ink)}
+
+  .layout{display:grid;grid-template-columns:230px 1fr;gap:32px;align-items:start}
+
+  /* Riel de estados */
+  aside.rail{position:sticky;top:16px}
+  aside.rail h2{font-family:var(--display);font-size:1rem;margin:0 0 10px;font-weight:700}
+  .states{list-style:none;margin:0;padding:0}
+  .states button{
+    width:100%;display:grid;grid-template-columns:1fr auto;gap:2px 10px;align-items:center;text-align:left;
+    background:none;border:0;padding:8px 10px;border-radius:6px;cursor:pointer
+  }
+  .states button:hover{background:var(--grey-bg)}
+  .states button[aria-pressed="true"]{background:var(--teal-bg)}
+  .states .n{font-variant-numeric:tabular-nums;font-weight:600}
+  .states .bar{grid-column:1 / -1;height:4px;border-radius:2px;background:var(--line);overflow:hidden}
+  .states .bar i{display:block;height:100%;background:var(--teal)}
+  .states .zero{opacity:.45}
+
+  /* Filtros */
+  .filters{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:14px}
+  .filters input,.filters select{
+    background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:8px 10px;min-height:40px
+  }
+  .filters input{flex:1 1 200px}
+  .summary{color:var(--muted);margin:0 0 14px;font-size:.95rem}
+  .summary b{color:var(--ink)}
+
+  /* Filas de oportunidad */
+  ul.list{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+  li.row{
+    display:grid;grid-template-columns:84px 1fr 168px;gap:6px 20px;
+    padding:20px 4px;border-bottom:1px solid var(--line)
+  }
+  .score{font-family:var(--display);font-weight:700;font-size:2.4rem;line-height:1;letter-spacing:-.03em}
+  .score small{display:block;font-family:var(--body);font-size:.82rem;font-weight:600;letter-spacing:0;margin-top:4px}
+  .lvl-alta{color:var(--brass)}
+  .lvl-media{color:var(--teal)}
+  .lvl-baja{color:var(--muted)}
+  .row h3{font-family:var(--display);font-size:1.25rem;line-height:1.2;margin:0 0 2px;font-weight:700}
+  .where{color:var(--muted);margin:0 0 8px;font-size:.95rem}
+  .tags{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 8px;padding:0;list-style:none}
+  .tags li{background:var(--grey-bg);border-radius:4px;padding:2px 9px;font-size:.85rem}
+  .tags li.tipo{background:var(--teal-bg)}
+  .resumen{margin:0 0 8px;max-width:70ch}
+  .tags li.origen{background:var(--brass-bg)}
+  .source{font-size:.9rem;color:var(--muted);border-top:1px solid var(--line);padding-top:8px;margin-top:4px;display:grid;gap:2px}
+  .source b{color:var(--ink);font-weight:600}
+  .source a{color:var(--teal);text-underline-offset:3px}
+  .seg label{display:block;font-size:.85rem;color:var(--muted);margin-bottom:4px}
+  .seg select{width:100%;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:8px;min-height:40px}
+  .seg select[data-v="Contactado"]{border-color:var(--teal);background:var(--teal-bg)}
+  .seg select[data-v="En propuesta"]{border-color:var(--brass);background:var(--brass-bg)}
+  .seg select[data-v="Descartado"]{color:var(--muted);text-decoration:line-through}
+
+  li.row.news{grid-template-columns:110px 1fr}
+  .news .when{font-family:var(--display);font-weight:700;font-size:1.05rem;line-height:1.2}
+  .news .when small{display:block;font-family:var(--body);font-weight:400;color:var(--muted);font-size:.85rem;margin-top:2px}
+  .news h3 a{color:var(--ink);text-decoration-color:var(--line);text-underline-offset:4px}
+  .news h3 a:hover{text-decoration-color:var(--teal)}
+  .impacto{margin:0;max-width:70ch;padding-left:12px;border-left:3px solid var(--brass)}
+  .empty{padding:36px 8px;color:var(--muted)}
+  .empty button,.btn{
+    background:var(--teal);color:#fff;border:0;border-radius:6px;padding:9px 16px;cursor:pointer;font-weight:600
+  }
+  :root[data-theme="dark"] .btn,:root[data-theme="dark"] .empty button{color:#0e181d}
+  @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .btn,:root:not([data-theme="light"]) .empty button{color:#0e181d}}
+  .stamp .btn{margin-top:8px;padding:6px 12px;font-size:.9rem}
+  .btn.ghost{background:none;color:var(--ink);border:1px solid var(--line)}
+
+  /* Seguimiento manual */
+  .manual{max-width:760px}
+  .manual p{max-width:64ch}
+  .manual form{display:grid;grid-template-columns:1fr 150px 1.4fr auto;gap:10px;margin:18px 0}
+  .manual input,.manual select{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:8px 10px;min-height:40px;width:100%}
+  .manual ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+  .manual li{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:12px 4px;border-bottom:1px solid var(--line)}
+  .manual li span{color:var(--muted);font-size:.9rem;margin-left:8px}
+  .manual a{color:var(--teal);text-underline-offset:3px;font-weight:600}
+
+  footer.foot{margin-top:40px;color:var(--muted);font-size:.85rem;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+
+  @media (max-width:860px){
+    .layout{grid-template-columns:1fr;gap:16px}
+    aside.rail{position:static}
+    .states{display:flex;gap:6px;overflow-x:auto;padding-bottom:6px}
+    .states li{flex:0 0 auto}
+    .states button{grid-template-columns:auto auto;white-space:nowrap;border:1px solid var(--line)}
+    .states .bar{display:none}
+    li.row{grid-template-columns:64px 1fr}
+    li.row.news{grid-template-columns:1fr}
+    .seg{grid-column:1 / -1}
+    .manual form{grid-template-columns:1fr}
+  }
+  @media (prefers-reduced-motion: reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Radar Norte</h1>
+      <p class="tagline">Empresas y proyectos que se mueven hacia el norte de México y pueden necesitar interiorismo corporativo.</p>
+    </div>
+    <div class="stamp" id="stamp"></div>
+  </header>
+
+  <div id="sampleBanner" class="sample" hidden>
+    Estás viendo datos de ejemplo con empresas ficticias. Cuando el script de Python genere <b>data.json</b> junto a este archivo, aquí aparecerán las oportunidades reales.
+  </div>
+
+  <nav class="tabs" role="tablist" aria-label="Vistas">
+    <button role="tab" id="tab-semanal" aria-selected="true" data-tab="semanal">Semanal</button>
+    <button role="tab" id="tab-diario" aria-selected="false" data-tab="diario">Diario</button>
+    <button role="tab" id="tab-noticias" aria-selected="false" data-tab="noticias">Noticias</button>
+    <button role="tab" id="tab-manual" aria-selected="false" data-tab="manual">Seguimiento manual</button>
+  </nav>
+
+  <main id="main"></main>
+
+  <footer class="foot">
+    <span>El seguimiento y los enlaces manuales se guardan en este navegador.</span>
+    <button class="btn ghost" id="themeBtn" type="button">Cambiar tema</button>
+  </footer>
+</div>
+
+<script>
+/*
+  FORMATO DE data.json (lo genera el script de Python)
+  {
+    "actualizado": "2026-09-28T07:00:00-06:00",
+    "noticias": [
+      {
+        "id": "identificador-unico",
+        "titulo": "Titular de la nota",
+        "medio": "El Economista | El Financiero | Expansión | Forbes México | El CEO",
+        "categoria": "Economía y política económica | Empresas y grandes negocios | Mercados, bolsa e inversión | Gobierno e impacto económico | CEOs, empresarios e industrias | Economía mexicana e internacional | Noticias rápidas",
+        "tema": "Tipo de cambio | Leyes y regulación | Tasas e inflación | Nearshoring e inversión | Comercio exterior y aranceles | Mercado inmobiliario | Empleo y salarios | Energía y servicios | Mercados",
+        "url": "https://... (enlace directo a la nota)",
+        "fecha": "2026-09-28T06:10:00-06:00",
+        "resumen": "Una o dos líneas",
+        "impacto": "Por qué le importa a un despacho de interiorismo corporativo"
+      }
+    ],
+    "items": [
+      {
+        "id": "identificador-unico",
+        "empresa": "Nombre de la empresa (puede ir vacío si no se pudo identificar)",
+        "titulo": "Titular original de la nota",
+        "estado": "Nuevo León",
+        "ciudad": "Monterrey",
+        "tipo": "Oficinas | Hotelería | Escuela | Industrial | Retail y otros",
+        "origen": "Nacional que se muda al norte | Internacional que llega o se consolida en Monterrey | Ya en el norte y se expande",
+        "senal": "Nearshoring / inversión | Parque industrial | Vacantes de sede nueva | Permiso de construcción | Licitación | Cambio de directivos | Cambio de domicilio fiscal",
+        "fuente": "Nombre del medio o portal",
+        "url": "https://...",
+        "fecha": "2026-09-27T18:30:00-06:00",
+        "resumen": "Dos líneas sobre la oportunidad",
+        "prioridad": 0-100,
+        "contacto": { "nombre": "Quien publicó", "cargo": "Su cargo", "red": "LinkedIn", "url": "https://..." }   (opcional: solo si la fuente es una publicación o vacante de LinkedIn)
+      }
+    ]
+  }
+*/
+const ESTADOS = ['Baja California','Baja California Sur','Sonora','Chihuahua','Coahuila','Nuevo León','Tamaulipas','Durango','Sinaloa','Zacatecas'];
+const TIPOS = ['Oficinas','Hotelería','Escuela','Industrial','Retail y otros'];
+const SENALES = ['Nearshoring / inversión','Parque industrial','Vacantes de sede nueva','Permiso de construcción','Licitación','Cambio de directivos','Cambio de domicilio fiscal'];
+const ORIGENES = ['Nacional que se muda al norte','Internacional que llega o se consolida en Monterrey','Ya en el norte y se expande'];
+const CATEGORIAS = ['Economía y política económica','Empresas y grandes negocios','Mercados, bolsa e inversión','Gobierno e impacto económico','CEOs, empresarios e industrias','Economía mexicana e internacional','Noticias rápidas'];
+const TEMAS = ['Tipo de cambio','Leyes y regulación','Tasas e inflación','Nearshoring e inversión','Comercio exterior y aranceles','Mercado inmobiliario','Empleo y salarios','Energía y servicios','Mercados'];
+const MEDIOS = ['El Economista','El Financiero','Expansión','Forbes México','El CEO'];
+const SEGUIMIENTO = ['Por contactar','Contactado','En propuesta','Descartado'];
+const REDES = ['Instagram','LinkedIn','Facebook','X','Sitio web','Otro'];
+
+/* Datos de ejemplo: todas las empresas son ficticias */
+function sampleData(){
+  const O1='Nacional que se muda al norte', O2='Internacional que llega o se consolida en Monterrey', O3='Ya en el norte y se expande';
+  const rec = {nombre:'Nombre Ejemplo', cargo:'Reclutadora de talento', red:'LinkedIn', url:''};
+  const dir = {nombre:'Persona Ejemplo', cargo:'Directora de operaciones', red:'LinkedIn', url:''};
+  const s = [
+    ['Manufacturera Ejemplo A','Nuevo León','Apodaca','Oficinas','Vacantes de sede nueva',O1,'LinkedIn Empleos (ejemplo)',0.3,88,'Publica 14 vacantes de dirección y finanzas para una sede regional nueva. Buen momento para acercarse antes de que elijan oficinas.',rec],
+    ['Grupo Hotelero Ejemplo','Baja California','Tijuana','Hotelería','Permiso de construcción',O3,'Periódico local (ejemplo)',0.6,81,'Permiso de obra para un hotel corporativo de 180 habitaciones con salas de juntas y áreas de coworking.',null],
+    ['Logística Ejemplo B','Coahuila','Ramos Arizpe','Industrial','Parque industrial',O2,'Nota de prensa (ejemplo)',0.9,64,'Empresa extranjera que se instala en un parque industrial nuevo. Incluye un edificio administrativo de dos niveles.',null],
+    ['Colegio Privado Ejemplo','Chihuahua','Chihuahua','Escuela','Nearshoring / inversión',O3,'Blog de educación (ejemplo)',1.4,58,'Anuncia un campus nuevo para el próximo ciclo escolar con áreas administrativas y de recepción.',null],
+    ['Tecnológica Ejemplo C','Sonora','Hermosillo','Oficinas','Cambio de domicilio fiscal',O1,'Boletín oficial (ejemplo)',1.8,72,'Empresa de la Ciudad de México que cambia su domicilio fiscal a Hermosillo. Puede estar preparando una oficina corporativa.',null],
+    ['Automotriz Ejemplo D','Chihuahua','Ciudad Juárez','Industrial','Nearshoring / inversión',O3,'El Financiero (ejemplo)',2.2,77,'Anuncia una inversión de expansión y traslado de su equipo de ingeniería desde otra región.',null],
+    ['Desarrolladora Ejemplo E','Nuevo León','San Pedro Garza García','Oficinas','Permiso de construcción',O3,'Portal inmobiliario (ejemplo)',2.6,92,'Torre de oficinas clase A en obra. Los primeros inquilinos corporativos buscan diseño de interiores.',null],
+    ['Fintech Ejemplo F','Nuevo León','Monterrey','Oficinas','Cambio de directivos',O2,'LinkedIn (ejemplo)',3.1,69,'Empresa internacional que nombra a un director regional para el norte y abre posiciones de operaciones en Monterrey.',dir],
+    ['Cadena Comercial Ejemplo','Tamaulipas','Reynosa','Retail y otros','Licitación',O3,'Portal de licitaciones (ejemplo)',3.8,41,'Licitación de adecuación para tiendas y una oficina de soporte. Presupuesto ajustado.',null],
+    ['Aeroespacial Ejemplo G','Baja California','Mexicali','Industrial','Vacantes de sede nueva',O2,'LinkedIn Empleos (ejemplo)',4.4,74,'Abre una planta con áreas de ingeniería y oficinas de visitas para clientes internacionales.',rec],
+    ['Resort Ejemplo H','Baja California Sur','Los Cabos','Hotelería','Nearshoring / inversión',O1,'Revista de turismo (ejemplo)',5.0,85,'Grupo nacional que anuncia una inversión para un resort de lujo con áreas de eventos corporativos.',null],
+    ['Universidad Ejemplo','Coahuila','Saltillo','Escuela','Licitación',O3,'Portal de licitaciones (ejemplo)',5.7,46,'Licitación pública para remodelar un edificio de posgrado.',null],
+    ['Energía Ejemplo I','Tamaulipas','Tampico','Oficinas','Cambio de directivos',O1,'El Financiero (ejemplo)',6.2,60,'Traslada a su dirección de proyectos al puerto y renta un piso de oficinas.',null],
+    ['Alimentos Ejemplo J','Nuevo León','Monterrey','Oficinas','Nearshoring / inversión',O2,'El Financiero Monterrey (ejemplo)',6.6,83,'Corporativo internacional que consolida sus oficinas de la región en un solo edificio nuevo en Monterrey.',null]
+  ];
+  const C = CATEGORIAS;
+  const n = [
+    ['[Ejemplo] El peso gana terreno frente al dólar tras dato de inflación','El Economista',C[2],'Tipo de cambio',0.1,'Se comenta la baja del dólar durante la jornada.','Un dólar más barato abarata el mobiliario y los acabados importados que usan los proyectos corporativos.'],
+    ['[Ejemplo] Propuesta de reforma cambia reglas de subcontratación en parques industriales','El Financiero',C[3],'Leyes y regulación',0.3,'Legisladores discuten ajustes que afectarían a empresas con operaciones industriales.','Puede frenar o acelerar la apertura de oficinas administrativas en plantas nuevas.'],
+    ['[Ejemplo] Banxico mantiene su tasa de referencia','El Economista',C[0],'Tasas e inflación',0.5,'La decisión mantiene el costo del crédito sin cambios.','Las tasas altas encarecen el financiamiento de obras y pueden retrasar proyectos.'],
+    ['[Ejemplo] Empresa extranjera consolida sus operaciones regionales en Monterrey','Expansión',C[1],'Nearshoring e inversión',0.8,'Anuncia que reunirá a sus equipos de la región en un solo centro.','Prospecto claro: necesitará oficinas nuevas y diseño corporativo.'],
+    ['[Ejemplo] Dólar cierra a la baja por segundo día','El CEO',C[6],'Tipo de cambio',1.0,'Cierre del día con el peso fortalecido.','Buen momento para cotizar materiales importados.'],
+    ['[Ejemplo] Director general de grupo industrial presenta plan de inversión para el norte','Forbes México',C[4],'Nearshoring e inversión',1.6,'Describe nuevas plantas y sedes administrativas.','Señal de proyectos con oficinas corporativas en los próximos meses.'],
+    ['[Ejemplo] Aranceles a insumos de construcción: qué cambia para las obras','El Financiero',C[5],'Comercio exterior y aranceles',2.1,'Analiza el efecto en el costo de materiales.','Puede subir los presupuestos de remodelación y obra.'],
+    ['[Ejemplo] La disponibilidad de oficinas clase A baja en Monterrey','Expansión',C[1],'Mercado inmobiliario',2.7,'Reporta menos espacio disponible y más demanda.','Las empresas que no encuentran espacio suelen recurrir a construir a la medida.'],
+    ['[Ejemplo] Nuevas obligaciones laborales para empresas: qué deben revisar','El Economista',C[3],'Empleo y salarios',3.4,'Resume cambios que afectan a las nóminas.','Empresas con más costos pueden recortar presupuestos de proyectos.'],
+    ['[Ejemplo] La bolsa mexicana cierra la semana con ganancias','El Financiero',C[2],'Mercados',4.2,'Resumen semanal del mercado.','Un mercado optimista favorece anuncios de inversión.'],
+    ['[Ejemplo] Inversión extranjera en estados del norte sigue al alza','Forbes México',C[5],'Nearshoring e inversión',5.1,'Repasa las entidades que reciben más capital.','Muestra en qué estados priorizar la prospección.'],
+    ['[Ejemplo] Tarifas eléctricas industriales: qué esperan las empresas','El CEO',C[6],'Energía y servicios',6.0,'Nota rápida sobre costos de energía.','Influye en dónde deciden instalarse las plantas y sus oficinas.']
+  ];
+  const now = Date.now();
+  return {
+    actualizado: null,
+    noticias: n.map((r,i)=>({
+      id:'nota-ejemplo-'+i, titulo:r[0], medio:r[1], categoria:r[2], tema:r[3], url:'',
+      fecha:new Date(now - r[4]*864e5).toISOString(), resumen:r[5], impacto:r[6]
+    })),
+    items: s.map((r,i)=>({
+      id:'ejemplo-'+i, empresa:r[0], estado:r[1], ciudad:r[2], tipo:r[3], senal:r[4], origen:r[5], fuente:r[6],
+      url:'', fecha:new Date(now - r[7]*864e5).toISOString(), resumen:r[9], prioridad:r[8], contacto:r[10]
+    }))
+  };
+}
+
+/* Almacenamiento seguro */
+const store = {
+  get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
+  set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
+};
+
+const state = { tab:'semanal', estado:'', tipo:'', senal:'', origen:'', seg:'', q:'' };
+let DATA = { actualizado:null, items:[], noticias:[] };
+const nstate = { categoria:'', medio:'', tema:'', periodo:'hoy', q:'' };
+let isSample = false;
+let seguimiento = store.get('radar.seguimiento', {});
+let manual = store.get('radar.manual', []);
+
+const $ = (s, r=document) => r.querySelector(s);
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const norm = s => String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+
+async function load(){
+  try{
+    const r = await fetch('data.json', {cache:'no-store'});
+    if(!r.ok) throw new Error('sin datos');
+    DATA = await r.json();
+    isSample = false;
+  }catch(e){
+    DATA = sampleData();
+    isSample = true;
+  }
+  const now = Date.now();
+  DATA.items = DATA.items || [];
+  DATA.noticias = DATA.noticias || [];
+  DATA.items.forEach(it => { it.dias = (now - new Date(it.fecha).getTime()) / 864e5; });
+  DATA.noticias.forEach(n => { n.dias = (now - new Date(n.fecha).getTime()) / 864e5; });
+}
+
+function nivel(p){ return p >= 75 ? 'alta' : p >= 50 ? 'media' : 'baja'; }
+function nivelTxt(p){ return p >= 75 ? 'Prioridad alta' : p >= 50 ? 'Prioridad media' : 'Prioridad baja'; }
+function hace(d){
+  if(d < 1) return 'hace ' + Math.max(1, Math.round(d*24)) + ' h';
+  if(d < 2) return 'ayer';
+  return 'hace ' + Math.floor(d) + ' días';
+}
+function fechaCorta(iso){
+  return new Date(iso).toLocaleDateString('es-MX', {day:'numeric', month:'short'});
+}
+function safeUrl(u){
+  try{ const x = new URL(String(u||'')); return (x.protocol === 'https:' || x.protocol === 'http:') ? x.href : ''; }catch(e){ return ''; }
+}
+function searchUrl(q){ return 'https://www.google.com/search?q=' + encodeURIComponent(q); }
+function linkTo(url, text, fallbackQuery){
+  const href = safeUrl(url) || searchUrl(fallbackQuery);
+  const title = safeUrl(url) ? 'Abrir la nota original' : 'Sin enlace directo: abre una búsqueda de esta nota';
+  return '<a href="'+esc(href)+'" target="_blank" rel="noopener noreferrer" title="'+esc(title)+'">'+esc(text)+'</a>';
+}
+function contactoHTML(c){
+  if(!c || !c.nombre) return '';
+  const cu = safeUrl(c.url);
+  const nombre = cu ? '<a href="'+esc(cu)+'" target="_blank" rel="noopener noreferrer">'+esc(c.nombre)+'</a>' : esc(c.nombre);
+  return '<div><b>Publicó:</b> '+nombre+(c.cargo?', '+esc(c.cargo):'')+(c.red?', en '+esc(c.red):'')+'</div>';
+}
+function seg(id){ return seguimiento[id] || 'Por contactar'; }
+
+function inPeriod(it){
+  return state.tab === 'diario' ? it.dias <= 1.5 : it.dias <= 7;
+}
+function matches(it, ignoreEstado){
+  if(!inPeriod(it)) return false;
+  if(!ignoreEstado && state.estado && it.estado !== state.estado) return false;
+  if(state.tipo && it.tipo !== state.tipo) return false;
+  if(state.senal && it.senal !== state.senal) return false;
+  if(state.origen && it.origen !== state.origen) return false;
+  if(state.seg && seg(it.id) !== state.seg) return false;
+  if(state.q){
+    const hay = norm([it.empresa,it.titulo,it.ciudad,it.estado,it.resumen,it.fuente,it.senal,it.tipo,it.origen,(it.contacto&&it.contacto.nombre)||''].join(' '));
+    if(!hay.includes(norm(state.q))) return false;
+  }
+  return true;
+}
+
+function renderStamp(){
+  const el = $('#stamp');
+  if(DATA.actualizado){
+    const d = new Date(DATA.actualizado);
+    el.innerHTML = '<strong>Última actualización</strong>' + esc(d.toLocaleString('es-MX',{dateStyle:'medium', timeStyle:'short'}));
+  }else{
+    el.innerHTML = '<strong>Datos de ejemplo</strong>Sin actualización automática todavía';
+  }
+  el.innerHTML += '<br><button type="button" class="btn ghost" id="reloadBtn">Recargar datos</button>';
+  $('#reloadBtn').addEventListener('click', () => { load().then(() => { renderStamp(); render(); }); });
+  $('#sampleBanner').hidden = !isSample;
+}
+
+function options(list, current, placeholder){
+  return '<option value="">' + esc(placeholder) + '</option>' +
+    list.map(v => '<option value="'+esc(v)+'"'+(v===current?' selected':'')+'>'+esc(v)+'</option>').join('');
+}
+
+function renderList(){
+  const main = $('#main');
+  const base = DATA.items.filter(it => matches(it, true));
+  const counts = {};
+  ESTADOS.forEach(e => counts[e] = 0);
+  base.forEach(it => { counts[it.estado] = (counts[it.estado]||0) + 1; });
+  const max = Math.max(1, ...Object.values(counts));
+  const items = DATA.items.filter(it => matches(it, false))
+    .sort((a,b) => state.tab === 'diario' ? a.dias - b.dias : b.prioridad - a.prioridad);
+  const altas = items.filter(i => i.prioridad >= 75).length;
+  const porContactar = items.filter(i => seg(i.id) === 'Por contactar').length;
+  const periodo = state.tab === 'diario' ? 'en las últimas 36 horas' : 'en los últimos 7 días';
+
+  const rail = '<aside class="rail" aria-label="Filtrar por estado"><h2>Estados</h2><ul class="states">' +
+    '<li><button type="button" data-estado="" aria-pressed="'+(state.estado===''?'true':'false')+'"><span>Todo el norte</span><span class="n">'+base.length+'</span></button></li>' +
+    ESTADOS.map(e => {
+      const c = counts[e] || 0;
+      return '<li><button type="button" class="'+(c?'':'zero')+'" data-estado="'+esc(e)+'" aria-pressed="'+(state.estado===e?'true':'false')+'">' +
+        '<span>'+esc(e)+'</span><span class="n">'+c+'</span><span class="bar"><i style="width:'+Math.round(c/max*100)+'%"></i></span></button></li>';
+    }).join('') + '</ul></aside>';
+
+  const filters = '<div class="filters">' +
+    '<input type="search" id="q" placeholder="Buscar empresa, ciudad o palabra clave" aria-label="Buscar" value="'+esc(state.q)+'">' +
+    '<select id="fTipo" aria-label="Tipo de proyecto">'+options(TIPOS, state.tipo, 'Todos los tipos')+'</select>' +
+    '<select id="fOrigen" aria-label="Origen de la empresa">'+options(ORIGENES, state.origen, 'Todos los orígenes')+'</select>' +
+    '<select id="fSenal" aria-label="Señal">'+options(SENALES, state.senal, 'Todas las señales')+'</select>' +
+    '<select id="fSeg" aria-label="Estado de seguimiento">'+options(SEGUIMIENTO, state.seg, 'Todo el seguimiento')+'</select>' +
+    '</div>';
+
+  const summary = '<p class="summary"><b>'+items.length+'</b> oportunidades '+periodo+', <b>'+altas+'</b> de prioridad alta y <b>'+porContactar+'</b> por contactar.</p>';
+
+  let list;
+  if(!items.length){
+    list = '<div class="empty"><p>No hay oportunidades con estos filtros '+periodo+'.</p><button type="button" id="clear">Quitar filtros</button></div>';
+  }else{
+    list = '<ul class="list">' + items.map(it => {
+      const lv = nivel(it.prioridad);
+      const link = linkTo(it.url, it.fuente, it.empresa + ' ' + it.fuente);
+      const sv = seg(it.id);
+      return '<li class="row">' +
+        '<div class="score lvl-'+lv+'" aria-label="'+esc(nivelTxt(it.prioridad))+', '+it.prioridad+' de 100">'+it.prioridad+'<small>'+esc(nivelTxt(it.prioridad))+'</small></div>' +
+        '<div><h3>'+esc(it.empresa || it.titulo || 'Sin nombre')+'</h3>' +
+          '<p class="where">'+(it.ciudad ? esc(it.ciudad)+', ' : '')+esc(it.estado)+'</p>' +
+          '<ul class="tags"><li class="tipo">'+esc(it.tipo)+'</li><li>'+esc(it.senal)+'</li>'+(it.origen?'<li class="origen">'+esc(it.origen)+'</li>':'')+'</ul>' +
+          (it.resumen ? '<p class="resumen">'+esc(it.resumen)+'</p>' : '') +
+          '<div class="source"><div><b>Fuente:</b> '+link+', '+esc(fechaCorta(it.fecha))+' ('+esc(hace(it.dias))+')</div>' + contactoHTML(it.contacto) + '</div></div>' +
+        '<div class="seg"><label for="s-'+esc(it.id)+'">Seguimiento</label>' +
+          '<select id="s-'+esc(it.id)+'" data-id="'+esc(it.id)+'" data-v="'+esc(sv)+'">' +
+          SEGUIMIENTO.map(o => '<option'+(o===sv?' selected':'')+'>'+esc(o)+'</option>').join('') +
+          '</select></div></li>';
+    }).join('') + '</ul>';
+  }
+
+  main.innerHTML = '<div class="layout">' + rail + '<section>' + filters + summary + list + '</section></div>';
+
+  main.querySelectorAll('[data-estado]').forEach(b => b.addEventListener('click', () => { state.estado = b.dataset.estado; renderList(); }));
+  $('#fTipo').addEventListener('change', e => { state.tipo = e.target.value; renderList(); });
+  $('#fSenal').addEventListener('change', e => { state.senal = e.target.value; renderList(); });
+  $('#fOrigen').addEventListener('change', e => { state.origen = e.target.value; renderList(); });
+  $('#fSeg').addEventListener('change', e => { state.seg = e.target.value; renderList(); });
+  const q = $('#q');
+  q.addEventListener('input', e => {
+    state.q = e.target.value;
+    const pos = e.target.selectionStart;
+    renderList();
+    const nq = $('#q'); nq.focus(); nq.setSelectionRange(pos, pos);
+  });
+  const clear = $('#clear');
+  if(clear) clear.addEventListener('click', () => { state.estado = state.tipo = state.senal = state.origen = state.seg = state.q = ''; renderList(); });
+  main.querySelectorAll('.seg select').forEach(s => s.addEventListener('change', e => {
+    seguimiento[e.target.dataset.id] = e.target.value;
+    store.set('radar.seguimiento', seguimiento);
+    if(state.seg) renderList(); else e.target.dataset.v = e.target.value;
+  }));
+}
+
+function renderNoticias(){
+  const main = $('#main');
+  const lim = nstate.periodo === 'hoy' ? 1.5 : 7;
+  const items = (DATA.noticias || []).filter(n => {
+    if(n.dias > lim) return false;
+    if(nstate.categoria && n.categoria !== nstate.categoria) return false;
+    if(nstate.medio && n.medio !== nstate.medio) return false;
+    if(nstate.tema && n.tema !== nstate.tema) return false;
+    if(nstate.q && !norm([n.titulo,n.resumen,n.impacto,n.medio,n.tema,n.categoria].join(' ')).includes(norm(nstate.q))) return false;
+    return true;
+  }).sort((a,b) => a.dias - b.dias);
+  const periodoSel = '<select id="nPeriodo" aria-label="Periodo"><option value="hoy"'+(nstate.periodo==='hoy'?' selected':'')+'>Últimas 36 horas</option><option value="semana"'+(nstate.periodo==='semana'?' selected':'')+'>Últimos 7 días</option></select>';
+  const filters = '<div class="filters">' +
+    '<input type="search" id="nQ" placeholder="Buscar en las noticias (dólar, reforma, nearshoring...)" aria-label="Buscar" value="'+esc(nstate.q)+'">' +
+    periodoSel +
+    '<select id="nTema" aria-label="Tema">'+options(TEMAS, nstate.tema, 'Todos los temas')+'</select>' +
+    '<select id="nCat" aria-label="Sección">'+options(CATEGORIAS, nstate.categoria, 'Todas las secciones')+'</select>' +
+    '<select id="nMedio" aria-label="Medio">'+options(MEDIOS, nstate.medio, 'Todos los medios')+'</select>' +
+    '</div>';
+  const summary = '<p class="summary"><b>'+items.length+'</b> noticias '+(nstate.periodo==='hoy'?'en las últimas 36 horas':'en los últimos 7 días')+'. Cada una explica por qué importa para tu prospección.</p>';
+  let list;
+  if(!items.length){
+    list = '<div class="empty"><p>No hay noticias con estos filtros.</p><button type="button" id="nClear">Quitar filtros</button></div>';
+  }else{
+    list = '<ul class="list">' + items.map(n =>
+      '<li class="row news"><div class="when">'+esc(hace(n.dias))+'<small>'+esc(fechaCorta(n.fecha))+'</small></div>' +
+      '<div><h3>'+linkTo(n.url, n.titulo, n.titulo + ' ' + n.medio)+'</h3>' +
+      '<ul class="tags"><li class="tipo">'+esc(n.medio)+'</li><li>'+esc(n.tema)+'</li><li class="origen">'+esc(n.categoria)+'</li></ul>' +
+      '<p class="resumen">'+esc(n.resumen)+'</p>' +
+      (n.impacto ? '<p class="impacto"><b>Por qué importa:</b> '+esc(n.impacto)+'</p>' : '') +
+      '</div></li>').join('') + '</ul>';
+  }
+  main.innerHTML = '<section>' + filters + summary + list + '</section>';
+  $('#nPeriodo').addEventListener('change', e => { nstate.periodo = e.target.value; renderNoticias(); });
+  $('#nTema').addEventListener('change', e => { nstate.tema = e.target.value; renderNoticias(); });
+  $('#nCat').addEventListener('change', e => { nstate.categoria = e.target.value; renderNoticias(); });
+  $('#nMedio').addEventListener('change', e => { nstate.medio = e.target.value; renderNoticias(); });
+  $('#nQ').addEventListener('input', e => {
+    nstate.q = e.target.value;
+    const pos = e.target.selectionStart;
+    renderNoticias();
+    const q = $('#nQ'); q.focus(); q.setSelectionRange(pos, pos);
+  });
+  const c = $('#nClear');
+  if(c) c.addEventListener('click', () => { nstate.categoria = nstate.medio = nstate.tema = nstate.q = ''; renderNoticias(); });
+}
+
+function renderManual(){
+  const main = $('#main');
+  const rows = manual.length ? '<ul>' + manual.map((m,i) =>
+    '<li><div><a href="'+esc(m.url)+'" target="_blank" rel="noopener noreferrer">'+esc(m.nombre)+'</a><span>'+esc(m.red)+'</span></div>' +
+    '<button type="button" class="btn ghost" data-del="'+i+'" aria-label="Quitar '+esc(m.nombre)+'">Quitar</button></li>').join('') + '</ul>'
+    : '<p class="empty">Todavía no agregaste cuentas. Empieza con las desarrolladoras, empresas y hoteles que quieras vigilar.</p>';
+  main.innerHTML = '<section class="manual">' +
+    '<p>Instagram y LinkedIn limitan la lectura automática de sus cuentas, así que este radar no puede revisarlas por ti. Guarda aquí los enlaces de las cuentas que quieres seguir y ábrelos cuando revises la bandeja semanal.</p>' +
+    '<form id="mForm">' +
+      '<input id="mNombre" placeholder="Nombre de la empresa" aria-label="Nombre de la empresa" required>' +
+      '<select id="mRed" aria-label="Red">'+REDES.map(r=>'<option>'+esc(r)+'</option>').join('')+'</select>' +
+      '<input id="mUrl" type="url" placeholder="https://..." aria-label="Enlace" required>' +
+      '<button class="btn" type="submit">Agregar cuenta</button>' +
+    '</form>' + rows + '</section>';
+  $('#mForm').addEventListener('submit', e => {
+    e.preventDefault();
+    manual.push({ nombre:$('#mNombre').value.trim(), red:$('#mRed').value, url:$('#mUrl').value.trim() });
+    store.set('radar.manual', manual);
+    renderManual();
+  });
+  main.querySelectorAll('[data-del]').forEach(b => b.addEventListener('click', () => {
+    manual.splice(Number(b.dataset.del), 1);
+    store.set('radar.manual', manual);
+    renderManual();
+  }));
+}
+
+function render(){
+  document.querySelectorAll('nav.tabs button').forEach(b => b.setAttribute('aria-selected', b.dataset.tab === state.tab ? 'true' : 'false'));
+  if(state.tab === 'manual') renderManual(); else if(state.tab === 'noticias') renderNoticias(); else renderList();
+}
+
+document.querySelectorAll('nav.tabs button').forEach(b => b.addEventListener('click', () => { state.tab = b.dataset.tab; render(); }));
+
+$('#themeBtn').addEventListener('click', () => {
+  const root = document.documentElement;
+  const dark = root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+  root.dataset.theme = dark ? 'light' : 'dark';
+});
+
+load().then(() => { renderStamp(); render(); });
+</script>
+</body>
+</html>

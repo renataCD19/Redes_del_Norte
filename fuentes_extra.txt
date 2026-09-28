@@ -1,0 +1,5 @@
+# Fuentes extra (opcional). Una por línea, con el formato:  Nombre que verás|https://enlace-del-feed
+# Las líneas que empiezan con # se ignoran.
+#
+# Ejemplo con una Alerta de Google (en google.com/alerts elige "Entregar a: Feed RSS" y copia el enlace):
+# Alerta nueva sede Monterrey|https://www.google.com/alerts/feeds/XXXXXXXX/YYYYYYYY
