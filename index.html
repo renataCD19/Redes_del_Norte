@@ -127,8 +127,8 @@
   .empty button,.btn{
     background:var(--teal);color:#fff;border:0;border-radius:6px;padding:9px 16px;cursor:pointer;font-weight:600
   }
-  :root[data-theme="dark"] .btn,:root[data-theme="dark"] .empty button{color:#0e181d}
-  @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .btn,:root:not([data-theme="light"]) .empty button{color:#0e181d}}
+  :root[data-theme="dark"] .btn:not(.ghost),:root[data-theme="dark"] .empty button{color:#0e181d}
+  @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .btn:not(.ghost),:root:not([data-theme="light"]) .empty button{color:#0e181d}}
   .stamp .btn{margin-top:8px;padding:6px 12px;font-size:.9rem}
   .btn.ghost{background:none;color:var(--ink);border:1px solid var(--line)}
 
