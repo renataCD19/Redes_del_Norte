@@ -169,9 +169,7 @@
     <div class="stamp" id="stamp"></div>
   </header>
 
-  <div id="sampleBanner" class="sample" hidden>
-    Estás viendo datos de ejemplo con empresas ficticias. Cuando el script de Python genere <b>data.json</b> junto a este archivo, aquí aparecerán las oportunidades reales.
-  </div>
+  <div id="statusBanner" class="sample" role="status" hidden></div>
 
   <nav class="tabs" role="tablist" aria-label="Vistas">
     <button role="tab" id="tab-semanal" aria-selected="true" data-tab="semanal">Semanal</button>
@@ -190,9 +188,10 @@
 
 <script>
 /*
-  FORMATO DE data.json (lo genera el script de Python)
+  FORMATO DE data.json (lo genera scripts/actualizar.py; no hay datos de ejemplo)
   {
     "actualizado": "2026-09-28T07:00:00-06:00",
+    "fuentes": { "consultas": 67, "ok": 65, "fallidas": 2 },   (opcional, solo diagnóstico)
     "noticias": [
       {
         "id": "identificador-unico",
@@ -236,56 +235,6 @@ const MEDIOS = ['El Economista','El Financiero','Expansión','Forbes México','E
 const SEGUIMIENTO = ['Por contactar','Contactado','En propuesta','Descartado'];
 const REDES = ['Instagram','LinkedIn','Facebook','X','Sitio web','Otro'];
 
-/* Datos de ejemplo: todas las empresas son ficticias */
-function sampleData(){
-  const O1='Nacional que se muda al norte', O2='Internacional que llega o se consolida en Monterrey', O3='Ya en el norte y se expande';
-  const rec = {nombre:'Nombre Ejemplo', cargo:'Reclutadora de talento', red:'LinkedIn', url:''};
-  const dir = {nombre:'Persona Ejemplo', cargo:'Directora de operaciones', red:'LinkedIn', url:''};
-  const s = [
-    ['Manufacturera Ejemplo A','Nuevo León','Apodaca','Oficinas','Vacantes de sede nueva',O1,'LinkedIn Empleos (ejemplo)',0.3,88,'Publica 14 vacantes de dirección y finanzas para una sede regional nueva. Buen momento para acercarse antes de que elijan oficinas.',rec],
-    ['Grupo Hotelero Ejemplo','Baja California','Tijuana','Hotelería','Permiso de construcción',O3,'Periódico local (ejemplo)',0.6,81,'Permiso de obra para un hotel corporativo de 180 habitaciones con salas de juntas y áreas de coworking.',null],
-    ['Logística Ejemplo B','Coahuila','Ramos Arizpe','Industrial','Parque industrial',O2,'Nota de prensa (ejemplo)',0.9,64,'Empresa extranjera que se instala en un parque industrial nuevo. Incluye un edificio administrativo de dos niveles.',null],
-    ['Colegio Privado Ejemplo','Chihuahua','Chihuahua','Escuela','Nearshoring / inversión',O3,'Blog de educación (ejemplo)',1.4,58,'Anuncia un campus nuevo para el próximo ciclo escolar con áreas administrativas y de recepción.',null],
-    ['Tecnológica Ejemplo C','Sonora','Hermosillo','Oficinas','Cambio de domicilio fiscal',O1,'Boletín oficial (ejemplo)',1.8,72,'Empresa de la Ciudad de México que cambia su domicilio fiscal a Hermosillo. Puede estar preparando una oficina corporativa.',null],
-    ['Automotriz Ejemplo D','Chihuahua','Ciudad Juárez','Industrial','Nearshoring / inversión',O3,'El Financiero (ejemplo)',2.2,77,'Anuncia una inversión de expansión y traslado de su equipo de ingeniería desde otra región.',null],
-    ['Desarrolladora Ejemplo E','Nuevo León','San Pedro Garza García','Oficinas','Permiso de construcción',O3,'Portal inmobiliario (ejemplo)',2.6,92,'Torre de oficinas clase A en obra. Los primeros inquilinos corporativos buscan diseño de interiores.',null],
-    ['Fintech Ejemplo F','Nuevo León','Monterrey','Oficinas','Cambio de directivos',O2,'LinkedIn (ejemplo)',3.1,69,'Empresa internacional que nombra a un director regional para el norte y abre posiciones de operaciones en Monterrey.',dir],
-    ['Cadena Comercial Ejemplo','Tamaulipas','Reynosa','Retail y otros','Licitación',O3,'Portal de licitaciones (ejemplo)',3.8,41,'Licitación de adecuación para tiendas y una oficina de soporte. Presupuesto ajustado.',null],
-    ['Aeroespacial Ejemplo G','Baja California','Mexicali','Industrial','Vacantes de sede nueva',O2,'LinkedIn Empleos (ejemplo)',4.4,74,'Abre una planta con áreas de ingeniería y oficinas de visitas para clientes internacionales.',rec],
-    ['Resort Ejemplo H','Baja California Sur','Los Cabos','Hotelería','Nearshoring / inversión',O1,'Revista de turismo (ejemplo)',5.0,85,'Grupo nacional que anuncia una inversión para un resort de lujo con áreas de eventos corporativos.',null],
-    ['Universidad Ejemplo','Coahuila','Saltillo','Escuela','Licitación',O3,'Portal de licitaciones (ejemplo)',5.7,46,'Licitación pública para remodelar un edificio de posgrado.',null],
-    ['Energía Ejemplo I','Tamaulipas','Tampico','Oficinas','Cambio de directivos',O1,'El Financiero (ejemplo)',6.2,60,'Traslada a su dirección de proyectos al puerto y renta un piso de oficinas.',null],
-    ['Alimentos Ejemplo J','Nuevo León','Monterrey','Oficinas','Nearshoring / inversión',O2,'El Financiero Monterrey (ejemplo)',6.6,83,'Corporativo internacional que consolida sus oficinas de la región en un solo edificio nuevo en Monterrey.',null]
-  ];
-  const C = CATEGORIAS;
-  const n = [
-    ['[Ejemplo] El peso gana terreno frente al dólar tras dato de inflación','El Economista',C[2],'Tipo de cambio',0.1,'Se comenta la baja del dólar durante la jornada.','Un dólar más barato abarata el mobiliario y los acabados importados que usan los proyectos corporativos.'],
-    ['[Ejemplo] Propuesta de reforma cambia reglas de subcontratación en parques industriales','El Financiero',C[3],'Leyes y regulación',0.3,'Legisladores discuten ajustes que afectarían a empresas con operaciones industriales.','Puede frenar o acelerar la apertura de oficinas administrativas en plantas nuevas.'],
-    ['[Ejemplo] Banxico mantiene su tasa de referencia','El Economista',C[0],'Tasas e inflación',0.5,'La decisión mantiene el costo del crédito sin cambios.','Las tasas altas encarecen el financiamiento de obras y pueden retrasar proyectos.'],
-    ['[Ejemplo] Empresa extranjera consolida sus operaciones regionales en Monterrey','Expansión',C[1],'Nearshoring e inversión',0.8,'Anuncia que reunirá a sus equipos de la región en un solo centro.','Prospecto claro: necesitará oficinas nuevas y diseño corporativo.'],
-    ['[Ejemplo] Dólar cierra a la baja por segundo día','El CEO',C[6],'Tipo de cambio',1.0,'Cierre del día con el peso fortalecido.','Buen momento para cotizar materiales importados.'],
-    ['[Ejemplo] Director general de grupo industrial presenta plan de inversión para el norte','Forbes México',C[4],'Nearshoring e inversión',1.6,'Describe nuevas plantas y sedes administrativas.','Señal de proyectos con oficinas corporativas en los próximos meses.'],
-    ['[Ejemplo] Aranceles a insumos de construcción: qué cambia para las obras','El Financiero',C[5],'Comercio exterior y aranceles',2.1,'Analiza el efecto en el costo de materiales.','Puede subir los presupuestos de remodelación y obra.'],
-    ['[Ejemplo] La disponibilidad de oficinas clase A baja en Monterrey','Expansión',C[1],'Mercado inmobiliario',2.7,'Reporta menos espacio disponible y más demanda.','Las empresas que no encuentran espacio suelen recurrir a construir a la medida.'],
-    ['[Ejemplo] Nuevas obligaciones laborales para empresas: qué deben revisar','El Economista',C[3],'Empleo y salarios',3.4,'Resume cambios que afectan a las nóminas.','Empresas con más costos pueden recortar presupuestos de proyectos.'],
-    ['[Ejemplo] La bolsa mexicana cierra la semana con ganancias','El Financiero',C[2],'Mercados',4.2,'Resumen semanal del mercado.','Un mercado optimista favorece anuncios de inversión.'],
-    ['[Ejemplo] Inversión extranjera en estados del norte sigue al alza','Forbes México',C[5],'Nearshoring e inversión',5.1,'Repasa las entidades que reciben más capital.','Muestra en qué estados priorizar la prospección.'],
-    ['[Ejemplo] Tarifas eléctricas industriales: qué esperan las empresas','El CEO',C[6],'Energía y servicios',6.0,'Nota rápida sobre costos de energía.','Influye en dónde deciden instalarse las plantas y sus oficinas.']
-  ];
-  const now = Date.now();
-  return {
-    actualizado: null,
-    noticias: n.map((r,i)=>({
-      id:'nota-ejemplo-'+i, titulo:r[0], medio:r[1], categoria:r[2], tema:r[3], url:'',
-      fecha:new Date(now - r[4]*864e5).toISOString(), resumen:r[5], impacto:r[6]
-    })),
-    items: s.map((r,i)=>({
-      id:'ejemplo-'+i, empresa:r[0], estado:r[1], ciudad:r[2], tipo:r[3], senal:r[4], origen:r[5], fuente:r[6],
-      url:'', fecha:new Date(now - r[7]*864e5).toISOString(), resumen:r[9], prioridad:r[8], contacto:r[10]
-    }))
-  };
-}
-
 /* Almacenamiento seguro */
 const store = {
   get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
@@ -295,7 +244,6 @@ const store = {
 const state = { tab:'semanal', estado:'', tipo:'', senal:'', origen:'', seg:'', q:'' };
 let DATA = { actualizado:null, items:[], noticias:[] };
 const nstate = { categoria:'', medio:'', tema:'', periodo:'hoy', q:'' };
-let isSample = false;
 let seguimiento = store.get('radar.seguimiento', {});
 let manual = store.get('radar.manual', []);
 
@@ -303,27 +251,33 @@ const $ = (s, r=document) => r.querySelector(s);
 const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm = s => String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 
+let loadError = '';
 async function load(){
+  loadError = '';
+  let d = null;
   try{
-    const r = await fetch('data.json', {cache:'no-store'});
-    if(!r.ok) throw new Error('sin datos');
-    DATA = await r.json();
-    isSample = false;
+    const r = await fetch('data.json?t=' + Date.now(), {cache:'no-store'});
+    if(!r.ok) throw new Error('HTTP ' + r.status);
+    d = await r.json();
   }catch(e){
-    DATA = sampleData();
-    isSample = true;
+    loadError = (location.protocol === 'file:')
+      ? 'Abriste el archivo directamente desde tu computadora, y el navegador no deja leer data.json así. Ábrelo desde la dirección publicada en internet, o en local con: python -m http.server'
+      : 'No se pudo leer data.json (' + e.message + '). Revisa que exista en el repositorio y que el sitio esté publicado; si no existe, ejecuta el workflow "Actualizar datos" en la pestaña Actions de GitHub.';
   }
+  DATA = (d && typeof d === 'object') ? d : { actualizado:null, items:[], noticias:[] };
+  DATA.items = Array.isArray(DATA.items) ? DATA.items : [];
+  DATA.noticias = Array.isArray(DATA.noticias) ? DATA.noticias : [];
   const now = Date.now();
-  DATA.items = DATA.items || [];
-  DATA.noticias = DATA.noticias || [];
-  DATA.items.forEach(it => { it.dias = (now - new Date(it.fecha).getTime()) / 864e5; });
-  DATA.noticias.forEach(n => { n.dias = (now - new Date(n.fecha).getTime()) / 864e5; });
+  const stamp = x => { x.dias = (now - new Date(x.fecha).getTime()) / 864e5; return Number.isFinite(x.dias); };
+  DATA.items = DATA.items.filter(stamp);
+  DATA.noticias = DATA.noticias.filter(stamp);
+  DATA.items.forEach(it => { it.prioridad = Math.max(0, Math.min(100, Math.round(Number(it.prioridad) || 0))); it.estado = it.estado || ''; it.tipo = it.tipo || ''; it.senal = it.senal || ''; });
 }
 
 function nivel(p){ return p >= 75 ? 'alta' : p >= 50 ? 'media' : 'baja'; }
 function nivelTxt(p){ return p >= 75 ? 'Prioridad alta' : p >= 50 ? 'Prioridad media' : 'Prioridad baja'; }
 function hace(d){
-  if(d < 1) return 'hace ' + Math.max(1, Math.round(d*24)) + ' h';
+  if(d < 1) return 'hace ' + Math.max(1, Math.round(Math.max(d,0)*24)) + ' h';
   if(d < 2) return 'ayer';
   return 'hace ' + Math.floor(d) + ' días';
 }
@@ -366,15 +320,24 @@ function matches(it, ignoreEstado){
 
 function renderStamp(){
   const el = $('#stamp');
-  if(DATA.actualizado){
+  const banner = $('#statusBanner');
+  let aviso = '';
+  if(loadError){
+    el.innerHTML = '<strong>Sin datos</strong>No se pudo cargar data.json';
+    aviso = esc(loadError);
+  }else if(DATA.actualizado && !isNaN(new Date(DATA.actualizado))){
     const d = new Date(DATA.actualizado);
     el.innerHTML = '<strong>Última actualización</strong>' + esc(d.toLocaleString('es-MX',{dateStyle:'medium', timeStyle:'short'}));
+    const edad = (Date.now() - d.getTime()) / 36e5;
+    if(edad > 48) aviso = 'Los datos tienen <b>' + Math.floor(edad/24) + ' días</b> sin actualizarse. Revisa en GitHub, pestaña <b>Actions</b>, si la actualización automática está fallando.';
+    else if(DATA.fuentes && DATA.fuentes.consultas && DATA.fuentes.ok < DATA.fuentes.consultas / 2) aviso = 'Solo <b>' + DATA.fuentes.ok + ' de ' + DATA.fuentes.consultas + '</b> fuentes respondieron en la última actualización; puede que falten notas.';
   }else{
-    el.innerHTML = '<strong>Datos de ejemplo</strong>Sin actualización automática todavía';
+    el.innerHTML = '<strong>Sin fecha de actualización</strong>data.json no indica cuándo se generó';
   }
   el.innerHTML += '<br><button type="button" class="btn ghost" id="reloadBtn">Recargar datos</button>';
   $('#reloadBtn').addEventListener('click', () => { load().then(() => { renderStamp(); render(); }); });
-  $('#sampleBanner').hidden = !isSample;
+  banner.innerHTML = aviso;
+  banner.hidden = !aviso;
 }
 
 function options(list, current, placeholder){
@@ -414,7 +377,9 @@ function renderList(){
   const summary = '<p class="summary"><b>'+items.length+'</b> oportunidades '+periodo+', <b>'+altas+'</b> de prioridad alta y <b>'+porContactar+'</b> por contactar.</p>';
 
   let list;
-  if(!items.length){
+  if(!DATA.items.length){
+    list = '<div class="empty"><p>' + (loadError ? 'No hay datos que mostrar.' : 'Todavía no hay oportunidades guardadas. Se llenarán en la siguiente actualización automática.') + '</p></div>';
+  }else if(!items.length){
     list = '<div class="empty"><p>No hay oportunidades con estos filtros '+periodo+'.</p><button type="button" id="clear">Quitar filtros</button></div>';
   }else{
     list = '<ul class="list">' + items.map(it => {
@@ -477,16 +442,18 @@ function renderNoticias(){
     '<select id="nCat" aria-label="Sección">'+options(CATEGORIAS, nstate.categoria, 'Todas las secciones')+'</select>' +
     '<select id="nMedio" aria-label="Medio">'+options(MEDIOS, nstate.medio, 'Todos los medios')+'</select>' +
     '</div>';
-  const summary = '<p class="summary"><b>'+items.length+'</b> noticias '+(nstate.periodo==='hoy'?'en las últimas 36 horas':'en los últimos 7 días')+'. Cada una explica por qué importa para tu prospección.</p>';
+  const summary = '<p class="summary"><b>'+items.length+'</b> noticias '+(nstate.periodo==='hoy'?'en las últimas 36 horas':'en los últimos 7 días')+'. Cada una indica por qué puede importar para tu prospección.</p>';
   let list;
-  if(!items.length){
+  if(!DATA.noticias.length){
+    list = '<div class="empty"><p>' + (loadError ? 'No hay datos que mostrar.' : 'Todavía no hay noticias guardadas. Se llenarán en la siguiente actualización automática.') + '</p></div>';
+  }else if(!items.length){
     list = '<div class="empty"><p>No hay noticias con estos filtros.</p><button type="button" id="nClear">Quitar filtros</button></div>';
   }else{
     list = '<ul class="list">' + items.map(n =>
       '<li class="row news"><div class="when">'+esc(hace(n.dias))+'<small>'+esc(fechaCorta(n.fecha))+'</small></div>' +
       '<div><h3>'+linkTo(n.url, n.titulo, n.titulo + ' ' + n.medio)+'</h3>' +
       '<ul class="tags"><li class="tipo">'+esc(n.medio)+'</li><li>'+esc(n.tema)+'</li><li class="origen">'+esc(n.categoria)+'</li></ul>' +
-      '<p class="resumen">'+esc(n.resumen)+'</p>' +
+      (n.resumen ? '<p class="resumen">'+esc(n.resumen)+'</p>' : '') +
       (n.impacto ? '<p class="impacto"><b>Por qué importa:</b> '+esc(n.impacto)+'</p>' : '') +
       '</div></li>').join('') + '</ul>';
   }
