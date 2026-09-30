@@ -2,14 +2,14 @@ name: Actualizar datos
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # todos los días a las 13:00 UTC (7:00 am en Monterrey)
-  workflow_dispatch:        # permite ejecutarlo a mano desde la pestaña Actions
+    - cron: '0 12 * * *'   # todos los días a las 06:00 hora de México (12:00 UTC)
+  workflow_dispatch:        # botón "Run workflow" para correrlo a mano
 
 permissions:
-  contents: write
+  contents: write           # necesario para que el bot pueda guardar data.json
 
 concurrency:
-  group: actualizar-datos
+  group: actualizar
   cancel-in-progress: false
 
 jobs:
@@ -21,18 +21,16 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.12'
           cache: pip
 
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Recolectar y clasificar
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Buscar noticias y generar data.json
         run: python scripts/actualizar.py
 
-      - name: Guardar data.json
+      - name: Guardar cambios
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
