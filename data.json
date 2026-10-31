@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T11:44:14-06:00",
+ "actualizado": "2026-10-31T10:50:59-06:00",
  "fuentes": {
   "consultas": 67,
   "ok": 67,
@@ -7,6 +7,414 @@
   "detalle_fallos": []
  },
  "noticias": [
+  {
+   "id": "nt-7f78b35637ed",
+   "titulo": "Restricciones a la exportación de China delimitan el acceso a sus ‘joyas de la corona’ en IA",
+   "medio": "Forbes México",
+   "categoria": "Economía mexicana e internacional",
+   "tema": "Comercio exterior y aranceles",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaEZWc0NpeHVYdjJLVFZZQzJoR19IaEc2RzlmNHlqZFU2dm1XcWlabWpFWWFISUpQNHE0R3c4WWxFU0ZncmRBeGZoV05QUUQ3YUVGQTRlNGVCLU5YLXJjSFoxQzN3N25IZHhxY2ZyUGVWZkF1V0ZKVXdOU0NXdVdHU29mRzg3MmxMalNnR0xTc3FidGRybGNCLW5iQVBvLWhqRDBjamxIUFdCUEV4QXJwcFJqWQ?oc=5",
+   "fecha": "2026-10-31T16:44:00+00:00",
+   "resumen": "",
+   "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-90741f30bb19",
+   "titulo": "Vista Energy aprovecha los altos precios del petróleo y prepara inversiones para 2027",
+   "medio": "El CEO",
+   "categoria": "Empresas y grandes negocios",
+   "tema": "Nearshoring e inversión",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTUtvZGZ0YXhJVXpJVE5PeHhqakJCeGxQOGpOc3lQOFN0b1JSVXVMNllKSVBvcFJNVl9kMjlZV2hrTjhNcU90SWdtSmgxTUFhSGxadWp0VzY3d19XVklQZHlTS0Q1dFF0NzB5bm1nVW5JdXk3cEpOTE8xcExzSzJRTkhtdm8tcDQ2VmtWajZvNHBfQ0lRZjdoam5MY0NtMkg2TU4taEln?oc=5",
+   "fecha": "2026-10-31T15:02:21+00:00",
+   "resumen": "",
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-d8a67e9843b7",
+   "titulo": "SAT hasta en la tumba: qué pasa con las deudas y los saldos a favor cuando alguien muere en 2026",
+   "medio": "Expansión",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Leyes y regulación",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjNkVnFnWXJnTkdFSXVqSzhuWFZlTndKTDVyZVp4ZDNGcmVzNWZ3UUY2SDNVSldtQTBTaEJ0MVZSNWo5QTFrVVBCWkJSV1Y3WUpWdDJibnpucDd1dXJzaUV1UTEzNHNuaDRPWkpNMnctNUhOODFQM1lhUDAwU0pCWVNtenJnYy1LVmVrM09lajJtTjM2UExwaDBCVG1ybk3SAawBQVVfeXFMUHFrVVlpOEZseXRHdVd4U1hEcFZLUE5BaXR4ZzNPWG5uQVlVQmNHZ2UxdThuRnFJUXgxWFRQREl3VHRtTFJ2U1hXQVJjbW9SWlJBbVZnR296cG9GUDNLNmNNS1JmYTZ5YmdOTlJQNUs1V1V5czdibHpfUzNNQkc3cUkwODdJZDg2UXJjS2UyVEFyeFM0U2M0cEJia1VndzlfblFUeHp1ZzBnLTFpeg?oc=5",
+   "fecha": "2026-10-31T14:01:00+00:00",
+   "resumen": "",
+   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-a79bad663677",
+   "titulo": "Fiscalías estatales presentan rezagos en tecnología para investigar delitos",
+   "medio": "El Economista",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Leyes y regulación",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTXk0SU1HaDZweGpRb0l3RTRwcnRhS2FNZzFFOHBGQjdqOHpBbFBMZEdORmtCeEhhVXNBN3QwcnlaWFY0dmxjV05RRkdBN3VDWW9yX1FJbXNSZ3BPS1oyd3VnVEhIcjRmNnNnaDBCbWhhcmZVc1VSYU1mQVctRG1KZ05Gbmk5dTRtVHBkNWZmRm1pT1hrbFBaUjJzaF9hNTRpQXlmOGp5ZUFrQ1VaSnZWYV9XQkluYWthYjctSUFoRW9TNk1udU9yUDRnY9IB0AFBVV95cUxPdmpsZWQ0OFlwZmxZOWs4YzVlbjZ1WTFyS1IxOGtueHBOdkdSUzFGRTEzNHBEakVsZW5BQmpKQTZzU2tLQVFfOGhWc1FDQ3Rqa1VNMy1MOEtzemVKdDZOTzA3RHA0M2ZmV0Q2dURNOUstclFNQmhDNVBjSnl6TWw3QW9NRWwtV19fWklaMjlzTFBra0RHcnQ3bFNKMEZkUjFDN2EtSFV6U3VhS0RmZGwxd0h1U19jdGM1REVMSFpXZnhLV25XbVdLVDlMMFBJT01S?oc=5",
+   "fecha": "2026-10-31T13:00:00+00:00",
+   "resumen": "",
+   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-11a63cf6d20e",
+   "titulo": "8 de 10 mexicanos viven en ciudades, pero comparten problemas de vivienda, servicios y movilidad",
+   "medio": "Expansión",
+   "categoria": "Empresas y grandes negocios",
+   "tema": "Mercado inmobiliario",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2J3NFpOTjhDOXZ0cVFvV1B3YWdaSTlsNFc1WklCQWxlMEFmVVdoeDBxUU8yRHJySXVFN3hyMlk2ZEN4UkNndXlkV1BYOG5qVG9hTkNpZmFMYXNQSURWdHNFVm1TOUI2ZUt3bFRWR01YUVBTVUFZYjUyYW1QNC1rTHh5OFByekQ2ZmstRVZRa2lnclJWanVxZUROOGRKNHR50gGuAUFVX3lxTE1GWkJVWWM1aDFTTk1ldnpxODdtWUVSVi1QSUJ1Vm5oTnlWZzJCR1Y4NWdfMUt0UlNKbUFaN18ybFJMZlFWQTlZZGs0d3N1YW54S0pNbDZTRExRMC1sUDBwUXJHdHRXS0JHdnpTTkUtbUh4V0ctYXppTmE4Yy10TkVaMnpfQmJJUlVESW1CSGhWWkQ3aUFYTHRJSUZPdzFzS0RPU2lKUDZFSHBCOERSQQ?oc=5",
+   "fecha": "2026-10-31T12:00:00+00:00",
+   "resumen": "",
+   "impacto": "Refleja la oferta y demanda de oficinas: menos espacio disponible suele empujar proyectos a la medida.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-9ce0e6464efe",
+   "titulo": "Trabajadores del IMSS anuncian otra megamarcha en CDMX; comisión ingresa a Segob para dialogar",
+   "medio": "El Financiero",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Empleo y salarios",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZUdSd25aMEw3T2hjMXlTWlNnVnNjdUpJZ0lCTDB5OUFfQ2tKbzVfckxzcVhMQnl3MVl3ODFpSGt1WDVsZ0tyR1JFX21PNVhMLXltU0hMSDduWVFnSHVZcFF4bUpDc0NjQkV6V1c3MEFVU3VYN05JRGVDZ3ZKOU4yZUJaRV9tZmdPMWNEX2s0NGpHaEt1aGc5ZHJ2WUdjSVZoZVRobE5LUnhCNnF5RHdTdGtsRUxXeHRfVzZEbXJybUY1cnBPZHd2U1Rmb25KekdqM04xNG5zZWRkSldzTV9v?oc=5",
+   "fecha": "2026-10-31T03:12:00+00:00",
+   "resumen": "",
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-29b5ebc6d963",
+   "titulo": "Trabajadores y jubilados del IMSS protestan frente a Segob; exigen destitución de Rafael Olivos",
+   "medio": "El Economista",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Empleo y salarios",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbjJqVDlaLV9iV3JZNVphZ0VqbEtRR245U1JSem1iR25rUG9SZXVQOWpzNDIxS3YzaE94ZUtIYnpQR3dQNnhmZXNaNWI3RnZIOEU1TG1EWHF2YU43em1QcDRBWU9kNEwwc01YTUJMdHF3RG10U3BmYjdVN253SlFWYlNMQjhZa1QwZEZhVjB3dEwtWHJXVjgyX2t6eFozVDR6MFJoZWRuT3prVklza1BnaXQ0Q0YyckJGelJadUZralpaM1BLRFYwcDNvYmpINjJmQ2NGcllSR2xJRWFVZVHSAeMBQVVfeXFMTTltaU9MT19zLTRGdFkwZWl3bUZETmZkTWdVNDZrUnI4RVR0OU5qenEtQTBjSVpoMFJjQ1VoRVFUWnF0aDBtLUlSY2Y1cmpBdS0zSkE2X280dVpoZ3Zfa0p1VXoyMXQ0bTgxU1hoRW5zRVFGUTZmQm50TkVJVVVRaWYzZ2JhU0t1SDI0NkVJZGhMLUViWXd5NjNXVlhReDZfdDAtY0FVaWthemZLZ0lSam0tTUt2QlNzLUJRYkhreUF5ZnlJWWduX0xLbG93TGdDeEdTcFFfZGc4NUNMQWdzUzE0azA?oc=5",
+   "fecha": "2026-10-31T02:59:48+00:00",
+   "resumen": "",
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-c1cbee12f08b",
+   "titulo": "¿Por qué frenaron la Modalidad 40 del IMSS? La pensión promedio es de 25 mil 377 pesos, dice Hacienda",
+   "medio": "El Financiero",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Empleo y salarios",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTU9MLTQ0MUhFLVM0QVhqeEhCM0dETXhmR2lwcTFiRnRUT2wxSWQ3c3o2dDVMdTZjZDJLZlhxb0kxSWhxazEyLTlJcWFCX2RRWnlYMGluVHlhcFZYU0p3d1RFWGV6THRja3JYYzZHR1Q3b3YtVFlXUHVOUmVSalN1WWlGLUh3S2tyRnR3RTZhbmhNNHlEaXd2RmpOZWdOekUwWURsWmNaZnZGdldpbnNvZ3EzRUhOaDU4M3hTUGFBY2FJZDNpRno1c3prQ3N1dkFqNkpTWjloRVpjV2lfNGpHQ29UT3NHUQ?oc=5",
+   "fecha": "2026-10-31T02:24:00+00:00",
+   "resumen": "",
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-b84dd3a875e1",
+   "titulo": "Wall Street despide octubre con números rojos; BMV gana 8.67% mensual",
+   "medio": "El Financiero",
+   "categoria": "Mercados, bolsa e inversión",
+   "tema": "Mercados",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMGNhTV8tX1EzUDhNZ2RoTUY2Vm5oM2R0SndxQnJWVUVTa0tyZ3ljZW1VZlFkWXRvZkxsdG1vTVJFcTJzQlNVYnBkVlNvZUx5aU4ycVpkYV9XOHlHYzh2eThKWEtKSThUeGJOQkpOeEczTGRIWlp2ZnRxWk0xbmxiSDFXTVZTMVZkZnF2NG1BVEcyMXBfQmZfZ1FB?oc=5",
+   "fecha": "2026-10-31T01:41:00+00:00",
+   "resumen": "",
+   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-c1d449640f5f",
+   "titulo": "KitKat, Telcel y Mercado Libre: las marcas que patrocinan a Sergio ‘Checo’ Pérez",
+   "medio": "El CEO",
+   "categoria": "Mercados, bolsa e inversión",
+   "tema": "Mercados",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KLU1uQnk1MUNqbWdOLVd0LXM1cFlDYVhBVDhTVHJBV1AxazQ2QTFhdlNCUFJiVVduSFBDU0lELTVCdnUwODhMaWhhOGNLcnQyMFVLNDM3LVR2bVJ5WlY5YW8taG9sZVJfYkNwT3ZNMmxBOG8?oc=5",
+   "fecha": "2026-10-31T01:22:12+00:00",
+   "resumen": "",
+   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-2da5d3a6044a",
+   "titulo": "Viviendas turísticas en CDMX: AMVITUR alerta por restricciones antes de discusión en la SCJN",
+   "medio": "El Financiero",
+   "categoria": "Empresas y grandes negocios",
+   "tema": "Mercado inmobiliario",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMGVEdHVEVUtKUXY1OENQTzJLWW5Ud09kSE9yTkx1d0UwVUhWUU5tR1JvaGFMc2hGOHVLaGc5YWtaVEtCeXJ2Q19jWm04Y3I5Vzl0Zy1HZ2pDZU5uX1phUnpaal9lY1k3LWh0dU9Va2hOdGZmV3J1X0k0YXRpcXo1YW5kT0IwRTdtU3h4LTNES1ZhU1dMS0VWMktxZTZVR3lqRDZBUGRsTGlxWmV5YV9kbkJ0TmtvbDJnek1qWktYU2lWQkgzRTRrS29SVzRsM09nLTQ3b0c5VUFqSGdE?oc=5",
+   "fecha": "2026-10-31T00:09:00+00:00",
+   "resumen": "",
+   "impacto": "Refleja la oferta y demanda de oficinas: menos espacio disponible suele empujar proyectos a la medida.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-548561e134fe",
+   "titulo": "Carlos Slim apuesta por el petróleo: de los contratos con Pemex a las refinerías de Estados Unidos",
+   "medio": "El CEO",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Energía y servicios",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tWjhsbEMwaDR6V2NQQzVNZHFmZ09odVBPcDJfMGk5QjRwNnhaaGEyODRjNGVIWUwxbThaRUpkQUJDLWlMV2oxdmhIdUoteHNTZVFFZS0yaEphbmRycDZxMjJoa1BrOWdRRHNobEdrdGpodU00bEt6dmV3?oc=5",
+   "fecha": "2026-10-31T00:03:25+00:00",
+   "resumen": "",
+   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-4b3994585361",
+   "titulo": "Peso pierde 4% frente al dólar en octubre",
+   "medio": "El Economista",
+   "categoria": "Economía y política económica",
+   "tema": "Tipo de cambio",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQThLNWxwaWJfc1IydjB5S0JXckcwZHJHbC1FeGwtN1drX2dYSklza1BlX05Cei0zbnRXaUd2aHlGM2xaMEVuMWtmUXZmd0xZVkFNRFNoSHpiRXQxTXlqOVR2SXZFRW9RSUZGOS13ampBbmxNbXBKNnJxSUVab0FfaDVxcHF4ZWJNLXVUUnpzWWpMdnZDWWxwUTFn0gGfAUFVX3lxTE5aWl9FbEx2Z0c0YzNjV25pckpUZU02RHNGR0Z3cnhqVTh5djJWVnI2RDRfQXVULXI1SFFWNmltd1A3c3BiMVVDdG5BR01lZDhHWEZSdTdSWmFJekE4ZWJFUGJ4RnJ2NkNNU1VjTkthc0NZRDd6VjBleG1DOExqTWtMaEg2elZhZTlyakdiUk1KNXlJZ3IzZldxS0NMbVEtWQ?oc=5",
+   "fecha": "2026-10-30T23:54:15+00:00",
+   "resumen": "",
+   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-3fdd67395d6d",
+   "titulo": "Arca Continental esquiva el alza al IEPS; ahora vende más Coca-Cola que agua",
+   "medio": "Expansión",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Energía y servicios",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkptVGhpMjVHbGFSZXU3QmJ3VC1DT2JpNlNXbGhnZ3Z3WUpiM1FoMFIzYnZXbW9SSWw2WTc0c1JxVU9IOGtZXzVzdUlpYmZGMmU3RlJwOWxHTXBVN3FvSUNhZUJqS1cwZGc4R1ptaFJXMDkyVk1YdC0zTEFaRzN1M1dYdlNobGVyOEN2RFQ2elR6WV9y0gGiAUFVX3lxTE5xWmNFb1lTVGxLRVhWd1JhY1ExWHZ5MkJ1YzFHc1Z6cHdtbmZQeFRVVXZNQTJ4WHpsZTRSemxyMTV0bVhhRksyNlNWemJCM1RtVVJfbWItcmRhY0EycHJ6X05CWllFYzRIamlhSVNmcFpUQ0x5UTU1eDQ3TkF6Q0xfZFBSVHJJLWxSeWVnNDJvZERfX2Z0aDBjNnJicGJPdjZxdw?oc=5",
+   "fecha": "2026-10-30T23:54:00+00:00",
+   "resumen": "",
+   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-fd170cfd86ca",
+   "titulo": "BMV de fiesta: tiene mejor desempeño mensual en casi tres años • Mercados",
+   "medio": "Forbes México",
+   "categoria": "Mercados, bolsa e inversión",
+   "tema": "Mercados",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ1hFLW1sa2JBVXo5Q0o4eWNSMEpvT2lleXpiU2Rsdnk5LW42XzNnc1JWVTI5QlR1UG10SlZyRW5IWXR5TkhlX1ZNNlFqUVVhaHp5NmFCdm5xYmtkSHBLQXRoQ1pQTVRRV3lwMHNUcmNnUFJORUM4aFAxTFUxa3lkVUF3N2phYW5TMGh3ZQ?oc=5",
+   "fecha": "2026-10-30T23:21:00+00:00",
+   "resumen": "",
+   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-84509c67eb74",
+   "titulo": "Trump puede perder la prisa por el T-MEC y México aún espera alivio en aranceles",
+   "medio": "Expansión",
+   "categoria": "Economía mexicana e internacional",
+   "tema": "Comercio exterior y aranceles",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM2ZyejAwa21iNUhpX05ZdHM3Z2MydnNwZ1dLTmVJbzdKcDlQb2xubWd0dmpzUFVRNF9wY3NWMHdTVXZ6WTIwcng3UjgwNjNIbVc0d3hpMDZtT3JBRG5aRG5VbUJvUTg5OHpfT2Q3Tlo0aXBKZWFNc0NFQ05hQ1NsTDdTMGRfRC1xYV9CRGZMT3plX21FQzdMONIBpgFBVV95cUxQSFA1eWFwcTBndTdYNXJpZUJLajFUM3Z4elR1SnFYa0VwVHFCX1ZUVXVmRzZjbE56OFVZanRUOVdmb1dJNGQzdUs0UjBENGU5VnBvWHVtWFFqYVVLNzVndTc2S1RCN0licjdFTGN5X0N1MWozbUw0S3NkZWdFVE1CdjVCc2NGc1FFd0JaWlp6bHZMT2VOd1IyYTlNQUtDbWwtVzRfbUd3?oc=5",
+   "fecha": "2026-10-30T22:37:00+00:00",
+   "resumen": "",
+   "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-27be635af9ef",
+   "titulo": "Marcha trabajadores del IMSS hoy: exigen destitución del líder sindical Rafael Olivos",
+   "medio": "Expansión",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Empleo y salarios",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnNNeVVldEtZQkMzbXA0WE5WUlM1UUd2dDdDQnRsRVR6TC1mb3lZRWZ6bi02dTIxVXR2U1RXWlROelpBSVNZcHR6dHJPdU1QRGJHT184MlJrXzVUQWJ4bFhKZzlDaF9LcWlOdUtVakJDVkwtbW80MkQzYlZSU01Wc3hYV1hWeThEcVp0dUZrdUN1TFcwdFFjanhPdnZXTzFzUG54eHN30gGzAUFVX3lxTFBCVlRLOGFBQy1zLXNGLXFWaW1Md1Nsc09hVURyQlVtZDlCLVFyNm5YQlVwQm45SDIzU0R3TmM4N05fWDl5b2NhWDY0cW5HTXIxM19JWE9raTdDN1ZRMkx1YkktUmx0N2tyS0RXaXZXY0Nid3kyak1PYWtuTDg0dWtxbVBhRXZnME9USnNkQWN1aS1hczMxa1Fva2FwM09peGFQN0hYMlAydTN1bDU1ZkdFY2lV?oc=5",
+   "fecha": "2026-10-30T22:32:00+00:00",
+   "resumen": "",
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-1800dea5f91f",
+   "titulo": "Wall Street cierra con fuertes pérdidas ante dudas sobre inversión en IA; termina un mes mixto",
+   "medio": "El Economista",
+   "categoria": "Empresas y grandes negocios",
+   "tema": "Nearshoring e inversión",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVHhYOTNzODhFN2lEZUNXSHhWWDBiVm9oOFplVVYwSkh4T3JoVlhXTWkwYTBweklEWmpTSGhLUDVzQW5WU1A3SGtVNzA0Z0RjV2xMaGxXcjNDTy0wZ3lDb05SVmZLVGlIcmRGVHUtZk9tUXJZODdPT01RbnZOb0p5NDNFczc0NzBXSllvSWRtVzJ6dTUtdnIzamxMLUxqQjRlODI0TWwzaDZ2ZEFzMld1RFBJWWZzNEZMTzJPX1pNM3pzOVUtel9HbEs5R0h3bWFQQkgxQWVyVdIB3AFBVV95cUxQVS1zNklGRzNYX2MxRGdfQlFhQVJXWFBpSVliUTQ4eExmbXJDTG5BNFF4c1F5eG5TYm9fRE5zOThUN09PYUtjOEQtd2RleDZkdkJ1LVJHMjgtTnZ2UmRBSU4xalE4ZTlNRkdxYUlwQlRvUUg2TDhvSFN3cFVPcjJnLVR2M1dsM3VkejRZYnVCcXdNd0RtZU41RDhZdWdlVjJNMjY1Uld6QXVMamZSdkpDYzFBM1BZMFU1WkZzX2JEYmx2anlRamQtQlUwV3VCeVQxcXZxOWNKckpfTC04?oc=5",
+   "fecha": "2026-10-30T22:30:26+00:00",
+   "resumen": "",
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-48eb21cb7495",
+   "titulo": "BMV y Wall Street hoy: así cierran las bolsas este 30 de octubre de 2026",
+   "medio": "El CEO",
+   "categoria": "Mercados, bolsa e inversión",
+   "tema": "Mercados",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaGs4QVg3b1pvVFdnTGZ3amZUVWFxV3lmMEpKUVdzNm55QzFlLTVCZTFMbVhaMS12cEJDNzZhTVJkbTgxelVMWGRYNV9JVFVFUGRzS1dzdnFHR3NhamIwc3Btcm1BRGxZUklRajJEd2FzLWVSbU5HY2FmZExJMi1NdmZMUUJUVkk?oc=5",
+   "fecha": "2026-10-30T22:07:52+00:00",
+   "resumen": "",
+   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-53ba96ae052b",
+   "titulo": "Elecciones de medio mandato: cómo intenta Trump conservar el Congreso y qué pasará si lo pierde",
+   "medio": "El Economista",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Leyes y regulación",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc1ZuY3pSWWJXTFZHVnpLekRsVU44ZzBNeUkwWGhDSWxhajJzdjhseENZUUc4UDFDNGxjUGVHbzBXNV9fNXRlTU1pNzJyd29kRU84WUtvdzRTc3g3U2NkWUN6MkFsRGJ3OUxxYzBJekdlR3FwVFNSNjJrNkZjcEpPa2tIUmhaLUZCSVhPOWk0NWVERjFIYy1xRlZqUFNTQ2hhZ0RXT2piTVlNTTVfYkMtdmhtWjQ5SV9hQzdveDVMdEw1ZEtTZGpQMHpBOVBoWl9OblgtZmVSZ9IB3AFBVV95cUxPUGI5V1BWZ1Rjc2hLU05DWW1DZDgwRDN5Z2tmQm9uaGNkM2RNR01fNU14MFV2eTJ3X2tJcHhzVGhJb2lOTVBSQXhRTmdmMXpLLUxLVzBRQVJYM0xOeHNaOVdpazd1Ml9PVDZwWGpadTNZaXl6UGRnSEVLZExnNFBJcFo4UUtmdDNDYmZscG8yWGRIcDg1cUd6MkFoYjFyMlByUGJONkhmczFUWEtmbWlQaVhxcTFaSzdVazdLdHpMRllUMGx1U2hmWWxjRE1BV2tuTTRGNUdDMHJXLWot?oc=5",
+   "fecha": "2026-10-30T21:53:16+00:00",
+   "resumen": "",
+   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-070ae5925d3d",
+   "titulo": "Peso mexicano suma su octava semana con pérdidas frente al dólar, su peor racha desde 2016",
+   "medio": "El CEO",
+   "categoria": "Economía y política económica",
+   "tema": "Tipo de cambio",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOelZVS1pqMmVUa3B3TTFxM0dnS2dURU5tNXNoMzlSUHZsZV9MOVlnUVZYUTBxVm1uYVpzOTROZkRLRXdGMEh3Xy1nbzJ5X29jWmhVOHc2alZSc0JxdWcwMDBON3pUQWprUUY0cE5iekw1NWU4eFVRbnRLUFBaXzk5RWVaSEZkZw?oc=5",
+   "fecha": "2026-10-30T21:23:23+00:00",
+   "resumen": "",
+   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-573f580f19cb",
+   "titulo": "CBP alista revisiones anticipadas para empresas mexicanas que exportan bajo el T-MEC",
+   "medio": "El Financiero",
+   "categoria": "Economía mexicana e internacional",
+   "tema": "Comercio exterior y aranceles",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV3dKcFd4bUZqSnVpVDFoajRZdy1XalU1ZHUwNFlYOFRUcEI5X1REU21BMHF4STNQWHljVEh2S2lVSzZXc2FkZlNvb256ck5WYUxEaHBMOWlNMjlpUHJwcDFzMTB6T3RjejVDYXZqdXd3WE9iQkRGa3R3WWtpZ3d5TUstZDJwZmRpLWZPcnZQcThIaDNMbzdvcGtXNnN2MFEtNTZwNTBmX0EzMGtfQ2pwX2IwSVBBV1U4NW9xY01hTENrajBPYVZ5WVMwbUpLR20yYWtR?oc=5",
+   "fecha": "2026-10-30T21:10:10+00:00",
+   "resumen": "",
+   "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-7e581990417d",
+   "titulo": "Nasdaq tiene mayor descalabro mensual desde marzo de 2025 • Mercados",
+   "medio": "Forbes México",
+   "categoria": "Mercados, bolsa e inversión",
+   "tema": "Mercados",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHB3akluYkQwZ0NJbUo2czQ1VzFGOEU3aXJJZksyS0pVTUg1M1lnTzhOdE9sVGVKSURSVTlkb2RFLWhlMEhiQWlXSkpxX0wtMzFLblhfbFFrbXJGMFBaOENvWTJaV2pNUGZRVVJhLTNVcmFDdnhyR2dRc1cxQzlaN0swRnFLNm8?oc=5",
+   "fecha": "2026-10-30T21:04:00+00:00",
+   "resumen": "",
+   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-93cd85f47450",
+   "titulo": "Pemex y Petrobras buscan concretar proyectos petroleros en corto plazo tras triunfo de Lula en Brasil",
+   "medio": "El Financiero",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Energía y servicios",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQk9Qa3dqbkJZc3JVLTNVLTR4TGdKNmlwS0NfQjVtQ3B0Ni1WMnphVllraktiUXZIaDhwc2NKSVJkbEVDendrdEpsUU5DSTZ6aFhQaHJBSy1EbS1hYUFIaVRmdEVkTHdvemZZdnBaMHg0TFNJTi1DRkMyejNOaDUwTE12a24tSEh2b0x2eUsyTUlOM0hxZHc2el9DQ2piVlA3eG4xR3dZSzc2WGJsTzg2eEM0QURRY3pPR1E4cjFjdFpyelMxMFlFOEYyRFUzNXZaR1VaNDZacmZuN05lYWZOVmNjeHp2a1d4SHc?oc=5",
+   "fecha": "2026-10-30T20:57:28+00:00",
+   "resumen": "",
+   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-e6a2c0cde191",
+   "titulo": "Yen se aprecia por tercera sesión tras decisión del Banco de Japón de mantener su tasa de interés",
+   "medio": "El Economista",
+   "categoria": "Economía y política económica",
+   "tema": "Tasas e inflación",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW1yNkw4UHJwNmVHR2RfWEZFSHpVc2E0SXJiMll4bjN2amhDYlBFZy0wMnVCcDNuSklnNzBPazhyN2FOa19jTm5RTWhyWl9IX2N6NTB1MUxwS09wZndCQVBlR1hSY2RIb1N1Y0o2VlRmcEpDQTFvMFpjam00WldjQ0hBX3lRX3Uta3V6MXRpeUpiZXNtRTQ3cWc2ZjNqem02YWdWSHJjZUFJOXd5MTBVdXA2VFZwSVVtVmJBVFQ1YzFzU1hsenZsclJLONIB0AFBVV95cUxQMi1zRHo5eGplZzhJcDNZZkVKRTRoX3k5Wm80M0hYeTNQQ1BmS3JoTFZqUUlRM2RJaGczb1dXZ3ppUU5XWTZiejFPbjh2eS02N1pQbV90LXo2RlJpQ1h0VHNvWEhLV0hsbE9jM0UxalFuTEgyWEZMVFpFbDZuQnhCdGs1dU1QNEJtaURlRUZWT0pFMGtfaE41TFczNm9WR24zOGg1c0RBMks1YzdaNGJ6NWNlUHNkSGNCWjhlNzVZMU9kT3V3VFF6X2NuMTZ1WTJz?oc=5",
+   "fecha": "2026-10-30T20:56:14+00:00",
+   "resumen": "",
+   "impacto": "Las tasas y la inflación afectan el costo del crédito y la decisión de las empresas de arrancar o posponer obras y remodelaciones.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-6adc17cb2c67",
+   "titulo": "Arca Continental, embotelladora de Coca-Cola, mantendrá aumentos de precios por encima de la inflación",
+   "medio": "El CEO",
+   "categoria": "Economía y política económica",
+   "tema": "Tasas e inflación",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMnM3cnZkcDNxZmQ0ck9pbGVhbnhNcWVNNDlDNjQ3ZnI0M09VbllINVVudGxxNGhVck92S2RWUHFlbVRqd0J2cHhRNEpfMHZNNXBTejc3eExJQzdUN1NQUGx1Qk9fakFISlh4UVIyTWw5Y2dQeUt0VWhLY0c5VGFpN0JpLXV4ZkY2aV9EaGhnTmlqenZsOEZMZ1VPUWJ4WnRKWFNHR2x0WERSVHdtMEt5dEZn?oc=5",
+   "fecha": "2026-10-30T20:52:51+00:00",
+   "resumen": "",
+   "impacto": "Las tasas y la inflación afectan el costo del crédito y la decisión de las empresas de arrancar o posponer obras y remodelaciones.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-3bbd0456aa54",
+   "titulo": "Peso se deprecia 4% en octubre e hila dos meses con retrocesos • Mercados",
+   "medio": "Forbes México",
+   "categoria": "Mercados, bolsa e inversión",
+   "tema": "Mercados",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzJXZXZxMk9ndTRpSDhYZlJSMHZCZXRIbnVLUkZMdnZMNU1Sd2F1RlA5N2w5U1VJaFFYNmhBWWtrVlhGUThIcjkyV29aZ0ZNeElwNi1ZQVVtaXMxT010MGlPcHJDR0c4THNaQ285S2tOYk82bk80cnhxWkdYaTRocVIxU28talIzLVFrcA?oc=5",
+   "fecha": "2026-10-30T20:39:00+00:00",
+   "resumen": "",
+   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-394c2bb0bdc5",
+   "titulo": "GWM H7 llega a México en el tercer aniversario de la automotriz china en el mercado nacional",
+   "medio": "Forbes México",
+   "categoria": "Mercados, bolsa e inversión",
+   "tema": "Mercados",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVU1fWFJGQVkyY29aSEJaYm5iS1dFMjYyWW1yQ0tSMTZBU1BRZW5VNmk2X25jeWlFSXhwQWhJU040N05KUElkODUwRWowRGNEdTdKWmhCekhqcnhCU1dlSGN0V0h0U0tzLXRuN29VVG9DSTN2RnY5U2xIR05QbHNfT01jWlBDOXpRRklWdV81SGtFc2JyTk1RbzFZdWZuRUZoSlZVeUdyTU5xc1l2TWtvN0lvNUJyVTY1QkE?oc=5",
+   "fecha": "2026-10-30T20:28:14+00:00",
+   "resumen": "",
+   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-7ff4a12cbf45",
+   "titulo": "Pemex pierde 10,795 mdp en el tercer trimestre • Negocios",
+   "medio": "Forbes México",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Energía y servicios",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tVkpzdURnamNjVm1ZUm12ajhlbDNZVzI3QjlTbVE3QUltdngteFpVY3NxakhHeVBSX0hPNlVUVl9BVEdNWkhzV20wdmlWLVFkOU13TF9mLTdXcVBDbEc2RlJyUTg2ZWt6QmxOa3lDMndhb3JhMDdR?oc=5",
+   "fecha": "2026-10-30T20:15:00+00:00",
+   "resumen": "",
+   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-ace1477a9f61",
+   "titulo": "A un año de la reforma de plataformas digitales, menos del 15% accede al IMSS",
+   "medio": "El Economista",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Empleo y salarios",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnFEaVNkanRwSTR1c205VUE5X2lQTjVsN2I3d28wUTZ2OVo2YTlpTDQ0a2c2ak4xSEYyOFBFaGZENUJJRFRfejJqeEJHZ2E0cXdqT2pUdEFOOWh4ajQzTGhjVXczMndjQk0zcEdyY0F2ZWhFU01KU3FCRnlPc3M1UzFmUmFYTEl6MnptbzBmSHZ3aGhqTW9PZks3aF9ISnpySS1GSXB5RjhJRWJoYUpR0gG0AUFVX3lxTE82Y0wwc0d6ZVN6VG51TU1qdUI1Q1R3bzNteVVMSFhmdS1iWmc4ZFpfVjBNUXdPR3VXRVRubE01bEpvU3NRRkhlUzhSV1hJcXRxSHdSemxTbnc2WW9XemNscF9SbDY3dEdodzItZ2kxc0hWakZOYmlRQmY2elFEMlZxdzFmcVA5Zm9GR2V3bkU3UGdYRmc4OGlnUTkzNUZ0RjFCNFpBWG5ULWpJUl92bHhIVlJzTw?oc=5",
+   "fecha": "2026-10-30T19:11:02+00:00",
+   "resumen": "",
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-70877e2ac2f1",
+   "titulo": "Reducir incertidumbre, clave para reducir la inversión, dice Vanessa Rubio",
+   "medio": "Expansión",
+   "categoria": "Empresas y grandes negocios",
+   "tema": "Nearshoring e inversión",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYnp3cXpRRU5YdEtxa2o1el9rNWZrUHVfaXV1d3I2VlAyNTN3UDRjdU02Qm12MjBNV2hYMzJhbTE3NXRtek9oOGhzV24zU0lEY0JVVUlhXzBGVkxUNkx5SVBZdVlPZVNuTlU2bmh0VUJSTVBZTFpsXzFINjRsRlR2SjNrYndnMGVRTGdadjhQdzRIYWN5RkItTTFMcEd6SldOSFFRWFZFV1ZPdXlMRGFwbGhWQ3d0V283M295NFFR0gHLAUFVX3lxTE80ZHVTNl9qY19PUG5xMzRxYzJrRXhwQjFlUWYyNDlEVUNYZTFrOEp3VzQzZ09UakJOMVhSNUxkUnlkc2xiWG1DRUM2UHBLVDJkRmE3VHdlX2J6d3pNZmNwN2p0Z2MzNnlXbGJCWWtIeDRVZ2xMSlJuanlkRFpvWmFrUzhHODJmM2dyd1k3S0JFTGI5eVdMNWQ0MzRvREFSaFlTSkRjeFIxRjdmbXJSbTB4eGxiY2ZOc0lnRWpDb2MzMWhhTkFlNmdoS2ln?oc=5",
+   "fecha": "2026-10-30T19:05:00+00:00",
+   "resumen": "",
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-21995a6e4614",
+   "titulo": "La vez que Checo Pérez demandó al equipo de F1 de un magnate indio, salvó 400 empleos y quedó sin escudería",
+   "medio": "Expansión",
+   "categoria": "CEOs, empresarios e industrias",
+   "tema": "Empleo y salarios",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWtseGV6aWQ4TnlJTWlCV3VDZ0tjR01vTHNUdzk3ZkJXRVdjRnpESDByWEtiNFFkZk0xa09JNTZRZHBNb1RTS3UtclhJa1JZNDB1ekU2SXpPRld2aThEdUtldjlBYzRXR0xoYkg5OTRsdVpmTEUydVFaVGVBNjRZbkFtcUVTZlJfQ1pYNnR5RzdFZ2NSc1k40gGkAUFVX3lxTE1hdDNmam1keUxOQ0xyMVRSOTVmQjlZSUdPdUVYWmJtYWt2VXpSc252LW5pSXpIV0JSWGJTeVFUbTMycXVpMk9Ga3U5ZTFrOVRLdnRlM25KNE1XVmJRWHVuNXdybTNXTzlfRkRYc1NtVU1hRTFSQ1FOSmxjWDNXQVFWa3JFdm1SZllKREdzOGRDbC1SQ2k3RTVVaEU5d20wd0k3eG1q?oc=5",
+   "fecha": "2026-10-30T18:51:00+00:00",
+   "resumen": "",
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-404f4c0ec6a3",
+   "titulo": "Pemex pierde 10,795 millones de pesos, aunque reduce su deuda financiera y con proveedores",
+   "medio": "Expansión",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Energía y servicios",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnJ2QWtEQS1iREM5V1lET284TU53dWoxVzVhOFI1SVpreVE4ZDN0Rkdrd1lFblZYN3Q4UHRFdDZTTkM5dHdzNHExRlZqN25qS2VyMXpHTFNFUC0yekFIcGh2N3o3YkxnT1RiN2RRbkpHMm5lU0xBRlEzZ3E4aUM0MFRRdHhPeEI0TF9wMVdPdDZhaWFZWmRZ0gGkAUFVX3lxTE5FeFdaVnc5VXpIWUd4SGdpMno0dFlHYS01Qmo5M3dhNkpXUTJCT0xDUXRHX0JlZHQtYmJvb0tuUHVWbFh6M1RNLVlIUUpsdmQ3WGJkcEVjNjRoYnhJNHRUdFl5S1NIRkJUTm40X3ViSnFJXzFzVFFRb1BiNUtjM3VIVDhoN01rd1lLSHpldXk2QnBhT1lPdjlLQ1ZmaWFBYkg4amZU?oc=5",
+   "fecha": "2026-10-30T18:32:00+00:00",
+   "resumen": "",
+   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-3a2bd482a1f3",
+   "titulo": "Japón invierte 1,300 millones de dólares en México y refuerza su papel en la reindustrialización",
+   "medio": "El CEO",
+   "categoria": "Economía y política económica",
+   "tema": "Tipo de cambio",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTURzSlUzX1A5MEMxeG9mX1d5NTJHb1Z6M2VYSnJXbDNUYWF0TW1KclRyYmNnZXNXNFJJNTRtdld3QkpyQU92bThhOFl4R19GQzlRbWhDUjdSTUZENThoLUZmeDVXWjhsTk8xSmRwRk9GWW45UHdsUWlZYlQ1WUhfcTZwMVpvQnpTSFpoc2Z5aHR4YUdlY21QbTgtbDRKNkNta3I3eXRMaVdNdw?oc=5",
+   "fecha": "2026-10-30T18:03:19+00:00",
+   "resumen": "",
+   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo.",
+   "enriquecido": true
+  },
   {
    "id": "nt-ff82dfb1e81c",
    "titulo": "Nasdaq enfrenta una caída de 2 billones de dólares en octubre a medida que se agudizan los temores sobre el gasto en IA",
@@ -50,7 +458,7 @@
    "categoria": "Gobierno e impacto económico",
    "tema": "Energía y servicios",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXdwSlBQTTY2MFNFYXhXaHVCcWtnbHBmLTdiNmFnb0taMFgtOWZBRTZyQmxCd2JFOVZOQjFTb0EycFRfZk1WNkpkZVdSOERIQ3QzbVhGYS1xTXFGWFI0TTIwaUowYUVBcExlb3gtUWVHZTlCU1YtYm5QdzBTd2N1cw?oc=5",
-   "fecha": "2026-10-30T17:23:36+00:00",
+   "fecha": "2026-10-30T17:25:05+00:00",
    "resumen": "",
    "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas.",
    "enriquecido": true
@@ -63,18 +471,6 @@
    "tema": "Mercados",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWhTNDY2WURrUnZhbXJQd3JYd09SdC1wNlZJaldWZVY3QnQ0QVhuaXdYNl9nVXVMaEVtOHdrZ0ZtUDJ1NnRPUFB3R1JXOVVkOEkyWURiWE9LWkIzSDVRZ19IR0ZzZVdrYXY2WGR0T3JiUHMzUUhXd3d3VEJFcWZRempERW1qckNGVGVoTGp0XzNldFRhbUJfY3d5Nko?oc=5",
    "fecha": "2026-10-30T17:10:56+00:00",
-   "resumen": "",
-   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
-   "enriquecido": true
-  },
-  {
-   "id": "nt-b84dd3a875e1",
-   "titulo": "Wall Street abre con pérdidas tras resultados trimestrales de tecnológicas: ¿Cómo opera HOY?",
-   "medio": "El Financiero",
-   "categoria": "Mercados, bolsa e inversión",
-   "tema": "Mercados",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMGNhTV8tX1EzUDhNZ2RoTUY2Vm5oM2R0SndxQnJWVUVTa0tyZ3ljZW1VZlFkWXRvZkxsdG1vTVJFcTJzQlNVYnBkVlNvZUx5aU4ycVpkYV9XOHlHYzh2eThKWEtKSThUeGJOQkpOeEczTGRIWlp2ZnRxWk0xbmxiSDFXTVZTMVZkZnF2NG1BVEcyMXBfQmZfZ1FB?oc=5",
-   "fecha": "2026-10-30T16:50:19+00:00",
    "resumen": "",
    "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
    "enriquecido": true
@@ -93,15 +489,25 @@
   },
   {
    "id": "nt-70e950329cdd",
-   "titulo": "‘Calaverita’ para el peso: Gana 3 centavos ante el dólar por posible aumento en tasas de la Fed",
+   "titulo": "‘Dulce o truco’ para el peso: ¿En cuánto cerró ante el dólar HOY 30 de octubre?",
    "medio": "El Financiero",
    "categoria": "Economía y política económica",
    "tema": "Tipo de cambio",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVd2N0szcm1fRDV6Zy1pUWhwLVQyZmJQV0NFNzdHMFc2cEJEMWVRbngzXzJST1QxTmFaRjF4Uk1Ib0xtWTItTHZnUGdZWHNQM3ItLS1FcXdLWWVNTEYzWG9kUmYycXFQSk9LczZFanptZmZOZW1PYmIwVjB1RHZKcVJDbUZYYUJHRmdyV3pBRV9XMDhCbXE3Z1hDM2Ztbkp2cDlsa2x2NA?oc=5",
    "fecha": "2026-10-30T16:38:11+00:00",
    "resumen": "",
-   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo.",
-   "enriquecido": true
+   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
+  },
+  {
+   "id": "nt-374e33abec7a",
+   "titulo": "G2B: la apuesta mexicana por un modelo integral de construcción para grandes inversiones",
+   "medio": "Forbes México",
+   "categoria": "Empresas y grandes negocios",
+   "tema": "Nearshoring e inversión",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTV9VT1luUDlXQmJpRnMtZlNWUVVyeGRIZFZjS2wyZWtwM1ZMVjhySnM5djU2czQyMnZiaHVRdGg1N0xPR0pRZ1BUaXkyZV81WW9lZTZ6Mk1XejJIbWVqZDNEZ29mb0Z2RS1GRWxfTE1FMm9sY2JhTGJha0ZEdHBUM09fcGc1VUt0enFwTkkxUDV4cUF1OG9HdzlWTHh1Yk9famFWdVB2SFBlaWY1bjFhdk42Yw?oc=5",
+   "fecha": "2026-10-30T16:25:00+00:00",
+   "resumen": "",
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
   },
   {
    "id": "nt-6394fb1316c3",
@@ -116,6 +522,17 @@
    "enriquecido": true
   },
   {
+   "id": "nt-f7d7c4abadbc",
+   "titulo": "Pemex perdió 10,795 millones de pesos en el tercer trimestre; deuda con proveedores baja",
+   "medio": "El Economista",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Energía y servicios",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRTJFTi1xNjBtRTJXNm5QaHo4YVlhT1pZMjNVZHBaRmphdk1kM2M5R3BaZC1iSkw0ZEhsbXNPSkhxNzgxZ0FzZTlzUVQ3UVVrVHRNcUVuLTg4WElrM0Ftbk5TVGRwLU1zVVMwQnlyd2IxR2lwX2hfeVhzdHRvWC1JSE9xU2FVejA3YTFTS2dtT1pCX3FObUtyWmlFbEYtYlE4QzY5c1ZvMnJ3eDlZbEJDTTREY01MUDBEQmZuRlFMLWpFdDgxS1NBTG5xWXRXNUFFeVHSAdcBQVVfeXFMUEdhX1Z0YVRuMFFlcXFMdGprRVVvLW9QSmY1OUtyQms5VlV1eFY5empJb19saHhZaTdBdDlNN2ZROGF5cFNxcDYzRENjWmx0OE9uYXozbXdnS0xyUGpqUFdiWFE4andsaTdKMk9MQno1eXNxaHhISXM1dFAzc3pqcDdjNmV2eGJWMUljUXBRMWRJeWpuN1hPc2pBQkQyVDNNWkxCMzYycnJWdzNPOGtyZWk5dWJoTzRxRmNhZk41d3NJMVhEMWs3d1ZYb2QtcmJJT005ZUoyLVE?oc=5",
+   "fecha": "2026-10-30T16:14:28+00:00",
+   "resumen": "",
+   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas."
+  },
+  {
    "id": "nt-3e655ad1dd1b",
    "titulo": "Bolsa mexicana opera con pérdidas ante presión sobre mineras; perfila ganancia mensual",
    "medio": "El Economista",
@@ -123,18 +540,6 @@
    "tema": "Mercados",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOFV5MTA1ell4VGZwZU5MY0xQN1pIUTYtREZKLWc3dHZnSFJLYlhuU0k5aTR1bzdBMWw1bmtwckYwdHBIUi11cUljWEdOYUdEVUJSVU12dUJiUTl6azNlX2ZGZlg2TFhJYUhHZjVxLTJwbTF4MFlTeUhPV2g2bHBaZm5tZF9QMDBXbFZYRGlaSjFXY01sRWZSSFpPMlhtSUtwY0FtWE1xbm1GaXFUQjRGdTZHaURWSk5FRDRBWmUzb3hxSURUbnVnRjVVTEZlU0lhdGJLZ9IB2gFBVV95cUxNNFpsSThWOUhrNEVSNnJfbmt6N2hPQWppUnRPMXVFcU9JU2pJNGFzWFdWT0N5SFZBYkctd3dSZEJnR0dfZVdFLTl3MzNVUUlQcnVrRWNQUU9xS3VtY0Z1NWdoNW9GUUxvXzZFaVNGSXRVeTFzNGxOM0xveFJCZ1BhdnlkRzVSeWNTbUJnWnlEMVJEa0ZtYmV2NHl0LVpZRDYxNG1VZVZCX3pzWi0zbjRQR1hCcHQ0cHNxZ1gyNnNVTXBScmw2Qk96WEI3a0QySGdHNFRWWVpZd0lhdw?oc=5",
    "fecha": "2026-10-30T15:52:17+00:00",
-   "resumen": "",
-   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
-   "enriquecido": true
-  },
-  {
-   "id": "nt-857c84b46d1e",
-   "titulo": "BMV y Wall Street hoy: así cotizan las bolsas este 30 de octubre de 2026",
-   "medio": "El CEO",
-   "categoria": "Mercados, bolsa e inversión",
-   "tema": "Mercados",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSHBnTk90TTBHUDRsVkZ5S3V0blNXWWJvS0piWVVNNi0wSEJsRDRxZ2VJU09nSHdoMFk2NW16bXExc0NRcVpPSTFyX24yUnVCRFJIRTFIcGFVRlNGVzRtRHFRN2podFVzYW9VWUtORkl0Mjh6TVE3Z1dlOEVHdVZ4RjJJQTlfdVl3NHc?oc=5",
-   "fecha": "2026-10-30T15:47:12+00:00",
    "resumen": "",
    "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
    "enriquecido": true
@@ -148,8 +553,7 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXZPNTZyazYxLU1aMnpUcFlFRUlQeW5XS2VtTnFXV2tfX3laMG1HcTNvenJBY0tvR3pjVmNzSzh1VGs0Nzc2OWowbWNXaGI3ejNUR2hTOXBGQzdHc3NFUjNTeTJNYmFtNGp6ZTdqRXBrcXg4TzNmVHV1Ry1acUp0NVlCV011NlhwQzRlMjVIWE1hMWNsT0wzRFNmZTNNNXB5eXcyVHVCUDkzRGJV0gG6AUFVX3lxTE5MY09MU2w5NlFaN3ZQanFVYTZ1RkdTVTBDSlFzdVRqaUVjdnlZd29iWUJwWFB0NVdOV2ZqdGg3WFEzNTBWbTdBOFhIT0N0blFIMnFuV1F0QXlxZHdfZUt0cmFfMzhPRWo3RHIwRmowZzctMDR3S3doV3BINDVmVWFRejN0aFBzQTZDWC1PaV85YnpITDVHLWx2aF9hRGs1N01WMVM4d1VIMmRDejdEbEJiRi1wOUY1cW9OZw?oc=5",
    "fecha": "2026-10-30T15:32:00+00:00",
    "resumen": "",
-   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
-   "enriquecido": true
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto."
   },
   {
    "id": "nt-c6e109acdbe9",
@@ -160,8 +564,7 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQjg1aXhSTXdNWElnejZXZHdvbDJwTEoxNjQweHA1ZnZyam03SlJBWUdhY3ZWZmtvZ2tCRkRMRXZ2dkpCZkI4VmdRdU9qVFhYWXhVYndYVGtGZ1g5RkdRTlpGRVBmQXVTSWZnM2ZMVzZwQWZYOTktdlZmemZUVGlNbG84VGFEQm1UNHBaN3EyN09nbW9EcGRESFFydFFPUDE5U29EZUVkVVlUUjNp0gGyAUFVX3lxTE94YkhDLVBXbnkydFlFQUJiekFuMERjMTQxVjE4aGxZX183R3BKRHB5aTZleEkxMjlVNXRFcDNPbkVNUWNZTFpHUTlGZ2lwSUVzS1g3ck9PVVJqT2pPSkdCMjc4NGZudFRzZEFHcnlZalRGZUhNNFJlLWY3V2FScVdrNU12VlhpUTlzVnctcUh0elFHaHBGUExELXI0RVpjaGFLLW5uNWp3eUVPaTdxNTZXckE?oc=5",
    "fecha": "2026-10-30T15:14:42+00:00",
    "resumen": "",
-   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo.",
-   "enriquecido": true
+   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
   },
   {
    "id": "nt-e8acb3c0108f",
@@ -172,8 +575,7 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2ozdU1ZcEkyMUU3a3VVdnFoZnVCYU42dmgtejNQRlpxQWJ5WnNpTHg0Y0RuU1djbjdsT01LcU5ETWVQak03WGJvT2FhTnNnQVE2eVctOC1qejVfdWRCSWJFQVloajhHTkxlYzFPODV4dmNzX1ExZmxJa0kxYUFDMXhpWlh3d1AxOTlBUk9iMFRmanhMV3dwVzNvbjd2TWk0a1FRcDdTcWFXTGduV0NSb2M4QU93QnQxV1Vz?oc=5",
    "fecha": "2026-10-30T15:04:00+00:00",
    "resumen": "",
-   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
-   "enriquecido": true
+   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos."
   },
   {
    "id": "nt-3a3f658f8c17",
@@ -184,8 +586,7 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2xnQ2ZuRVQtMVZlcjEzSkRWUWtiTzJvdnNLU3FRbkhPcGN4Sm5fVHIwVEJxZUh0Y3BmYnh6Njk5OEpjOV8zVmJpcHlNcXlQc2pEY0hXeXF0UFN0YktEbWx3bm1EelJDemY5cWZlcXNIZWxWeWJKSjNaT1h0bkdlbHV6Z0FPTnM2b2g0ZFM2RHkxQlNfVWlZ?oc=5",
    "fecha": "2026-10-30T14:52:42+00:00",
    "resumen": "",
-   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo.",
-   "enriquecido": true
+   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
   },
   {
    "id": "nt-ca13f5b81845",
@@ -196,20 +597,18 @@
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR2VwUmdVd053c1dNQXV3UnhiQ1ZLMkk2NjlYSVdObjJkYWNGSml1YTgxWld2a3RPRUVUTWg1YklYYW9kZ3k2T0xoWWJIVkFHamVVN2EteFNKSV9HWFNrblZ2SENIcElFdHdJV2k1ZjVaUW4tMkU3eHFzODVTRVVvVkFuNE5uSnhETUh2ZzgwWldyXzByekF6OVhtUkZtRlljU1U5ZEw4SV80UGxYSmpabDFhbU5CelcyWDVNZHlEalA4VFd3YUlIMU1PNllja0hxMUNsMG02aUFWaFhRVTNmdU4teGE?oc=5",
    "fecha": "2026-10-30T14:38:14+00:00",
    "resumen": "",
-   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
-   "enriquecido": true
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto."
   },
   {
-   "id": "nt-46c4ecba1624",
+   "id": "nt-bb3b25622827",
    "titulo": "Peso cae a su peor nivel desde 2025; CFE pierde utilidades y crece presión en la Bolsa",
    "medio": "El Economista",
    "categoria": "Gobierno e impacto económico",
    "tema": "Energía y servicios",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb2JWbHhQMEkzSi1IbFR0U1VKSEdPcmFPZk1tNFJrcWZjalZwbHRYSFkxWTN3SWVOZXFTd3FwX0p2UUVoZmw5cE0wZWR5WjhZWHNkUlBDLXkyRGlxejdrRFg1dWpHSDI3TUtsRmlmQTBnaFRQMTBqVXdVSEgtMVMyTVh3ckUxaUtZTkR6cEgxLVY4WVNrdFNlVTJmWWNsWlVwU3M1SU4yc2piSGVveU5rT1VEdExtQnRsbjdfcUxqYU9nV1JFSnpZZWxR0gHKAUFVX3lxTE1vYlZseFAwSTNKLUhsVHRTVUpIR09yYU9mTW00UmtxZmNqVnBsdFhIWTFZM3dJZU5lcVN3cXBfSnZRRWhmbDlwTTBlZHlaOFlYc2RSUEMteTJEaXF6N2tEWDV1akdIMjdNS2xGaWZBMGdoVFAxMGpVd1VISC0xUzJNWHdyRTFpS1lORHpwSDEtVjhZU2t0U2VVMmZZY2xaVXBTczVJTjJzamJIZW95TmtPVUR0TG1CdGxuN19xTGphT2dXUkVKelllbFE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRV9RdkxqVFZhUHdfMHBRQ05lTWh2Tlk4VTQtc1Z3TDNtSW5MYzZicXFsLTM5WmtKOUl3N3RoM3IyLUd1N1FiX01mSFE4QlpYSkpueDI2R3N2RHVBLXkxTktPY3NRdU1QeTVDNzluMzV2ZGxfbDRMNnM2WE5IY1hMWFpRaVh5bG9jYlFIOF9BSnFpa0ItcTk1cFQ1X2VkOVBDVFhlV0QtanFwbEFTUnpfOWNnMFFQNGhycnB0SzhTSVRPUnQz0gHKAUFVX3lxTE1vYlZseFAwSTNKLUhsVHRTVUpIR09yYU9mTW00UmtxZmNqVnBsdFhIWTFZM3dJZU5lcVN3cXBfSnZRRWhmbDlwTTBlZHlaOFlYc2RSUEMteTJEaXF6N2tEWDV1akdIMjdNS2xGaWZBMGdoVFAxMGpVd1VISC0xUzJNWHdyRTFpS1lORHpwSDEtVjhZU2t0U2VVMmZZY2xaVXBTczVJTjJzamJIZW95TmtPVUR0TG1CdGxuN19xTGphT2dXUkVKelllbFE?oc=5",
    "fecha": "2026-10-30T14:24:15+00:00",
    "resumen": "",
-   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas.",
-   "enriquecido": true
+   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas."
   },
   {
    "id": "nt-f8ea4046d233",
@@ -220,8 +619,18 @@
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWkw4dHZCMVAtazVtYXREMENtdFQ5SHZ3YWtnQmhGZGF6Wnc2TUNEcnZKZGl2dGFLNUt4T0R2MWlTZzRGaUt0d25zYndLUjNlLUpQN25abDRJbS1OVG1heGNlMzVTOHNkcTFIY0MwREkzVHNhNUVCWk1UQ3VBVFJTbXBGMnB0bks0dW5fcjRQMlUzdUhsRU9Db2VlX0FEdnZVeVVtZ2Zsa2JvcHAwejY0X3RtYjY3WXNiWG8yX05CcmthVTVFUDQyMmtfdm5hWVNDVGNET2xVZjVBX3hTTkw2MW1BX0x1VlhVUzJzSHlyc9IB9AFBVV95cUxNRTFWRFFzYURQeWE1cjBid2VVb0FsVWRWZU1QYnkzc1ZPdmhSbnhFc01ZSm5NNy13dVpVZUExWDg4SDNmWkZDb3R3aHBuMW1GMG84RTlvbU1ROFRNS1Y1T053LTdmYWVCVE5aOFFsUThqOGRobmJtb0Ffa3otN0RXQnNJZE83V19rRVF1YzBYeTdXQ1VGTzRRbkxKaTdBUDhLLUNla1lUcEpvYk55MlY3cE5ialJtcDlCeVNjeXgzMENtaUZaZzVLUmlEbFotNUY4TEhRSEhqRExLZ2drRzdVNDZOUXcyRnVqRWpkeFR3N1IwNlYw?oc=5",
    "fecha": "2026-10-30T14:19:12+00:00",
    "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo.",
-   "enriquecido": true
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
+  },
+  {
+   "id": "nt-ec24f818be2a",
+   "titulo": "Peso perfila segundo mes consecutivo de pérdidas ante menor atractivo del 'carry trade'; BMV cae",
+   "medio": "Forbes México",
+   "categoria": "Mercados, bolsa e inversión",
+   "tema": "Mercados",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQlNLSnZYRTR2OTVkb0pvZDZ0NFdrVEFnU2lkOW1DSnFWZkwzWUNzR1o3clVoLVdkOWluSnFyMThBazR6bXZteHNBY1FFVGZOVllfZ2dldnMxRTFiSDBOcTV6VTVSY1V1eC1sLTBZa3VSYkg5dVRLaTlUWk1YbjV0c2s2aUdZMzRZUXcycldlZERRMmRhbUR4d0hMZXpFMGJ4VVlrUlFTMXNNazVx?oc=5",
+   "fecha": "2026-10-30T14:16:00+00:00",
+   "resumen": "",
+   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos."
   },
   {
    "id": "nt-b674f8de4c21",
@@ -232,8 +641,7 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUGdZbjdoa0JmWE9qb2xsYnM3R1Z0S1N4WXFoSU80LVJaNGxXNDFXQm9WNGJLLXZPN3YyMXdzNnZxY3htX0dwTzY4UHRBS04tQXg0Z1RRSUZYYXV1czRZbWxpNWxvT3lOOEtUSUFqM1VvN0VwSWFUVDVaRHZSLWJyTzZVbHFFeGpiRVE0bmEyc25JNkNfTHVDQ2EwUjE2WXJ6d2ZMd3RFdll2TWU2YjN1Z3ZqYm9OekJKcjNPMdIBwgFBVV95cUxNUklIVFk0YUFTUWJuQnItQmRudmlnR1RtdmxtaVlZOS1WUFZKR19PY25IQlZpNkk2c3BLek5qS3RWQUh3WEdWV0hNZFMwWFcxZG10cEY1WG91d0V5NlNrbXF0RUFqTnE4X3Ftcmh4RWlrTnZwZFM3XzFkU2o5N2R2Sy1xWFNVd3Q3czVhMFZVVm9wVzlJYVkwNm1COWNUYV9xMkJzYTl5LTFmOEEwdmJiWEJRVGFMa0JjcDdjZ1NYYURaZw?oc=5",
    "fecha": "2026-10-30T14:05:00+00:00",
    "resumen": "",
-   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
-   "enriquecido": true
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto."
   },
   {
    "id": "nt-ce1dc3d2b520",
@@ -256,8 +664,7 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWtpbEVyYW1mb081OE1XSFlJUFJXczdpYkgwYVhEVU1MVnFfdjBVa1dhQWhvVG1lLXA3SDVab09kUlFFS0doUmJlNkF2ejlvWVFubzd2T0V1S1NTalM3aVFwN08wNUpFLUV2MkVGcUh1bXdMbEF3RXlSMm83ZzRfbGxOMFpxR3k0RzhuR0tSakpaNEdUX3EwVHFoMmFocDg0SlJVNGtMVEpROXPSAbgBQVVfeXFMTURoa0VYMmhHdTVSSjZjOWJsUVpST0RwNnlwbUNKODhDdXZiWVVHNDltZTdNbFlvWld2SWYyTWZjbWhFSGh6dkUzTExrdHhDeFpNV2lER2toaUhiZHh1eGtYY1UxbEZpZTJXS0dER3FkdE1LTVdXLTFDZHZaVFlqTmtzT1dhT3hIYlRBekh1RE14eDNkTGhLc2NsbmNURndqNzYtcEZPcmFuZFpTY08yOFVPM0VjUUlRUw?oc=5",
    "fecha": "2026-10-30T14:01:29+00:00",
    "resumen": "",
-   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
-   "enriquecido": true
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto."
   },
   {
    "id": "nt-e3eab1786aa1",
@@ -268,20 +675,18 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDlNN19hTnhBWGlqSUV5TDN5WDByV0VkZ3VvOC0xbVVQRHpWRHRmTEdJX3Q4cXNwTENHc2RXM0p3SW1mTWJLUmo1NVFFSVBLOUNYRGx0X2pRX3UxYzNTZXpTc1RoYXYyaklFR0RtRm1fRHNudk9XZWc1al9rNkNvNEFvanE1b1JzNDV5Ym9lREZSbzVOVjZB?oc=5",
    "fecha": "2026-10-30T13:58:16+00:00",
    "resumen": "",
-   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
-   "enriquecido": true
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto."
   },
   {
    "id": "nt-77cbbbafb9f0",
-   "titulo": "Precio del dólar hoy 30 de octubre de 2026: peso mexicano cotiza en su peor nivel desde agosto de 2025",
+   "titulo": "Viernes ‘de terror’ para el peso mexicano: cotiza en su peor nivel frente al dólar desde agosto de 2025",
    "medio": "El CEO",
    "categoria": "Economía y política económica",
    "tema": "Tipo de cambio",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fZ3hXQVVKVGRFb0hBRUFpTTg0ZWlWbk5WekN3bndGZUNXdGZtVnBIZ01Ia2VKLTdsNXNmLVZqWlBZMkdDZXNzOWtPbXREalJxOWQyTFpyZGdjUU9YdXRKWW03Y21aeG9VTkUwRENoNUUxdm44QmdsaTNB?oc=5",
    "fecha": "2026-10-30T13:57:42+00:00",
    "resumen": "",
-   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo.",
-   "enriquecido": true
+   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
   },
   {
    "id": "nt-98eac462de63",
@@ -292,8 +697,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORi1VRXFCNjFlbFBkaElCLVBBMHFkcTQtTlNZNVdfcGxlVm9Fd3oyNGQ2ckZKaTZSXzJzSUMtTkM5MWpWMDFtQXV1TUhGN0pVWUdxNXVpMkFuWWNydDNiczZsdUdGQWdzbDhHNDVITzliZ0JUREphN1lmMmFjajdGeDVYaXZMRlR1cktJ0gGQAUFVX3lxTE43QTFaZXhsdmo4cVM2amh3eC1UZnQxcWUxX1VYTzN1Zk5kUC1hRUFNdUtsaC1lc2w2VFZoRm04LWxWMHFDQXI3X0FvS3lrRE5PWXpnRmRiRUttOTVUbmZ3N25xNlNtRTVKNVFIZDRBeG1RamZIbk5vX1gtdHI3NmR4Y0Q4c0dxYUtiNmNWS2Nhag?oc=5",
    "fecha": "2026-10-30T12:57:09+00:00",
    "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo.",
-   "enriquecido": true
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
   },
   {
    "id": "nt-1c5d54edf8a5",
@@ -304,8 +708,7 @@
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcS0wVm1XeGpoRWtHS21BZnM2SjZFYTNlWDNLN0R2S2dYODIyMzFqSGZtVHhTVWNzN2hUXzFsWEJ3d3ptU1FHRXh1Rk5OUkJEeXRhRnJIdUxRQmJVSFJVYzJ3MlprVjF2YnMwYV9DblRDOVFqelE0anpSc2R2SjNvV3V5Smk1NVBycy1zMGFxd2RJamFZNTVSai00WWhneHJWZmxndG8ya1JQb2t1SGVhT1g1MDd0emRXeXBiNWVDODRTYU1jN2I40gHMAUFVX3lxTFBaV3NKUlhCVWtYMXpPRjhXYlMtUkNNOVRNMkFDMEc5NXphdC1yelNjS0FQcEJtb0xjMmNzYm51T2hhVFlxcWlMbmxNVFVwV1lCT0JZclF6cEdUR2w3OU4zbWt0ZE9OLXFQcGJXUUoyeUtBdW52NHR3U0RkREpTajZXUm5XclJYRXo0UEl4X0R3dlIxakFkZDlJVWNlbGhSeGJmRlpsOTd2cU5neEhuNzYzV2h3Z0l5S0NRckRHNTZoLXR1emRXWV9sTFVXRg?oc=5",
    "fecha": "2026-10-30T12:20:12+00:00",
    "resumen": "",
-   "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas.",
-   "enriquecido": true
+   "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas."
   },
   {
    "id": "nt-9ca08f0858b1",
@@ -316,8 +719,7 @@
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbnJSMXlJV0dKR0RTRlp2YUxUX3dFMGRXdklpNFJSVm1pcUFJMmE5eGItcFdlV0paeWgwTnc1QlVWa0szZ0FTZUhCSF9IZHFPTmJxVnRiYjhsdXZWdUtrcUtHd01WNGFjUjlmSlhDRFRpWFZWbkhickhxTElGUC1UWXBKbV82M013UU5uYTVmXzliMmk1ZHN0dXoxNTVTYnpOS3plTFBxaXhYNzVxOTJFMGE2aDRRV3VnckxaWDBJcm80R28taU9PcE5ZSTZEYm1CVGFVZDJR0gHbAUFVX3lxTE9LOVZteldmbGxKdVRuNDM5V1dnTnVROUZDZ1RCTkpnNWhFbmphb1dWQl9JX09vbF84cjc4Q0RPemlKMm0zM1ZqUmlScTVjRlVWanZXWEZYT1BBalhBamdTVXZZdGRINmZiUXJ5ZEtvWms4SFBxcHdvV0tIQ2JFaFdmQVpRS2trM2REMzdNcVpfSHRDQm1Ibnk1RjlJZWtrc2RPNktPMS1pOUhZeTlpcVZ1OFl0cVk1X0FGY204NHEyWXdIUWVFcXI5NlRHNURGQlNlQVg2U00zVGdROA?oc=5",
    "fecha": "2026-10-30T12:08:37+00:00",
    "resumen": "",
-   "impacto": "Las tasas y la inflación afectan el costo del crédito y la decisión de las empresas de arrancar o posponer obras y remodelaciones.",
-   "enriquecido": true
+   "impacto": "Las tasas y la inflación afectan el costo del crédito y la decisión de las empresas de arrancar o posponer obras y remodelaciones."
   },
   {
    "id": "nt-d0a6ea772566",
@@ -328,8 +730,7 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWVjMERjSUFPeXNKdXBxRjU1cTdWV3NJa3Fwa2ZhakVQUTVTbFBtSUl6by1WUFB1TFNsTnBBdExLaDdRQ2FSNHVVWTdLOWFvSnFzUVJpclJMNUxDSS1MS2JzcWNBYm8xOUJZZTlpZEZlR21KZVdzbGpld1Y1cnVzcHJ5MjVBV0RSQ210dTNLY0ZVc0dLYzNN?oc=5",
    "fecha": "2026-10-30T11:55:00+00:00",
    "resumen": "",
-   "impacto": "Refleja la oferta y demanda de oficinas: menos espacio disponible suele empujar proyectos a la medida.",
-   "enriquecido": true
+   "impacto": "Refleja la oferta y demanda de oficinas: menos espacio disponible suele empujar proyectos a la medida."
   },
   {
    "id": "nt-443fe9314c86",
@@ -340,8 +741,7 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajRzMU1WSGhDMWZpQjk5QjFJWnI5cDlvWTBTRGo1d0ZrRU1tTURocGI2cUczd1VWUWtPT1NUXzZDVHBvbC01ZlY1Ym9IcWVEUkJRSDhxM3JFY1ZPRjlwSXByMEZmMTJfRHY2WGwtSWo5aVdzM3lGMTZzUjZOYVB3T1dEdEx1cTdCSkNkbU5QT1JnSHpzVE5vTWxYUWVXdlI5d2hCazhRdk5CNVJqa1lYMk9lMkR6MDlqVjZiNDlB?oc=5",
    "fecha": "2026-10-30T09:22:48+00:00",
    "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos.",
-   "enriquecido": true
+   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
   },
   {
    "id": "nt-b5efeb640e89",
@@ -352,8 +752,7 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WcHpkc2tNZkdVbGpCbGpZN1RnQzJqaTZaZ2VwTXYwdzIxR0lfNElxTEdrYVVvLTNiMkZXdWx3MlFhTHNuc3hyWlJjMlhOSFkyZ1dvTnpYbGhGZjhwYVFOMHJLTXNtYzFxbE1NaFB1em1wVlk?oc=5",
    "fecha": "2026-10-30T08:03:14+00:00",
    "resumen": "",
-   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
-   "enriquecido": true
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto."
   },
   {
    "id": "nt-abf8b7c69cc3",
@@ -364,8 +763,7 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTFzSTRucUVqeC1RaUhnaUhjdWRleFBVTV8tMENlUEROSm95eUVJb1VMVVNGVkhUMkZaZzc4WHZVQlBWTWZxcHB4RUNqazVDX2dGQzU3Q244cTVMNV9TazNtb1ZuZ01GZ2xPUlZxMlR4YlBmV0lfbzJtNUFHc1plaTVhc3ZicUwyemZBWHBVZXhXZzhFRnpJaUNIUVE2dTJjNVM1MFk1OWlER0dLUDVFTE9n?oc=5",
    "fecha": "2026-10-30T08:03:14+00:00",
    "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos.",
-   "enriquecido": true
+   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
   },
   {
    "id": "nt-6ccfaade13a7",
@@ -376,8 +774,7 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXVHUzJZdFAwRXp6bHN1Zk5rQlo4a181NWpONTI0cGpvWm1DY1AtSVZicWFaUmZLanYtU0R5SFpBcXdNUnFGU25tb1FVbVFFdTJsZUd3Sl9PLWgxSldOcTMtMGptYThBRjlpY0ZJWEQwZkVpbk4wb0dEbmxxMVAxNHVsQnFCRFZtdkpTbDlYVWVLVVdrTlpvLUdaR1laYmZuSVlUNy1KZkJxMHk1?oc=5",
    "fecha": "2026-10-30T08:03:14+00:00",
    "resumen": "",
-   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas.",
-   "enriquecido": true
+   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas."
   },
   {
    "id": "nt-c002f2cc4c8c",
@@ -388,8 +785,18 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdUNwdkdTbktIanFLUHRBZ1dGeXprTnlEcU1nLVNsQlV3Zmk2NlU5YzZodFJtNEpsYjQ4Zm9senlGUGNxS25PNjhITHc2eGVVcmRwWmExUmsxZEx0LW5zOWZfXy1ZVklmOUUyOVhOTkdiY3E0QXBudWxxV1Q5SHJaWUJ5cTN0Y0xvMDBmMVVyVzAtX29uMC10LTdfMEkyUTJSc0JTcFVmZ0lfV2hybjhoWHNyVXJfbTVRbUHSAb8BQVVfeXFMTkdvVjBQSU1XV1MyZGFIaXhTNWR6VS1DQUhza3Q3ZXhtRUJJZTVKNVZ0Y2dIRjFsNEQ3UTJDY3k0TDBZdEt3R21JMk9aUTdUTTg4R2V4SG9PYzJMS0hHLW14MDlYSVNqYjBhSjZSaTNEdHpEU0pQWVFHZnJ3UW9TdXAzWjhFNng1QnNIRWFEOUtjQS1NTENtbmg3eW1zNVZEVnNnUnY1UVoxaVVOWUtLRjB2WEZRRXIzblpQdHNvOE0?oc=5",
    "fecha": "2026-10-30T07:30:14+00:00",
    "resumen": "",
-   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
-   "enriquecido": true
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto."
+  },
+  {
+   "id": "nt-2f803300925e",
+   "titulo": "México quiere atraer inversiones automotrices con un esquema que López Mateos prohibió en 1962",
+   "medio": "Expansión",
+   "categoria": "Empresas y grandes negocios",
+   "tema": "Nearshoring e inversión",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV25aRVQxRUNDV3BNdXdveFhpSWM3cExvVmpFcDduYTFXSGUzOFQ5elJqdjFSY0JLN1lfRUZEd2JiUFZ6WlUwTjNsblRidzg1clZMNkNuV1RWbXpZRXNCTnZ4aUNSc0ZfT1d5M3lPSVZOMEp2SzBad3NrdHc5ZTBWWEhZSVlfVnMxODE5WWdGb0hiaHhta0Vpa0o2UWJqcXJZT1R0WtIBsgFBVV95cUxQUWhhanREV3l2V25XbHI0T2wxWkliaHR6SkVIZ1RVZ0doYzdWeXVkNG8xb1hnQzhYbzNSOUNCR0owVFMxWi1hT0t0cEp3YTVkY1NHRk81ZUduTDhROTVXX1F1WTRXSWM0amFyOXNvWU1UOVEtSjU4ZnEwZ1hYZ1dYb0VCVVRYTEFER1N2b0t4dFJsVkh6SXB3YmRPTUpUX1JpY3d5ck94UVpsbFZndTkyUzF3?oc=5",
+   "fecha": "2026-10-30T07:00:00+00:00",
+   "resumen": "",
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
   },
   {
    "id": "nt-7e5b7d0ae4ca",
@@ -400,8 +807,7 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFNSSzJSaXM5TE9vaU0xb181NkFkdlBFR2FOUGdCLXFuclZzdzROa1FpbFoxZ05NWjYyY19VWm13bklxUUdQcUVGY2xqYjZUUENSVTdsc1F5OURGSHU2ME1FSkZNZlRsaDdoaWFKV2tmMUlwN1dZVFU0OUJMYU4wUEdfcHd3M3ZSOTBxUi1pR191ZEpQUWRQbmZBSFnSAaIBQVVfeXFMTWVMX2NBRVlCMTVqOWtXZmUxQmpMNTV4TllaU1ZNb2MxTlFRT0lIQWZ6c0RoYW54OWc1bDdiZmJYSC00Z0d4TlhINHVRd2ZEZlZWQWR6ZUNtX25sVTc3aDJJWFZta0JscXFIMEdxdjBjc3ZlaEhfdzRiV2N4OVFDUUJ4eEhBQVU4MWVZdkV4RE1oZTlMZ21TelhNR3JsSWowMnBn?oc=5",
    "fecha": "2026-10-30T06:35:03+00:00",
    "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo.",
-   "enriquecido": true
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
   },
   {
    "id": "nt-43a576273645",
@@ -412,8 +818,7 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMV8tOHJUWXc2VW1uR2JGalhkMFdqeXNhS2hWeExncXJVXy04UkZpTy1JZkc3RXhobkZBZktyYkNvTkFOUGRSNVJEUER1cFdWWldxSHAxWDE2aUFJdWZMMFZhZ3JINEVCZ0dwVDBxa0F1ZGRSTUczYzJMVDR3Y2tQeE9uUEwtRk5MalB3ZmFDMThmTUdqeG0xcW5SWlIwWmt0OGlZalY2YlF2TmxwYnBFZkpJckMwdUdPc2FkamduSXRBRjQ?oc=5",
    "fecha": "2026-10-30T06:31:48+00:00",
    "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo.",
-   "enriquecido": true
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
   },
   {
    "id": "nt-910f30498869",
@@ -424,8 +829,18 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkhmMzlHMy1lS2NzV0tKRjhDRHcwaUowYmV5VUZhdVVKelU0c05sZ3FSakJPVGdJbXFRUmpscVF4UERPcFpLTnBpOFgwUlFJVmlJdGlmR0hOYnAxWl9YRjR2aWYyZWRIRFl1Mk9xTldIYjhDNW0zOHBYM1FiVG1VUkZZaERnX08zaDMtMTRZRGZaam8zU0RrQmtEbkJ6UEVFejd6OFN1SHFoV3RWbDFZ0gG0AUFVX3lxTE44WXBMNjdfXzBETGNEdE1lQ2NjN1JFbHZ5djlIcGs3SDBLdmJBSUdZVlpUeFV3N0xyRmpNdU5GOTJHaThZYXZiX3psamdrS1hRTE5PNXZwYUpwTHo1b0F6bnMyeUJzVlAzUXRSejJ4d2E1b000TmlJWElUbWluUFpobWNtcWFRNm1iX0daREZ6MVQxT0RCd181RkJEc2tsNkJPTU5DUVlLc29FLV9Hc3BlaUJDTw?oc=5",
    "fecha": "2026-10-30T05:46:45+00:00",
    "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos.",
-   "enriquecido": true
+   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
+  },
+  {
+   "id": "nt-9ce8f497fed0",
+   "titulo": "Tecnológicas se venden en Wall Street por temores de IA",
+   "medio": "El Economista",
+   "categoria": "Mercados, bolsa e inversión",
+   "tema": "Mercados",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGlDenFTVXZmQlFOUUNHOVVuR1o0TEVjNEhpc0hrQnJ4MGVVZkhIRk1uRFpNVTV2aHdXMnl0cmVCR0FqR0MwS1V3ZTFWREVQRTN4UmdlMnp5Nm5LTWkwdkQtQ1VsN19OaHBSc1ZJZTBNQU1xeXJNRHJ6ZHY4dWZiV0hXZ0c0VzZpQXVYdjd1dlNObVBia3JUODIwRWthTmZjbWFZbjA4RdIBrAFBVV95cUxPVnNXc2NJaDhfa2VCMVZnYnRtT1VhdnAzVHh1cGdHbmRrd1VfbzI4Q3MwWWFudTZiLTVpME1MNlBOVGJ5Nl81bGtGX3FUbmFscTRHUE02X0ZoVDRRVEFuWjZOZGhIamRXVlJaSTlQdWJoX3ZORTNZX2FMQTFZMDJuSDlYbHg4WEdJM3FSOUZmZXA0alFEUVNIQnBOUTlxVEFiaElhNGdaWGhwZ1Nf?oc=5",
+   "fecha": "2026-10-30T05:18:01+00:00",
+   "resumen": "",
+   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos."
   },
   {
    "id": "nt-1f66f53cacc9",
@@ -436,20 +851,7 @@
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdEt3QXlUQklWTkh3ZlctZWtLX2luYW9uR3Y1ZXptd2M5N3NPbVItZ3ZXdU5ObWl4azdiUWFsdVpTTGhEUWN0cDgtSF9YMjZmUkdMUmpiZ25QdlVrZU1vQ3VaQ3BzSUk2ZVFJMV9HVkdmNVlRdkt4UHBnc2VqOE5BY0c4Unh0a291SzFQdGdJTnFJS2tuRUVfdjVGSHotY1dhcV9BbGdJMXFBYjFpOG9SVEt0SlQzb2lfTFF1b0wxNGpCUkNkMXdSM01aaHVidDNvZF9udGpqMNIB3AFBVV95cUxQeFdqaFpINENKQ0Q1OGhVR29QUzh0YzhOdGhGVUdPci1jdXdtWl9QMjZJeS1vQ1hxY1JsT2RIdGQ3UTF3WEtXTEZ2cnR5dkdMRlBQYk1udVpSNVpQbE9nUGVvWjdqTUlRdzFkWG9fRUdmY0VUMDExangzNTNVaEVvZjhNT3NZSU93VHY2VndwdXpEQXNyTmNIZzMwWC1vTGkyT0l6d0kxY3J4U0hwRUpCMnBxQkFmQTA3RzhRcFMxRFpBeVlTcEJWY2J5VENwTTFudllTdGNDdVpHVFYx?oc=5",
    "fecha": "2026-10-30T05:01:12+00:00",
    "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo.",
-   "enriquecido": true
-  },
-  {
-   "id": "nt-47a21069302a",
-   "titulo": "Peso cerró en su peor nivel frente al dólar desde agosto de 2025",
-   "medio": "El Economista",
-   "categoria": "Economía y política económica",
-   "tema": "Tipo de cambio",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVVIOXVxR29IalFHYU9sTlFZMi1KVEtJRkJmZ0JtZkhOTllhZ0Y3Z3BFMGRZak4xS0JYeWxfYng1YWV0R3dkY3oyTkt0ZzBNM1lJYUFtTnotNnZvbWJUU0ZmaGlUd0lQMm82V3ZYaTdqSXVqTXJoSE5ZU1dRS29KamdmYklBWHBUVUxEcDhSQU9aUWhDZmJVcWJfenpuUVFOenJTNG5n0gGrAUFVX3lxTE5qWW13Q0JCbXd5WWVmVkxyaC0zSWQwQTdYY3R5R2wwUUlEN2Z1WmtRX044bERDdzUweUZMRk83RldueThSZnF4bjV1Nm9xamZrdEpDZmczaGthbXJIZVRDZW5UU0NWbXZJUVhzRW1DU1J3ZlFDQ3hXZ05sWVBLbkx2VkxxbV9sUmNuUngycU9laV9aTWxkUEF4dnhCQ2ctMGhxZFhxUG00V214UQ?oc=5",
-   "fecha": "2026-10-30T04:54:35+00:00",
-   "resumen": "",
-   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo.",
-   "enriquecido": true
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
   },
   {
    "id": "nt-3d0e878e065e",
@@ -460,8 +862,7 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUxGdUoteUFsV0ZhbnNrbVkyWUZhNktzM1BDRzFCeXBySThBMmJ0R05UaUJDREE2dTItZ0h0OXNUUklDaFpMSlRaTlZZNEJrRVowTGVUUmJZVE1PM280VkpoNFRRSFdCdUM2M2ctMWYwendLb3QyT0pyVkdMYV9kenR3U1pHVHBTTTdXMlIxd1M1RGVWRGtiaS1rRUdFWURuWk9ZWGNvQzB4Tmo2c0dKZDZR0gGyAUFVX3lxTE5hTEZ1Si15QWxXRmFuc2ttWTJZRmE2S3MzUENHMUJ5cHJJOEEyYnRHTlRpQkNEQTZ1Mi1nSHQ5c1RSSUNoWkxKVFpOVlk0QmtFWjBMZVRSYllUTU8zbzRWSmg0VFFIV0J1QzYzZy0xZjB6d0tvdDJPSnJWR0xhX2R6dHdTWkdUcFNNN1cyUjF3UzVEZVZEa2JpLWtFR0VZRG5aT1lYY29DMHhOajZzR0pkNlE?oc=5",
    "fecha": "2026-10-30T04:05:20+00:00",
    "resumen": "",
-   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
-   "enriquecido": true
+   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos."
   },
   {
    "id": "nt-dca55165990d",
@@ -472,8 +873,7 @@
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOckx6bUxJLV93UHZCOGg2bkZ4WlBSQmtCLVM4VFdscWZzVVg1OHc2ZTVqRnhfak0xblVvU1VrY3lYRHlaWldEbVVMYXRtR1R3cnNDMV83aDljbWJtZkpsQjktYXQwMHdUX1hNWERxMXhxT0ZkbWRVQ3VrYTg0ZXJvNUNqTjBMUzRkRmwzbDBuSGxqdldaMURrR3plaVJ4eGp3OHlhOFdnVEZxUFpiUm0zNmgyY2JtSkZJOHAtZC0zY0Y3Z1BDN2sxclFOeTU0LXJJVTdZWnh30gHbAUFVX3lxTFB0MzF5WmpETTNjM0Y4cXJhWFNWTGc0YlloRlBaSHdYaVN1VkJfOWtWT1JITmE5SE1tcmpwNkd0NlE0RlNNVFhPRXRMNDhWU0dUVHRDdDlPYkpEQld0bnVDOXRQZWRKNlRnMF9aT0tFN3hMU1l6ZmRRYU5ENzN0dnRpLVBfX0NtS0VJbXQybmhYWjZ6bzZzaE5EQnBSTEIwMFNuajhUYUZwdmstaDlJbGE4RTR4alFpZTBxcEd2eUsxR1lIRHNhX2Zac1lhcEp0bmVoclFUQU9ESmNNSQ?oc=5",
    "fecha": "2026-10-30T03:32:05+00:00",
    "resumen": "",
-   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
-   "enriquecido": true
+   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto."
   },
   {
    "id": "nt-3a569ea7729a",
@@ -484,8 +884,7 @@
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR3N2M0tKNl9Lb1NCUkp5c3NzTDFLLXFDRTRJREhPLU5PRzBRZGFsU3E5S2xnWms5RXFpa2hFUHUwVGZSRnBYSGRUcGhBbEJOWUZEVTAxMVV3MmFmaTRqSFZ0d2pJclpSMm5nUDQzaGJFa2c5SVYwV1pBQWFfOUxmWVdHS1RtSEVSUzQxY2ZMT2FaTHItcC0wTFlzVUVlTkZxNWdIZzR3TTBuQk1kQ0hHOUQ1X0FCdWxoSklkOEdrejVDaTRFaFlhemx1T1ZrOFBCRUNnb0dZN1VKZXfSAeABQVVfeXFMTlhfTHRoc1dyZnRSemxtM1lrM1o2dVFWa3lPM3J3V21BMmpIbGhqeEEyY0RzaG5mX2lBcG5MN25fc3NldzRsa3JnU1FoSWM2bkNoU2U5Q1B0ZnNPT0lQUFVfeDZ2b3hYNVB2djBwRXNGRVJLblJiS0FFYUF5XzBoZENLX2VkY3VTdlVyWWxnWklIdmdZOWZTVjBmR0k0Yk5uMlo5akxVMER2Z1ZHZ0c5YWhfTWkyM2dfbXh4NVlTSTQzMndnUTFncS1GM0xJSl83VUxDdmdoNjB1WVZJeDBRYzQ?oc=5",
    "fecha": "2026-10-30T02:42:36+00:00",
    "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo.",
-   "enriquecido": true
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
   },
   {
    "id": "nt-f82d06c00e4c",
@@ -541,6 +940,17 @@
    "fecha": "2026-10-30T01:20:18+00:00",
    "resumen": "",
    "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
+  },
+  {
+   "id": "nt-7ce75664cad1",
+   "titulo": "Megacable aumenta 30% sus ganancias mientras reduce su planes de inversión en fibra óptica",
+   "medio": "Expansión",
+   "categoria": "Empresas y grandes negocios",
+   "tema": "Nearshoring e inversión",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWNua0l5X0ZHdE85R1pxTDZTUGdqbHJubnl5UV8yeENEVWN0SzJsTVRrdTF3VzJ5UnBhdXlLcThIaTRzMnRUM204S0FDUENlS3hzcHdvblVnRlhlZklKSWpVR1lVYThEMThobmp3M1Q3ck5mRjVhRmxnTnBpTlRvOTN6SEJncGpjVjVF0gGYAUFVX3lxTFBtQTFTekVKSXFMMWd3Vll0Mm1WanpTQ3hwNWIyV25KRWowemR5bmJNQzdFTDZHMFdGemhObE5hOGQ3NTdiNE5RbEZtUHNpX0JnakFMa2dPZEJWMXl6ajI2bDZqN2VneVlDX3NnX3dLcUpfSzlRb0ZXU3NkQmtCZmtTcGl0M3FRMVNjZXlnc290MldpYzRzNWlw?oc=5",
+   "fecha": "2026-10-30T01:15:00+00:00",
+   "resumen": "",
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
   },
   {
    "id": "nt-f88a4b65f711",
@@ -620,26 +1030,15 @@
    "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
   },
   {
-   "id": "nt-9788665d057b",
+   "id": "nt-aa4f2cc141f1",
    "titulo": "Viernes de terror en CDMX: caos y calles cerradas por marcha del IMSS, GP de México y día de Muertos",
    "medio": "Expansión",
    "categoria": "Gobierno e impacto económico",
    "tema": "Empleo y salarios",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOUNCbm1sSU1yVUI1ZmMzNmhscUl6WXhHQUZDbnpLNXFldDlXNC14QjQyQWdjVXpPTkdEeXItVHlIemxuaXVxYTdFcG0tM1I3ck1RcGFoTjRUazdTZGlSN0d0N3BORk1XWm01MUJBeFMzX0ZNOTZuYjJENUhrRmJNTU82c1c3WmNac3pDLXF30gGbAUFVX3lxTE1SWXNEaDUtZFprYkwwaC1TVjhyQmRQRmMwYXp3bFVKVWx4eWlrN05qcGNYNl9KY0dmb05IdjRSTmk1aUpMMm12VXhxaDdVYXVYd0dlMTE4Zjc1enY1d2o1RmZMTEplaGt2MWpyRDZsRlRGWnlTSXpvVXh0QXJRbkdDOFdTdFU0d3lqSGh4aTA1X1FyU2FkRGZSZ0V3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUllzRGg1LWRaa2JMMGgtU1Y4ckJkUEZjMGF6d2xVSlVseHlpazdOanBjWDZfSmNHZm9OSHY0Uk5pNWlKTDJtdlV4cWg3VWF1WHdHZTExOGY3NXp2NXdqNUZmTExKZWhrdjFqckQ2bEZURlp5U0l6b1V4dEFyUW5HQzhXU3RVNHd5akhoeGkwNV9RclNhZERmUmdFd9IBmwFBVV95cUxNUllzRGg1LWRaa2JMMGgtU1Y4ckJkUEZjMGF6d2xVSlVseHlpazdOanBjWDZfSmNHZm9OSHY0Uk5pNWlKTDJtdlV4cWg3VWF1WHdHZTExOGY3NXp2NXdqNUZmTExKZWhrdjFqckQ2bEZURlp5U0l6b1V4dEFyUW5HQzhXU3RVNHd5akhoeGkwNV9RclNhZERmUmdFdw?oc=5",
    "fecha": "2026-10-29T23:11:00+00:00",
    "resumen": "",
    "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto."
-  },
-  {
-   "id": "nt-09a49581b41d",
-   "titulo": "CFE pierde 23,310 mdp en el tercer trimestre • Negocios",
-   "medio": "Forbes México",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Energía y servicios",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PZ3kxZzNzV1ByWGI4N0F4WVR5b1VuWmRHN1dzaUxuQVFGRUpXRzRRN1E4MEo3WkVvY2dSQTd2TjdNZU5PR2tpckFxaW5MYVlUVGFCRm1aRDY2SUJCYkdfTjV4YUhxZzRGU2pCTzVfLURGVWF4?oc=5",
-   "fecha": "2026-10-29T23:06:00+00:00",
-   "resumen": "",
-   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas."
   },
   {
    "id": "nt-7025b6bf4554",
@@ -805,6 +1204,17 @@
    "fecha": "2026-10-29T21:19:00+00:00",
    "resumen": "",
    "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas."
+  },
+  {
+   "id": "nt-47c20ff9f19f",
+   "titulo": "Precio del dólar hoy 29 de octubre de 2026: peso mexicano cotiza en su peor nivel en casi 15 meses",
+   "medio": "El CEO",
+   "categoria": "Economía y política económica",
+   "tema": "Tipo de cambio",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWG9vY1AxdGp6V0V3X0FJc1BYd0E2NWZqWEpkR2NoelZDZ0wzSUFzRmx4UEExTVZYWG1acGV1R2RGOXN6SG5vRENmay1jT05kZ2ZDX1hWdUlUc1hXSVBwMEtsc0VWTkNaTURhWHpuNndNYUw4b2tGTjlucGZ5alVXTkJLUHhYQQ?oc=5",
+   "fecha": "2026-10-29T21:16:54+00:00",
+   "resumen": "",
+   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
   },
   {
    "id": "nt-f5365297c113",
@@ -1290,432 +1700,59 @@
    "fecha": "2026-10-29T12:58:07+00:00",
    "resumen": "",
    "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
-  },
-  {
-   "id": "nt-c0c5721d717e",
-   "titulo": "La inversión pública para infraestructura se estanca, mientras los intereses de la deuda ascienden para 2027",
-   "medio": "Expansión",
-   "categoria": "Empresas y grandes negocios",
-   "tema": "Nearshoring e inversión",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeU95Y2dRNEd1ckQ3Q3hiYUkyZGVCM21MWEg0a1A0RUszaXFZYTNyNkV6VGxCWkNNNmtnY3MwclJSeE0yNmtCbU5LNDVaNWVIOFI0OHo2cF91V0t4ZUd3dDFjaWt3VFF6bWYxTEI5WU9HSERBd0k5dDZnRU96LXBobFdhUWVpbFNuOFhqMUcyWVJnREp2ZDBSVk53Rk84YUE4U2hv0gGwAUFVX3lxTE05MEZYM19jZHBaMUZDdUhaWUlpU1A2SVZXMFVrS2FqWm1WNU1lbWhDcUU1cW16T0Nacnd6Q0JhRy1oLXloQmswTHJUSzVhbzZHTGhydnZiWDhwTHNEOFJVbEYzWFVuTzVNVlNKZExDM19Gd0VtbndlbGR0QnY5ZUhjUmtuV0pmRHNiLXdGSFQxSUVvQmxUWE1FNElJUDJLamMycnRYbXFkRW1lY3J6SDQ1?oc=5",
-   "fecha": "2026-10-29T11:55:00+00:00",
-   "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
-  },
-  {
-   "id": "nt-d8967e9dd2a2",
-   "titulo": "Urgente, evitar una crisis de vivienda en la CDMX",
-   "medio": "El Financiero",
-   "categoria": "Empresas y grandes negocios",
-   "tema": "Mercado inmobiliario",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREhZaHdSbVJ4bW5JYjU1R0RQOE5lTjJMVHFqQTFBNWFfQ2JZQ2lGLWl6T2praE13X0xRS0pkMGlKZU1PSWVhQU51VUdEVFBjRlBfc2Y0eUtmUE5JTTNSejlzVll0MXEwYXpYcEw2eEhFZ1JIMFN5b25ZQmZRWFlMTDNUYmxsZ0RNbmphbFhGVEE3T0NSeUxzYzlmaVpFeTU0SVlKbVdpVWUzV1p1Q3Y4bXlLbWx5djQ?oc=5",
-   "fecha": "2026-10-29T09:58:29+00:00",
-   "resumen": "",
-   "impacto": "Refleja la oferta y demanda de oficinas: menos espacio disponible suele empujar proyectos a la medida."
-  },
-  {
-   "id": "nt-9f2741833bcf",
-   "titulo": "SAT eleva de 26 a 1,400 las visitas anuales de verificación ante evaluación del GAFI",
-   "medio": "El CEO",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjltd2dKUnU0blRubjJGYndiaWl5NURXaVAtUWZFSUNEWVFqWkQyMWRtYU1ieHpBSU1zbW05eWt0Sk8xZnZIUUI0MDBQSHRldUlrMHNhX2dSTlBlNFhpSFZUbUZIbk9LWkxIQ0JKcHN1Y1RUeXBHeXg0R2Y1bU1lTG5ld1E4UG5EdXdjbzJTQnp1MXRSTld4U2JpUU14b3EyWUZCck1PQVlZdjdncFdHeA?oc=5",
-   "fecha": "2026-10-29T08:01:48+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-e246b0ea8eb7",
-   "titulo": "#InformaciónConfidencial: Coca-Cola FEMSA alista estrategia ante incrementos de costos laborales",
-   "medio": "El CEO",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Empleo y salarios",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbVBkSklENlJRaWlyM19YZldacHlBdUp2cEZqZ3lSRGxNT2JKc1RvU3U1VkxrZ1BpOTg2Z3R0NUpibzg4SGM3MmpzNEpUMzJQSUlqdGtWYWhVY1B4NUlPRVktM3VCclY1cXEyOUxCUUhQU2ljYzZxSTMxS0thMkJoRi0wN2ZwRWNXc3MwbUgxeDVyMVNMLTNZRm50NXBrSjZva01oMWFGTF8wakV0TWxtbzQ5X0RmSVYyMTBBUFl3?oc=5",
-   "fecha": "2026-10-29T08:01:48+00:00",
-   "resumen": "",
-   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto."
-  },
-  {
-   "id": "nt-59c9074cffb1",
-   "titulo": "¿Pemex, cuánto daño más?",
-   "medio": "El Economista",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Energía y servicios",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0RRUEtzSlhOOEhBaHFXa3Bfc1IyQmlRUHFQZTNNS3padmxtVUNoSW5GYUxoTDZKdnVQS3NfcmtEaXJxNlgzNjZJTU5XaEk1YklQYURUMkUzcnBkQTltNkNwY3prRVZWTUNqdFVpVlhUTENEVC1IaGg1V1NfaXh1SGRlLW_SAYoBQVVfeXFMT19QTklBR0pZSzZZR09NWWNkMzNwRTRwRGVDOXdHQVhaVDlpbk9VWmFBczNQbnFLQUE4ZjJDZXBhbkNqQlB1TS1IS3lPOHhEUUdWcHNaOHhTeTBlLV9zUHhVUmh2N3BETzk4MFo2WExVZVQ2UW5mbTRhRG80RjZyRFdBM29PSVYzdXNB?oc=5",
-   "fecha": "2026-10-29T07:47:24+00:00",
-   "resumen": "",
-   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas."
-  },
-  {
-   "id": "nt-4e286e2f71fb",
-   "titulo": "Turismo médico detona inversión hospitalaria en el Caribe mexicano",
-   "medio": "El Economista",
-   "categoria": "Empresas y grandes negocios",
-   "tema": "Nearshoring e inversión",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZldMQ0F6MTVZU2JLRVNjOG1ZanNPSkppTzUtdGotZG1kNVdKdV9DR0NrLWgzS3JIT095Z0h2NWZpa0hNMDQtdS04RlRhVzhFTzM5QjQwZDNSNGtYUm9KaFZqLU1VYkU4bXcxMDBsS2RYdl8za0QzMWdBMkNieTlJYTF3c3Jfb1d3Y0ZoMTZnSEdaRVg3VDJuQUxMRF9KTW5oa1lSR19ldVpIZVh6aEx3a1RkSXlBalZuTzA0QzBB0gHDAUFVX3lxTE9oS2szQ0ZmYjU2dFlGSVVKYjhTbjBRdmE1XzBSYng0YUhhSWZ6UjRCUk5VTGZId0toVWcwZ1lRZWZ1azlrWW9aUS01Q0dKZ3V4Q0dVeDl6cmpzTjJZQnFuSFVZSF9SbGxoaDl5M1dSX3IzOXlIY3ZxNnRfU1JfbkxYdkd2NlVkdTdBODQ2TFFQSnNfTGVQMGw3ZzllQ1VRLTRDODVSSGt4V1RmTVFFUWxQRDk0U1lQNFNyOWppZEoyYTI2VQ?oc=5",
-   "fecha": "2026-10-29T06:53:22+00:00",
-   "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
-  },
-  {
-   "id": "nt-1368bc2b2ea7",
-   "titulo": "Mercado legal de diésel tiene su mayor alza de la década a agosto",
-   "medio": "El Economista",
-   "categoria": "Mercados, bolsa e inversión",
-   "tema": "Mercados",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORG1CeUtBUzF6Mm51OGtPOXNwQXFKQmRaR2U2WVMxZlU1ajJfMmFPU0wwTzJUX0VZMnRWZWhBVzl3MXRUcHdYRUY2TU5jZ0R4ZzdWZEE5dk5yd2FIV05ENGd2YTE2dUtpN0ZuRlRka0NpcnJocXNKOUFlbTkxdWdIczdoSG1INU5MczR6RXQ5VUd5ZWxwLVpLREFKdnVEX2lvbnlZUi00dTdJb2_SAbABQVVfeXFMUGdjeDRzNVlDMlFYM2llYndHM1lhdlpiZGRmZ292d2tSSy12VjAzY3pvWmVwT3d5ekZSMHhYWUhvOFJEd3RFOTRmSEdjbmxMQmdtQWVidlpEVXF4Wm5VTGxFUFpKRVhXejZEYUR1X1pRTm9tcWs4d2lsNzFRRks4LURraGhxajMwMk5MaEQ1YzZuSlY1dmx1bTNZYlA5M0xYa25OSTBLWm5RZnh5aXZJMGo?oc=5",
-   "fecha": "2026-10-29T06:39:48+00:00",
-   "resumen": "",
-   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos."
-  },
-  {
-   "id": "nt-24f0ac23dbe7",
-   "titulo": "Banxico no tendría que cambiar calendario de anuncios: analistas",
-   "medio": "El Economista",
-   "categoria": "Economía y política económica",
-   "tema": "Tasas e inflación",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb00wNXRmR3g5bUZuM2N2WjZHYXlRWWxNZURqaFVUN3ZEZDUybm1Fb1lGcTZPX3YyLUJPaGZlM2JneU15WlpWNzZnUGd2ampfMUxjSjVXRVROdmFOd0tGaDNXcXVVa1FqV3BIOG9VVkI4MXR5eDRsSUxYQ3dCVnUtTkoza0hCMzlQUVp3a3JsMEwxYWpxN0U0VWhGODNUMzJTZ3RPZlBFMlNCQjQtMktrWGcxeGI3Z9IBuwFBVV95cUxOUDh4NkR4X2RhZVVVV0xnX3dFamotTlVlRFVJTE1jUEcwbzZGSUFOWlJvQUhLVW1CeUNoa2Q4ZUw5TEJTSlRFaVd3dHhXckJrSXBTbjZTQV93MTdwMkhVN2wxZVF2RWVQOGtpb2w1Q0YxQ2ZzMUtHekRFMGlLNm9LQnA5RzAtdnp2d2NnTHRWbjA1bFczZWZKRkRITG9USVJaaUtETV9hZHlHVXM5MGZPQ21vV1h5Mk81VEcw?oc=5",
-   "fecha": "2026-10-29T05:55:49+00:00",
-   "resumen": "",
-   "impacto": "Las tasas y la inflación afectan el costo del crédito y la decisión de las empresas de arrancar o posponer obras y remodelaciones."
-  },
-  {
-   "id": "nt-5b61098cf157",
-   "titulo": "La ABM ve positiva la iniciativa “México Paga Digital”",
-   "medio": "El Economista",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdHQ1b2kwVXZzU2FqckVxcmxTcTF1VExJblBjME1vbzdJbHZXbWJGTzdYREpGd3FYN3UwbVA5Rmx6a2hVV1RSY2UyYXQ2YUk5ZEFmWDFjenRETTUxZVM0LWJKMTFXcU11UWxYeEJxSFZobVBXQjN3bWRpeXFsXzRpSjBEbDdtVmpDSU5XQWdobm5KWTFPV3Fzak43Y25CSk5fOTBycmtEUjFOYnpxVE1kUGcweWt2S2fSAbwBQVVfeXFMTksyd1BoY3JXWmhSalJJblNMamI5cWcxQWgwellKb3A3XzdpYl9BSFRDVXk3MHpSQzV0cHpEdVRFRWJpM3NWdHRheUtuek5HVmFVWlF3MVRuNUpFU2QxOWVmcEhsbkZFcFBpeUZTVzY1WTZCZTBRdnZDVEVzMVp3QUdEbGdUcnF3ejFOWW40WkpBR0x1WUxOTHVCMzliaWhJY1JfN0RxbmpoYzlWTUFXRnNWaUFqaE94dm1FRlc?oc=5",
-   "fecha": "2026-10-29T05:18:03+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-b152939d5896",
-   "titulo": "Trump ‘estalla’ por elecciones al Senado en Alaska: Acusa a Mary Peltola de manipulación de votos",
-   "medio": "El Financiero",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd05RMjMwTGhLdmJ6YVNBRGNBQmRXWDVQNFZFamZkM0xhV1EzeEFlNTZNWVZ0bEZfY3ZqVVFVdGlrTGFkQ1QxMmFNTDZndGZpUVBXWGdMZWhscXFYejA0Y0JLTi1pTWN3ZDllZHgwd2FEM19OV0dSMGlxMW5YVTI0Q0FkQldFUGFheHVsQV9OUDVWdDFwWFBLaHlfR0RQSlFXNUNrMDRzcFpET3NybGd5YWtVZThTVlkyU3lFRHJZSmZhemVRZUk0a3NVMEVuR2R4RzFxLWk0MWl1VTZObWF2R2xyNVpWUEUw?oc=5",
-   "fecha": "2026-10-29T05:07:00+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-58759bc1e184",
-   "titulo": "Oye Cracks | Peso mexicano frente al dólar: ¿qué podemos esperar para 2026 y 2027?",
-   "medio": "El Economista",
-   "categoria": "Economía y política económica",
-   "tema": "Tipo de cambio",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb3FUeG9sTU94djRpdndIUS02enpaWlpxejJMcnMzR3NBa0I4dkx1MWh4VnZ6Q2o0QjlKSUU5akhETy1YcVRocDJQQ0ZXWERNM19SY2FGLXk4SUVkeVlFZDFtczhPaVF3UFlGTllOTjY0U2hUaTBqTnIxS0pIeWVnSVR0a2d5M0VnZDRQMEkwOW9rV1A1RlVCbVNPSHhJUVRDZzFheDZtellxanNFcUdFc1dn0gG3AUFVX3lxTE1STHNtU0ZienRtWGtqWF9Zc1oybXFaT1FUZDN4TGRsQV9jX3kya0ZhcENDMnVwVWRmOWRUMmNMbktSalYxME5sWlZRaUdINzRwaU1YeWsxdnZfOVdMR21TbFFMREhuSkM0cmtmVlBBUXJXLXVpRV83MlVUY3U5MmsyeE1QQm1VWGhxSnQxUmR6SHo3ZDdmMkJfVnBjNXNvUFgzMXlpODJNWmt1MkxWMnZSVzJZTXJWRQ?oc=5",
-   "fecha": "2026-10-29T04:39:52+00:00",
-   "resumen": "",
-   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
-  },
-  {
-   "id": "nt-524595694f40",
-   "titulo": "Riviera Maya: la importancia de invertir con disciplina en el mercado inmobiliario",
-   "medio": "Forbes México",
-   "categoria": "Empresas y grandes negocios",
-   "tema": "Mercado inmobiliario",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWcyaTI0VUZySjV4Ui1YZHA5SlJkMmxXZkVGNEFFbW9uM2VVVWVfaXFpV1hqWmJfLTkzSWxNT0JWdGRTMGtUYnhxbVROVmN2UEJvNnlzNUcwNTFQNEVQZlpldmhPcEF2OXl3eFQydzAxN29MMmRNMkJNekFlNmRLSHlyLTFFYVI2Rjhlc2dNMDhVR2FyMFBJX3otSWtub0NyV1pVcFNUbC1MRWxzVEtkNkFGV3NOZXM?oc=5",
-   "fecha": "2026-10-29T03:06:00+00:00",
-   "resumen": "",
-   "impacto": "Refleja la oferta y demanda de oficinas: menos espacio disponible suele empujar proyectos a la medida."
-  },
-  {
-   "id": "nt-313f96a6853c",
-   "titulo": "'Checo' lleva la F1 al Paseo de la Reforma • Actualidad",
-   "medio": "Forbes México",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLVk9TcExuVE5jaWRlOC05aFFjVVBuZFVUUGFZNElRWDk0c2JHelFpTUpWV3drSVlZcjlMdzBjMGlsSVpMWVB6TE5TamNmWnlJdXM1SVF2eDBrMi1MdXB2ckRrWUJicmh6cGNOcmprVE4?oc=5",
-   "fecha": "2026-10-29T02:16:00+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-d0d322bd7a00",
-   "titulo": "Ley de Economía Digital no será \"draconiana\" ni eliminará el efectivo de golpe: ABM",
-   "medio": "Expansión",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZHN6NGRCcEV3V3l4TzRjbE5EYnBZcXdpZWVNUThYTHQzU1VKNWQ5Sjl4c0YtZXpvR1NVUVZ2eUI1Z0oxQXdQQmV1N1FoQmd3cFA2ai1ESmo5NC0td0lCejhJcmFzQVZzZG4tY0ZFSTlUUEN5REs0aHdQVzhuMXpTMk9MQVhsRF9iNUZQZ214UlFuZ0NibWUyRnJNUlE2N1NvWUhuOVdpR1FFekZyNWYxV1VMVEpCNWE5Um9SMWxEZGpWZ1ZDV0w5YndPWkFhVXppVnE5M21KOFhPNWNFT0tLZjdWbWlyd9IB8wFBVV95cUxQUVRSNGkybGF6eV92ZFlOTGZkTlpQbDNxYjNtZExieHJaLXRKaGhJR2VsdmV6RlpQNHpvWklHbXdaZnZmTTJETTA2bzZwSUE2bW5JUlR0V0dEeHNMdXg2RU1JMW1XNzRDOFlkX2VBZ3poNEdZUWQySnVyZHlndnBIck1YOC1ENl9iblJVUHRpOTNITEZxazB1Ylp6QnQyNFpCZ0U4aHlmbTA0YmdMdjJWTlg3NnZRaF9tZFR6WFQta2dlXzAyNDVpb1V5ejJFUXhEbjRfRG5qRmNNS1ducVRLTXJhamxXang1ZnFPUi1zTnhlazA?oc=5",
-   "fecha": "2026-10-29T01:55:00+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-249e8b372a94",
-   "titulo": "Senado autoriza el ingreso de 28 militares de los Navy SEAL de EU: ¿Cuánto tiempo estarán en México?",
-   "medio": "El Financiero",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ0N3dmRKaTFaRHA5Y19QTlNILTFSOWlQendEalNLbkpWclQ3QjI4Zi1nUjVUdUg2a2hoZGY5NTdEYWNoNlpaeGxyVGxkS2ZlS09hdUI2V25tR0piNGUyY2VfQk5VNWk4RVFRS2FDR0V1LS01OXd5OGxyeVotZVctcTNhSi1wQklfSjVMOHlyc2VjRHZwTGV5YXlTaXFpeWd5NDRYUl9ZT19YblhTN3lreW9STWtxMG5rOXFtQmZxbnNSaEdNUzZvOEN5UHFmYW5KT1I2MDFUZ3ItbFEyNnk0RmdpOTc?oc=5",
-   "fecha": "2026-10-29T01:45:00+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-4aad959e7c8c",
-   "titulo": "AMDA pide decreto presidencial ante la ley de ISR para evitar el cierre de 1,000 agencias de autos",
-   "medio": "El Economista",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbG93ZDVmaXBOd3FIS05YS0RFYTFEX0VsNjdBR2ZTZzc2MHVFSy0zTkNZUDdnV3ZRdE13LW9mbkRsTkZpemRzNGthdlBacjFsRGdRREQ0QzdRY0pUaHpseFdQeHZINGZrXzFzZDQta09zYzZUZm9uWERwYW82UUg1MDVOY2hGOVlvMGVEeGlDSjZGNXpqT1JNY0tSZ0xCRDFvdUpxRXpwbFY0WVRkVDc4aGc2Q1hJTTBpRHo2MGZkRk1KQ2h1c1M0a0xoVlF0T2Zq0gHWAUFVX3lxTFB3T1pQajBGR0UwOWdPemw1eXFHNUZHV0N4V1FNLWdURXJpdGlISlBPODRLeHdMZTRFSzBmSW1rX1FDb3VjeVBkaVVoYndnNmw0SDlrUXFJWE9VNW94eVNNZ3FJZW1rdUc5c2NCRXVuajIzaDg3TkxBcGpSbDd5bzI0ODRidmJsS3N3SDYtSjRScnM5YlVHenptZmRYZFRsZ2psSUV3QVI0OGdOc0VSeHdiTXpYMXRVUjBid0pRMzhOdk5wVnhWSGFCSWg1Q2xkRC1Tak9Qcmc?oc=5",
-   "fecha": "2026-10-29T01:30:36+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-4aca56b29040",
-   "titulo": "Dudas técnicas y prácticas sobre reforma de plataformas digitales retan su implementación",
-   "medio": "El Economista",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcWJyZVhMQ0xaYnlJVHV0TDc0Ny0tNHAyczRrMS0zZnkwUlhzbExLemlVb3RSdHJoZk9pSmtPYlVHNzdwZE9YWDZiUTQtcnNsWUR5bF8waXRxZFlUbWY0MlJEUTJHbTRtRXNWUklqd0dkanFYUTlhRlJ6OTN5dENJdVFFbG1BYUhfSGFyVjZqVjJRQjRFTUZsYXJ4OGFyMVUzdUVkRllqQnFJeGcxOVoxTWNQRVNzdmJtb1ZROXRGSlprejBpUlZMYlI5S3BPMDBGaU1ucHRjQWZ6NEtaUzluVGZsa9IB6AFBVV95cUxNdkprRXhLcnVDZzhydU9ObGcyN0JHeEUxNmpHN1ZDbnRJdkpoRC1JMTJVS3FvZWI0ai1RQkhiRTc3V1NmM1FiQkdCMlVJbkxfREEtSWRGX0lZUGVDbXFQRGFHanBtbXQyVGtSVGxDSjNuUmdfTmxESk1FSGpiOWlYeUVyTGRYUVRxNmY1VmVFVEZfLS1xV2VEQ1dxbVBZakhtUmZfeVBjWXkxMzFMWEZobnhrc0N5Sm5RLXRZNzhvdk94TnZjNFJSRE9PQjNNbHhEYkNOU1BrSDgzMF9uNnRmZ29FalRjRVVk?oc=5",
-   "fecha": "2026-10-29T00:47:39+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-c0214a6396cf",
-   "titulo": "Costo de hacer negocios en México aumenta ante alza salarial y reducción de jornada laboral: Walmart",
-   "medio": "El Economista",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Empleo y salarios",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2NSMGNRMGhPNzdTeVAtY1pRbW1xV0VIcDVWdXRjVEJZbkV5Ny1OQ3phdGhaR0lBQmM0S3dqS20ycnV3WlR5ZkRQWC1TVjE3YTk5M1RVX25qM2NLZVlaNmlSSnVTVHRzZEFuX3o1RFl4dXBnYTFYWjV2SzV6clhKN3VPcFlCVk5lclRFeWNEY0NyZFhkX1U2anlRYTZVUWo3Mk8tdFRpX193OFpNOTJ5UG9jcUxKYTRybVNxaE9XZWZfUVU4VjdrdzVhX2h0UkotZnE0OUZn0gHbAUFVX3lxTE9qYWtzN0lPVC1SNGozM09Tc1J1MmRwOFZVRXlUVnJfYkdZVTJTUWdhOTNiWEhWTzdNS29seEpoR2cwN3VmUHNIbklabkduaUg5N25FamNZMWNES1Ntd05JbzFtSWdnOTg3TDk0bHprdm0tTDBzT2FvX05rOUxjUG8tSG9zdmZvZ1pPQm9sN1VtNDVIb0FlMW9qTHpuR2ZKN3pfVDhXZ3dmN0JfUGJSWHhCLVNDT2pUbjRYVFRwdTkwR002QVRvb1ZuNnpzM0pfV21zbFU4bDJadHhSUQ?oc=5",
-   "fecha": "2026-10-29T00:46:35+00:00",
-   "resumen": "",
-   "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto."
-  },
-  {
-   "id": "nt-1fbfd48530ba",
-   "titulo": "Arroz frito con carne wagyu en una casona de 100 años: Así es Catch, el restaurante de NY que llegó a Reforma",
-   "medio": "El Financiero",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSENJeXJsX19GQzVGOUdTX1puRHMwajNjQ09sa1BEQXVFSW50SHVkUmcwcFRPNGo4VHN2dWQxMlZ4SF9ZeGplbXkxLXM1RUhJQ2t3eWxDeGxlYVd4NWMwdXRYSkxuSVNNQUZtS0ZQWmduZm1wVWl4X3VlUDl5TnZ6cXhkUy1RTzhLY2tTNEVXbTJkRkxwN2UxalBLaFJKcDNYN3AyOU1LVElvNDE0Zk0wRnVkTXdFVVVzc0NoM2FDdjV5Vkhvdm44VkhsNVIzY1JvOFBnQnhDN0dKMEVpZzVUUE9MV243ZGlscmc?oc=5",
-   "fecha": "2026-10-29T00:43:00+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-3d32a91fcadc",
-   "titulo": "Cláusula de exclusión futura de aranceles dificulta la negociación entre México y EU: Kenneth Smith",
-   "medio": "El Economista",
-   "categoria": "Economía mexicana e internacional",
-   "tema": "Comercio exterior y aranceles",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdjEzUXJ5THlPYzVSOXZNZGc2WTFpbWszcTRoWDB0Y19hSjA0NlRZNllNT0JlUnVwWnQtSGgxYTJFY2R2LWszamtZNFc3VEhBLTEtMWZoZUVERFRXOUd3a0VPa2dGQlEtQjBDQ2F4Uk12X3gwcjlYWW9SR280aEFydVU5a252aDJ3SmJBRy1faThMZm9yNFRtc1VsMTVoZFVSREFKTENVZnBlM25iTXBGMEZyTlpUcnQ2WVlkVGlmaW11VS1oODNJZDZTY2JXOThlZkZadXlZS3MtaHfSAeABQVVfeXFMUHZPajhPLUdqRHJRLWN5bDJmVHJ4cUtFVzZoS2JGTG9za2k5SktlQ1pISE5iSDB5aGJJUTBCc2pIRF9XZ1dvXzJHYW5JcEY3R1VoaWthVjRIYmZPWmZPUTZuaENTNzRWaHlJWGY2VUo3QTdoM3VPTHpjTUJFUHptZGZVNy1qQVFBLVRBNDNaVEx3dnhVX0FqQkNDUWhFaHZvdmNKckNjZk5SaS1kazdGNVRaVE1BSDNYYVl4aUtsdjhUOHlkajFZSzI5T2h0YVcwTG9HTUhORUlRZDRLZXphWkE?oc=5",
-   "fecha": "2026-10-29T00:31:36+00:00",
-   "resumen": "",
-   "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas."
-  },
-  {
-   "id": "nt-a25e020fb524",
-   "titulo": "Estados Unidos quiere vender más alimentos a México, pero también quiere vigilar más al campo con el T-MEC",
-   "medio": "Expansión",
-   "categoria": "Economía mexicana e internacional",
-   "tema": "Comercio exterior y aranceles",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZTZubHNLZ095azhFLXhDM2I5X2twQXZUdFlRTnFWOFV3bm10YmhHUFJFX3dRdUhua0RWM1U0OGl6dDIwa1lXU2tzRG5jRGlobjRlazQ2RVpyNG9LZGpENkN0Mk0wUVAxWlhDRW80QVBwakhoTE5JZGR6UFllVGc5ZHNmTi1PYTTSAZQBQVVfeXFMTUljemMyVlFjNEtSUW9DNXdRMm9fQWlUUG1Zd0w4TGozYmh6Y1BuWEhkYlFCN0JKbGliVFEzcnl1SWpYRVo4bkRvRE9xd3dMdnNSSUVnclFNeVgwTm9iR1ZMTGFQU1ZabG9SMFhDdHJnNGNJWm45YzBmeU5lYXB6cldfb3VEXzFwczVVRTgwUXJ1RjVlQQ?oc=5",
-   "fecha": "2026-10-29T00:24:00+00:00",
-   "resumen": "",
-   "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas."
-  },
-  {
-   "id": "nt-5bab7e7b71a6",
-   "titulo": "Ley de Ingresos 2027: Así se compone la bolsa de recursos federales",
-   "medio": "El Economista",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHVVWDlieGRudlR5bDA3SExPN1JNYlRIV1YxTEwtZ3NVWG9aUTQtT0oyZmwyb19TWGRuTWt2TGtRWS1lVGZSZE9VWllfU2xZaUlNUVcxbUdURXJseENKbk9JaWRjSjFwNGw1Tm5HWmxxQ3NuRVJ2bzhsZFB3c0E1S2hiUG54c0lhWjk5b2doVVoxTDZVZVRKd2EwTGQ5T09ySF9XWjkzUFNjMVk1VE9Ea3VIYTNqS1nSAbwBQVVfeXFMUHdDZFJ1N0NVOENIVmF5eHc5SjQ1YUxhQ19pOXJnM3NSWTBkMEFKRWVrQVNaMjFiS3hjT1dhTVphTm5Qd25PRk4yR1VZUWpjdkNBTy1GRDgwVjNDeEFuVzN2WURTaWRUbnFLRUZ5YW4wWTE1ZTJZYzFVWTg1aUlrcFVvWVR4WGxmMnVDR3RiVTFnSE9Ib0RXbEtVRlVKMFM3akxpTThHc0pXQ2ZTNUs4VFBBbkdWRnBVc3VYT2Q?oc=5",
-   "fecha": "2026-10-29T00:23:36+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-b263a6e704b2",
-   "titulo": "Nueva ley catastral: qué pasará con los terrenos sin registro y las propiedades subvaluadas",
-   "medio": "Expansión",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3YwRW5NN3RpUTFNT3ZVakdOTDFKVjhwTkZjcnZHenBkMUxvQlc0NG14bzhPdXVmekpMc3dzakxsdWQ4Ymo1ZGE1Q0pRd3l1ZngxbUM3NmNLSWFXTDNOWm5KYTRORVdlcjdfYkE0QUx2cFpkM3ptRl81LWhjVTJONWVpVDJ2X253SzYwOVpibmJqUTBBZURBX2cwS3prZWpSbWh6azN0VjRxZ9IBtwFBVV95cUxNODhib2hzbll3MlRDSDdGQVdkcnFuamozSW5wZUtKcXlFNkNoQTQ0Sk1JTWNBaE1vRjFXLUZqZVRjRmZZWWhITDVPakdxTGhHaGd2U0hPdDdmVm14aUVWRWVvd1VFQ1gzSlNoU1YtM1FXVHNoME9kQjk0UjhnbHhfMTJzQzZIaWlaU3FZSUkxdXNDeXFiMG1SZGtRakJMZVFOeHdmeURPOXB1Vlg0OUxwRmZzMHQ0eTA?oc=5",
-   "fecha": "2026-10-29T00:06:00+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-ac55d6c6058a",
-   "titulo": "Le salió mal a Trump: Arancel al tomate mexicano encareció el producto en EU, asegura Ebrard",
-   "medio": "El Financiero",
-   "categoria": "Economía mexicana e internacional",
-   "tema": "Comercio exterior y aranceles",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOU5hcWtSTmUtTm1fbkwzYmdWY2FGcFhqSzduTjJ6dmNmSWE5Y1hLbVBYTlppU3ZfYnZYR1BsMUp5WmhsbXA2dHdveVF1WVNOVTFGZXdmUXNrNkRLU1FKQnRzYWw5WGlfRnVhX1p4REJFZXQzeWNYczFOMVBRNXFPS1lsUHo5OTBfLVBqNXJxT0o5MVpmUVpfZ293dFNSNGJseGFRMGlFdDhZMl9xQ1JPVFM3NHRXNW1NbXRWaFpsLVhMaEt5TkgwVXV5Ykw0bFJRR3ltN3MzRGQ2b3M?oc=5",
-   "fecha": "2026-10-28T23:42:07+00:00",
-   "resumen": "",
-   "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas."
-  },
-  {
-   "id": "nt-a4a50fc569ef",
-   "titulo": "Apple presenta una MacBook Pro con pantalla táctil desde 2,899 dólares • Negocios",
-   "medio": "Forbes México",
-   "categoria": "Economía y política económica",
-   "tema": "Tipo de cambio",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVTFsOXYxcjVrQUtKcnRVc2JCOURMMTU0czRrU3pUNDR5TnJHWDNiLWljZDZ5ZE94STJ3OWdXMHJ6aWxUc2g4VXhDOGllcDY5UVNYUjFCUWt0MGVlRExlTWpHVE50V2hHQVZYdHZHZVBsbFFuT3JpVDdSUjlzb0tNMDBwV0dzblV3YUhZM05rZERsaHhDTTM0?oc=5",
-   "fecha": "2026-10-28T23:39:00+00:00",
-   "resumen": "",
-   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
-  },
-  {
-   "id": "nt-2fa238b6ab77",
-   "titulo": "Pantera Holdings buscará comprar más acciones de TRAXION",
-   "medio": "El CEO",
-   "categoria": "Mercados, bolsa e inversión",
-   "tema": "Mercados",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNW13RGp0SFhkYTkwV0piQWc0WExLLWpEQkNudTJzV0tfUnlVQWUtV1p4dXRfWE9LSlFYX3R4Y193TlMwLURhYTJNTjhKbDU2ZjJpdXB5R19tUTRaSW02QVQtVHgxZEYxYW1aOXZWVVRwdEVtTlNaUmZ4TUROYzBjalRoM1ItZXUya2xxSA?oc=5",
-   "fecha": "2026-10-28T23:31:32+00:00",
-   "resumen": "",
-   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos."
-  },
-  {
-   "id": "nt-f229ab280ac5",
-   "titulo": "Wall Street cierra positivo tras decisión de la Fed: ¿Cómo termina HOY?",
-   "medio": "El Financiero",
-   "categoria": "Mercados, bolsa e inversión",
-   "tema": "Mercados",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSXBpUm5wbDZTcmZ0NExWdGhnemppNXhya3NZTl9zbTB3UTVod1pVNEI2V2RXVkxvd1ZkMVBQTjVOeTUyeDU0aVYzNEYzWUY5WjVYTXNnS29SU1lyVlZpTGxKOWtYaElzWTBKRWVLcjhFZTZZWVNRSVNlY0RyZmdZLVVBSExkZWN2TV9QVGtURGNLWXJOdlFMcDMtSmJQZ0hoVy03OUNn?oc=5",
-   "fecha": "2026-10-28T23:25:55+00:00",
-   "resumen": "",
-   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos."
-  },
-  {
-   "id": "nt-546bf7abccf1",
-   "titulo": "T-MEC: revisión abre oportunidad para atraer inversiones desde Taiwán hacia México",
-   "medio": "El CEO",
-   "categoria": "Empresas y grandes negocios",
-   "tema": "Nearshoring e inversión",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1NmUHJSdVZBQU9UbnNsMmx2cEhGUFNzZjBFVVl1MF9WbTAySzdaNXJUcjdRNlE5aEFCSENORURBV1dIX1ZGWUQtOXlmcmNlRFVSd3JIdi12SlB2WmdRa1RHVldGOVpnZUhBaURPU1VPR2xPQ0g4Vy1aaTUtWFFPdXFlUkFUTTB6VURQaEpuZTItdUxTRVlaOGdtREFjeUI0Rm1yTENtMXJxUzlud1E?oc=5",
-   "fecha": "2026-10-28T23:16:46+00:00",
-   "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
-  },
-  {
-   "id": "nt-0b06975f4fb8",
-   "titulo": "Los autos chinos empiezan a ganar terreno en el mercado de seminuevos",
-   "medio": "Expansión",
-   "categoria": "Mercados, bolsa e inversión",
-   "tema": "Mercados",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFJtVWRJdkJJSGtKRExvQ0xkZGxKWUtIV0JHbmpJQUNGbHJmUnZxdWtFUDkyaDRjLXQwOTcwMjhkQmlKTUltYzM4Y01MVFpvVnJ1T2xiNEU0TVBZYjFkU282S0R0a1VBR29KRnU1QlFLaUFQUWlVdzdmcE1yeHYzQ0wtQldHS0NsNFBnR2Rn0gGbAUFVX3lxTE9Cei1OYkdsQ0dXLWFkbXlxVTB2bXFxZW5SXzBUdXBOWkp6TXMyTHpoYWNHWXNDVkp2Q0tsQU5TcXBWZW1DU25QenAwazBETENBN3N6VnZiRVFaVEF2elc2MlNJd0xxQ3dDWURfaFNzOTRvcnR4X0NiMXRVT25vSW5ZeThMUWZsZUthTG9WYzRiY2NkRjAtWHNZTXhV?oc=5",
-   "fecha": "2026-10-28T23:05:00+00:00",
-   "resumen": "",
-   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos."
-  },
-  {
-   "id": "nt-b3dc6902bfc9",
-   "titulo": "SAT repartirá 500 mdp en premios en el Sorteo El Buen Fin 2026 • Economía y finanzas",
-   "medio": "Forbes México",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3l6V2FkOFZ0eS1vS28tZjV4TDFUb1kycGdnT3pvWXpwY19hS0FYVjc4alBBNks0ajRqb3drR1lUUTl5N0JNdGJOaEl3Nng1Wk1wdVozT1NzZy05Q2JJRXNzem5TVXFDNkhhNkktbno1bHZ5LVFxcDN1MkNwTVNFLVRSM3hPaEstUFVUZ1hR?oc=5",
-   "fecha": "2026-10-28T23:02:00+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-f47559231c37",
-   "titulo": "CICEJ propone crear instituto autónomo para gestionar agua en Jalisco",
-   "medio": "El Economista",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Energía y servicios",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmJGMnJwTU5vcGV3VmlQd2E0aFBwRFhNaC16TFNmWE5qSzRzMVE0RUVKaXBWdkVWX0hMUU5wY0ZUVHVXVTJWQXgwZHNHOEVfWHU5T05vNDBRRWoyRG0wNXFvaEx4VEdQMzJqSUpvQ0M3VHNtMTRMZmxqenM5SGw4OHZMSXVHTUFtUlNQdTVYcDVWSm5XQXlUVE51cnBlQ3FlOW9pTE9KOHBUc1dkaHJYckF3NTFYcklmUU1MZzBad9IBxAFBVV95cUxQS21xNUNVZ0NyT2VuN0U3TS1QWk5WeFU1ajdnOUlraVBhUHIzc2JiR2c3Z0s3Qkp1a1J1RjcyUVFwemtvMUlnSnNPaHBoTWc4UFBCMllfTXU0Wmh6MUwyVW5kWHd0RlFuWm1KbDZNVXpNNGtFZG4yOTQwNjFKWWtmcktGcnJJQlBTeF9FTEM3TldwU2RaTWF1YjA3MmpmV3JJTnFyV1VKNXZ0MUU4V3podVFUdDIxXy1laDNSLTZYWnJ0UFY3?oc=5",
-   "fecha": "2026-10-28T22:52:21+00:00",
-   "resumen": "",
-   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas."
-  },
-  {
-   "id": "nt-ebf79f955dfb",
-   "titulo": "Habrá Ley seca por Día de Muertos en la Alcaldía Tláhuac: Estas son las fechas y zonas donde no se venderá alcohol",
-   "medio": "Expansión",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzlhWVFGNW84bGI0WkRCNUVFdERBMUpWVXBudzJDZFcwYlFfZGJ1dnd3RG1tajU4b2hGaHZJR05QWVIxaFpyZTJaOF9hM0lSRXJFZEc4TGVubUhfZndpQ01aYXRzNDk3N0UtNGZETFhfYU1qaHZITlR6Z2s5LUpFODRLVFpKdTVtMTNVWl9tMHk0TGJ1Y2JHSGRoMXV4M0JiT2J6a0c5ZkjSAbYBQVVfeXFMT2VHX2JMVENDUF9BbmstVHM3N1RxMmFnV01FbXNkNXIzNEVSRExfZ1BHWFhrbHEway1YNWpIcm95Y2F1RzZwenpWWEhpVTJiSzdUTHZBT0plYlN5UDZRcXM0N3l5Z0llcWt0VWYxQXpaTVZFUzAxR205eVBJZ2dEVWYyRGxjSUpuQWZVY2JkT1BkRHhrcXNkLUFzNUtxbWRxa1VqMEsxWmtfRm0xTS04bHVZM0VWRlE?oc=5",
-   "fecha": "2026-10-28T22:46:00+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-844446703ef7",
-   "titulo": "Mexicanos compran más vivienda en EU: el nearshoring y la expansión de las empresas familiares alimentan el apetito inmobiliario",
-   "medio": "Expansión",
-   "categoria": "Empresas y grandes negocios",
-   "tema": "Nearshoring e inversión",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZjVHMVpZQmY4c0loOE1tbWNKMXpJSjdsUUl3UEpSS0pfdUJBamh2UHJheVBpcXBRM2RZTENoWE5GT2pVVkpBWmREOVJsQ0dDSFBYdHBLR3BFczNUYkV2dF93Njc3R29yVXVMUHlFMmpZSzFkZWJPWTNHdllUZFJ6My1sMi1TdVp1dnd0ZDZ0VjlQWUZicWJzanQ3bmZMMWJy0gGuAUFVX3lxTE10TTc5RmI3M3J4c1BqbUxCSnY4eXltb0hPUER2UGtrWEloSHRHSDdMcHZBYzh3Y3lid1VIdjVMQkw1dkZoeDRZU2U1MG5LNWQxbllGUFRTR2R6ejR3VlpxUkVUSnhkY1gwYjlUa0pVbzZjWWYwampRa2I2MnhLTVV2TGdybmVONlppUnRxR3pnS25ZZzV1M0lTYkJ6R3ZEXzFHMGl5b3BHSkdUemJQdw?oc=5",
-   "fecha": "2026-10-28T22:41:00+00:00",
-   "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
-  },
-  {
-   "id": "nt-15f9d36e2abe",
-   "titulo": "Ley del ISR: Diputados discutirán cambios después del Día de Muertos",
-   "medio": "El Economista",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXQzWHlEUGlCNUlIT01vbzhvMzZ5SGgwVnpXaUpTdWxvMi1ZNGJ4Z1hobjFGeHpWRDVUOGUxeGVORUlfNW1FbGY2alM1TFBsNV81MzZaVXkyTmZ4NGNrQ2tqbER5LVA2cUNLT2xwQkhmNTVoZVEtUWxGcXZlOFhSWFNSLThsVDcxRFJRVjlhc2ZmaWlHZ0VsUW1DVHBKQXJrZVJQZDNxQ2tOdmZBaElJ0gG0AUFVX3lxTE5xUk1Zc3lEcE55aTMzUjU4MnlneDdmdXhycjVZWlk2bTBXMFNkYWlIUmVMR3VLMXVMUHM0b2pBVUdwRmNCVmpBU2N6cHVtNnAwQnRFeHktb0gxQVBwRTFBWWNTWnZoaFduMmFTNnd1WGJSaUtSN2p4ZElCOFlBOVJqQWZMcC1CRVI0Nk0yLXItdE1fdjVNZmdNUmZKcHM3NzkyNXBsUjZ6cWhFX05DQmxPMk1jOA?oc=5",
-   "fecha": "2026-10-28T22:30:12+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-0a9217e10e80",
-   "titulo": "Bitso ya permite invertir desde 20 pesos en empresas del Plan México",
-   "medio": "Expansión",
-   "categoria": "Empresas y grandes negocios",
-   "tema": "Nearshoring e inversión",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQnVFek9Ja2ZZSzdPMmo0cDJJbTNsT0dfWHdwUnFzNjJhU29VbUFtWjJKNFpFeWdabHFyWUQzYlNQVm9hZldPRFRUY2ExSGJoY1pGOXN6OHk3R25OS24tVnFtSlVIM3BrMzY1TlNrSWMzcHRuLTlDdUI2Zm1YTVlXMXREcjFCYU5qTExnWTB30gGbAUFVX3lxTE5Pa3VhMGV0blVEblk0ZEJMekFFSFJUVGItRU1KRWE1MXBLYTQyczg2NlNNUjMwbFNiVmJfX0F0UHZoYmdEaUpTSkg0WVk3bElUNGZmODhfOTVrRHYwamY5d2NRRG11OWdRdWRQdEYzdmc5OXd3RkktQUdlWWt5WVAtOHdGUmwtaWxXcFdCTVZqRkI1cC1Qd0ZiRjRN?oc=5",
-   "fecha": "2026-10-28T22:25:00+00:00",
-   "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
-  },
-  {
-   "id": "nt-9a1114545bbc",
-   "titulo": "Tamaulipas concentra proyectos energéticos por 7 mil millones de dólares; cinco países reconocen su potencial de inversión",
-   "medio": "El Economista",
-   "categoria": "Economía y política económica",
-   "tema": "Tipo de cambio",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNUJ1eURqRGZEUXE0NEpkaFRXLTAxN0hlakJ6Xy10aDRLam1kRFRuN01QX1k4RDhoTXhrNWR1dnNRNHVmWkNZYjFXTEJYOThrQ192SDJqb01BYzAzeGNaRmhCd0tHUkdZWERqQm1faTYxTThEWjJ6b2lFeDRQUDVGNkpJWlRZUk0yai1mN3o3WHhKV0l1TVVIMHRuOUJ2SGVvQUxnNlBHRUZ0eUFIS2tsbTZkcm9EZ1hTcnVFM1Y2QVBxZjhKT2NJMU5qMDJXM3RMX3V5V1FQTXNNa0tKXzdISnB5ZU96bUcxWjBhYlE5bDlWT3VCTy0wUmV2bVJyWlnSAYQCQVVfeXFMTktNSEdJaHRkR05NV0UzMjF1TVhucFBSVjhyaXgzdkJ5M29sUTVlZjFkQnV6clFxMl9GY3plcENDY2VrRG9BQ1I1bW5oeVBtTWUxS1BmSkFqdVRDWXNLbVhBNkFMa0ZVQTFVNm1ELTJSUk1oZEdyeElMWWQ4VXBId0M1QWZCSW9hRWl2WmNQZXFTdlpjSmpXejNVaklqRGgxYndqLS16ZmNGRTV2RDJLU3hRZGg4MFp3aWk0MngzQldwOTBjQXNZZkoyeWxBckFEbHlqS3dZV24xTV9sbi00c2FSQkQwa21CeGtiUHR5WFhTVXFxOWtaOUhTckp4UEdjUm15NjY?oc=5",
-   "fecha": "2026-10-28T22:21:31+00:00",
-   "resumen": "",
-   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
-  },
-  {
-   "id": "nt-87732c7b1f46",
-   "titulo": "Wall Street cierra con ganancias tras anuncio de política monetaria de la Fed",
-   "medio": "El Economista",
-   "categoria": "Mercados, bolsa e inversión",
-   "tema": "Mercados",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQTRqQzdFR3lPZTVsaGw5MExHT0FqdEplNmtMSHFnVFB4NDFuU0Zpc3BsNTlwVW52NERMNUY2czhkM3BrM3pjTkg1Q3c3THllOWhuY3FPY3lKcV81Z1FIZ0szZTFPNEVsZUc0bFRjYUJ5c25VV2ZDd282VjFnOVkxTEhfdlgyYk9PeGp4WjNlQlI1MVdyaTFkNVFXbF84VTVTQlVjM0hvQ00yQkoySm1JRDY1Q1VEVk5vdjRfbG9R0gHDAUFVX3lxTE10a0VHYTZMR2VrcGFFdVlSaGpXa2swQkJYX2JXMC1EdFlNM0RLeFRvZXh6bUdqTHA4TExCMVZSbmlvbV9oN3pJQ2dBazBGQjAyZ0xsVVpwc3BlNnVFWlljZWx3QTJ6b09DeGZHWEV2ZEZXNXk4T1lqcTV3WTQ0VWpuZngta3c2dVBpSjMwSU5XOUxNYXl1cmZPLUdRVExUQkxva2dEV0JmTk5FY3hrdEZ1QVF2V0F4bWRiX0tjSGlOcDJtRQ?oc=5",
-   "fecha": "2026-10-28T22:20:08+00:00",
-   "resumen": "",
-   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos."
   }
  ],
  "items": [
   {
-   "id": "op-6af21e071248",
-   "empresa": "Negocios",
-   "titulo": "¡Nogales tendrá nuevo Centro de Negocios! Invierten 32 millones y abriría en 2027",
-   "estado": "Sonora",
-   "ciudad": "Nogales",
-   "tipo": "Oficinas",
+   "id": "op-5168acf58a38",
+   "empresa": "",
+   "titulo": "Inicia Estado en Ciudad Juárez construcción de la Escuela Primaria Héctor Genaro Arras con inversión de más de 9.5 mdp | Portal Gubernamental del Estado de Chihuahua",
+   "estado": "Chihuahua",
+   "ciudad": "Ciudad Juárez",
+   "tipo": "Escuela",
    "origen": "Ya en el norte y se expande",
    "senal": "Nearshoring / inversión",
-   "fuente": "El Diario de Sonora",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNWplRlNhNzBQM0xZTDNHTXc0VkIyNUdPOHJxcUJKQVA4RFVtZkRyYUp6RWVsWnNxOF9YanBWZmVkNHFaMk80dnJqRU1XemxrRFpibEtYWS1kMHBLQmtsdEdETjNJcVZpNUpmQklPVk1QOUV3VnM0Z1NNak1lV0pvYkFlMFdCTHd2QWQ4elR4bUhPTlBPSnZRSU9lRUxXcFpiREM4ZjBGSHFYZk9wN0U2VDk1ejkzZzFzYXdjY2FQa0YxS1dDSWc?oc=5",
-   "fecha": "2026-10-16T19:33:28+00:00",
-   "resumen": "¡Nogales tendrá nuevo Centro de Negocios! Invierten 32 millones y abriría en 2027",
+   "fuente": "| Portal Gubernamental del Estado de Chihuahua",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVQ5VktfODFscGUxcXNWbkJUQUhUSjFhdUFJOGVPUmlURTJ0THJscVFGWkIzWDF5aUdFUUszWTdhYWZOTEQtT1RuQ1Z5M0paLTlPMG1uWEowdHJRcWpQWTNBblh1UmNoTkUxTU9iaEZVX1ZHSU9ySmx1TlVsb1pFTDloQTJObUpLTkxJblJSNmRuQjVETTM5WmN3WThpNXdmYUFOSFk1eGJZOERXUzlSTDl5a0ZvU1pzeXFPUkxZc2Y2NExU?oc=5",
+   "fecha": "2026-10-30T20:15:09+00:00",
+   "resumen": "Inicia Estado en Ciudad Juárez construcción de la Escuela Primaria Héctor Genaro Arras con inversión de más de 9.5 mdp | Portal Gubernamental del Estado de Chihuahua",
    "bono": 5,
    "enriquecido": true,
+   "prioridad": 66
+  },
+  {
+   "id": "op-6d6f9596f815",
+   "empresa": "Nefab",
+   "titulo": "Nueva planta de Nefab en Nuevo León prevé generar hasta 100 empleos",
+   "estado": "Nuevo León",
+   "ciudad": "",
+   "tipo": "Industrial",
+   "origen": "Ya en el norte y se expande",
+   "senal": "Nearshoring / inversión",
+   "fuente": "Real Estate Market & Lifestyle",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjZmZ29pV2NRMEwwVm1uZ2VmdDNZTThKLWlNV1dOeExVUWZiMUc2d20xbGktenRVM1gxUUt3Q3NKZlBFRV92UFpvVGtWQm9BS3p6SnJTMnZDTEdrOEtnSk1DZnhSenFTZDFFUnhLMWNva2sxMnlNLUE2N2ZzLWVaM1dVLTlkdk9QcmtBSkZsal9PNEd2ZTdKRllyRUJVb1JQRWJzeHpSWGlrTVBfbHJ6akN6ajM?oc=5",
+   "fecha": "2026-10-30T21:28:20+00:00",
+   "resumen": "Nueva planta de Nefab en Nuevo León prevé generar hasta 100 empleos",
+   "bono": 3,
+   "enriquecido": true,
    "prioridad": 64
+  },
+  {
+   "id": "op-22cf43b927bb",
+   "empresa": "",
+   "titulo": "Planta tratadora de Altamira iniciará obras físicas con inversión privada",
+   "estado": "Tamaulipas",
+   "ciudad": "Altamira",
+   "tipo": "Industrial",
+   "origen": "Ya en el norte y se expande",
+   "senal": "Nearshoring / inversión",
+   "fuente": "TAMPICO",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSFBaT25iZldXUVhyTG5ldTRqQ0ZOeUo4SkZXeFRTR1VNX1M2ZnpnLTNjU3M1UDNqRk5zM2hHUkUwV3VEQVlUbE5DbUJkN1lmNS0wRGR5SGZFUVZyYkZ6bFZnMEVjT0gtMTYzZ0xTaUxoV1lGeDFjZzhtd25mcFJHY1otZm9RV2JOSFk0bkVhVk5SdU9fai1rQmdkQXNEbnlWN0FtQzRn?oc=5",
+   "fecha": "2026-10-30T19:49:24+00:00",
+   "resumen": "Planta tratadora de Altamira iniciará obras físicas con inversión privada",
+   "bono": 0,
+   "enriquecido": true,
+   "prioridad": 61
   },
   {
    "id": "op-434bc288b135",
@@ -1732,7 +1769,7 @@
    "resumen": "Detecta Tamaulipas deficiencias eléctricas en 200 escuelas; prevén inversión de 400 mdp",
    "bono": 5,
    "enriquecido": true,
-   "prioridad": 63
+   "prioridad": 60
   },
   {
    "id": "op-9383762b2046",
@@ -1749,7 +1786,7 @@
    "resumen": "Chihuahua tendrá una Planta de Residuos de mil millones de pesos; municipio aportará 26% de la inversión",
    "bono": 5,
    "enriquecido": true,
-   "prioridad": 63
+   "prioridad": 60
   },
   {
    "id": "op-d08b6e46bc82",
@@ -1765,23 +1802,6 @@
    "fecha": "2026-10-28T21:33:23+00:00",
    "resumen": "Nefab inaugura la planta de producción de « ExPak » en Monterrey",
    "bono": 3,
-   "enriquecido": true,
-   "prioridad": 61
-  },
-  {
-   "id": "op-addd49ecf77e",
-   "empresa": "",
-   "titulo": "Planta tratadora de Altamira iniciará obras físicas con inversión privada",
-   "estado": "Tamaulipas",
-   "ciudad": "Altamira",
-   "tipo": "Industrial",
-   "origen": "Ya en el norte y se expande",
-   "senal": "Nearshoring / inversión",
-   "fuente": "www.noticiaspc.com.mx",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaU1Fc2t3UF85Wmg3TGc0dlJqZjI1M0M0R1hDLU9QR2RKZmd2Nk1vSnV4dUtkWURONm0waDVHZHY5LXl3RGtoTkpNS3RQOXEyaU0wX00zWGFveEkxSU1WemU2OHA2bjlkOFh4OGhZaVJwVkg3VUxiV1VpWTU2dExnTEg4QTNQQmJnUzlRQjkwdW9VdExxUkFpSjlCTmFBaXpxY1otSjdzczBOek9XSDIxeUdRNlM4dw?oc=5",
-   "fecha": "2026-10-29T17:17:09+00:00",
-   "resumen": "Planta tratadora de Altamira iniciará obras físicas con inversión privada",
-   "bono": 0,
    "enriquecido": true,
    "prioridad": 58
   },
@@ -1801,23 +1821,6 @@
    "bono": 5,
    "enriquecido": true,
    "prioridad": 57
-  },
-  {
-   "id": "op-f7ff04db3cff",
-   "empresa": "",
-   "titulo": "Tamaulipas invierte en reparar escuelas de Reynosa y Matamoros",
-   "estado": "Tamaulipas",
-   "ciudad": "Reynosa",
-   "tipo": "Escuela",
-   "origen": "Ya en el norte y se expande",
-   "senal": "Nearshoring / inversión",
-   "fuente": "INFO7",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDJSYlgzUnlNVDl6UDEtZVNnMmpRR2c2a1V1V0V6RmRXNUZPVlRRcC1tUkVlWVMzcHd2SFZkVFE3V3JtMTQyMVYxdGRSa09wUXJxdGJFcW8yVGx1OVlRb3cyUnFIZnc5WHlFSENheHQzSjZ0ZGtsMmdkOTRYQ1RmTWdGalVxRnJNM01sV0xFTFIzNGFGSFI4Skd4a1dkZTEzZFB6RWNWU2o?oc=5",
-   "fecha": "2026-10-27T16:14:00+00:00",
-   "resumen": "Tamaulipas invierte en reparar escuelas de Reynosa y Matamoros",
-   "bono": 0,
-   "enriquecido": true,
-   "prioridad": 55
   },
   {
    "id": "op-b3c464dd6891",
@@ -1871,21 +1874,21 @@
    "prioridad": 54
   },
   {
-   "id": "op-fb3424d63c97",
-   "empresa": "Arcosa Meyer",
-   "titulo": "Arcosa Meyer invierte 2,100 millones de pesos en ampliación de su planta en Coahuila",
-   "estado": "Coahuila",
-   "ciudad": "",
-   "tipo": "Industrial",
+   "id": "op-f7ff04db3cff",
+   "empresa": "",
+   "titulo": "Tamaulipas invierte en reparar escuelas de Reynosa y Matamoros",
+   "estado": "Tamaulipas",
+   "ciudad": "Reynosa",
+   "tipo": "Escuela",
    "origen": "Ya en el norte y se expande",
    "senal": "Nearshoring / inversión",
-   "fuente": "Tribuna Económica",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQWMtR2ZOUF9SRTlLYlJRdzFRdEM4eC12N0UtQURSN3BFbUk1aEJoVExKZlVWRXl1Uk1INUtaNDUtQ1cxRV9aWHY4bHRYc1VwTUhWdVVDWXZCZXpHblBQdEtwWkRxclQ2QnJfeElkWnV0Umh4cVZKaElEYnE3UGxlNnVFdFhocFpjNDAxZmQzeEtKRjEzU1pIMWFqV09lZ0xZcVItWHgxWTZjR3owMVliZGgyZUxQNTNWSE96VE9KNmpzOVRhYUM2cERiaS1GWlJNQ3A0QlZLdVFSQ1d0Zk9kNg?oc=5",
-   "fecha": "2026-10-16T22:33:55+00:00",
-   "resumen": "Arcosa Meyer invierte 2,100 millones de pesos en ampliación de su planta en Coahuila",
-   "bono": 5,
+   "fuente": "INFO7",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDJSYlgzUnlNVDl6UDEtZVNnMmpRR2c2a1V1V0V6RmRXNUZPVlRRcC1tUkVlWVMzcHd2SFZkVFE3V3JtMTQyMVYxdGRSa09wUXJxdGJFcW8yVGx1OVlRb3cyUnFIZnc5WHlFSENheHQzSjZ0ZGtsMmdkOTRYQ1RmTWdGalVxRnJNM01sV0xFTFIzNGFGSFI4Skd4a1dkZTEzZFB6RWNWU2o?oc=5",
+   "fecha": "2026-10-27T16:14:00+00:00",
+   "resumen": "Tamaulipas invierte en reparar escuelas de Reynosa y Matamoros",
+   "bono": 0,
    "enriquecido": true,
-   "prioridad": 54
+   "prioridad": 52
   },
   {
    "id": "op-53fae62774e3",
@@ -1900,40 +1903,6 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVWg1N2x3b2JxTVBYT3BHczQzLURRYXh1clVQcmlDUnJ3TURPdldkYWVCQnJnbXhKR1p6Ukt3OW11YWg3YUxoRGxncHpUWDRrOTQ3RzYwX1dadkpwaXhxM3hjMUhrZThEY1JPVTRPUWNJQWJTQjVvM1RtQlBHZEJyRkR4UdIBiAFBVV95cUxOOURFbXdobXZVMVZrQjRlM0pCZW9kcEtUalM1TU5WOFRnLVhSVlBOZ0VHRVI5Ti03dDVkbmpFaE9JaTFYQ21ZM2JfTkpmUWo5WGVvQlBNNi0wUEJud1ZXbHlhWDRSWWhRbW9qNFg2d2M3VDZxMHplSGJvalJ2SS1HaEUyR3BQbjJx?oc=5",
    "fecha": "2026-10-24T17:28:28+00:00",
    "resumen": "Mazatlán podría tener una nueva planta de gas natural",
-   "bono": 0,
-   "enriquecido": true,
-   "prioridad": 52
-  },
-  {
-   "id": "op-4394fb989b10",
-   "empresa": "Celebra UDS XV",
-   "titulo": "Celebra UDS XV aniversario de su Escuela de Medicina e inaugura Centro de Simulación Clínica en Hermosillo",
-   "estado": "Sonora",
-   "ciudad": "Hermosillo",
-   "tipo": "Escuela",
-   "origen": "Ya en el norte y se expande",
-   "senal": "Nearshoring / inversión",
-   "fuente": "Proyecto Puente",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3drb3hFaWhyRFBnbGJNMGRhUzFpcTJLbzVxNHlxVnZzZE95UUxuY1RITTZYSXJISWsxWFZVNFpsOE84aFNYd1JaQlVrbjBtN3kxblFDenZPMmRmbms5SkktYU9oTXJ5SWlFeDIzak5hTXptYUlVVFNCVUF4TTdRMXBhVWU4TWRWZWZlMUU0cEdJUlRfeUN2aWlTNEFNZ2dEOWxWZy01UktremU5TkhoN2dNd25rcmJGN21SdThZdThKNi1yMmpYaEJDYkJrOXRZM084SC1YLWdEdEhPUVBELVhR?oc=5",
-   "fecha": "2026-10-23T19:51:08+00:00",
-   "resumen": "Celebra UDS XV aniversario de su Escuela de Medicina e inaugura Centro de Simulación Clínica en Hermosillo",
-   "bono": 0,
-   "enriquecido": true,
-   "prioridad": 52
-  },
-  {
-   "id": "op-97039edea307",
-   "empresa": "Crece",
-   "titulo": "Crece la inversión tecnológica en México: Daktronics abre planta en Coahuila para exportar a Asia",
-   "estado": "Coahuila",
-   "ciudad": "",
-   "tipo": "Industrial",
-   "origen": "Ya en el norte y se expande",
-   "senal": "Nearshoring / inversión",
-   "fuente": "EL CEO",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaExaQjVDdG1lZV91b3hfa3FWa2l0Zk9BSXptSEpKcHdUS01pcjhocTlaZ3k4UjJseWFfLWtaZFB6YWhpcHpLMnpTSHk2VFQ1T0ZtR1ZUTnBjRklhc005dm04TzA2RzFUMllCZ1FjOGR6cmhZcmh3OU00V1hIMEJTWWV2S21ScFVvak1xWnoxLWs2UmhGNFgyd3NR?oc=5",
-   "fecha": "2026-10-23T18:51:35+00:00",
-   "resumen": "Crece la inversión tecnológica en México: Daktronics abre planta en Coahuila para exportar a Asia",
    "bono": 0,
    "enriquecido": true,
    "prioridad": 52
@@ -1988,6 +1957,40 @@
    "bono": 0,
    "enriquecido": true,
    "prioridad": 51
+  },
+  {
+   "id": "op-4394fb989b10",
+   "empresa": "Celebra UDS XV",
+   "titulo": "Celebra UDS XV aniversario de su Escuela de Medicina e inaugura Centro de Simulación Clínica en Hermosillo",
+   "estado": "Sonora",
+   "ciudad": "Hermosillo",
+   "tipo": "Escuela",
+   "origen": "Ya en el norte y se expande",
+   "senal": "Nearshoring / inversión",
+   "fuente": "Proyecto Puente",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3drb3hFaWhyRFBnbGJNMGRhUzFpcTJLbzVxNHlxVnZzZE95UUxuY1RITTZYSXJISWsxWFZVNFpsOE84aFNYd1JaQlVrbjBtN3kxblFDenZPMmRmbms5SkktYU9oTXJ5SWlFeDIzak5hTXptYUlVVFNCVUF4TTdRMXBhVWU4TWRWZWZlMUU0cEdJUlRfeUN2aWlTNEFNZ2dEOWxWZy01UktremU5TkhoN2dNd25rcmJGN21SdThZdThKNi1yMmpYaEJDYkJrOXRZM084SC1YLWdEdEhPUVBELVhR?oc=5",
+   "fecha": "2026-10-23T19:51:08+00:00",
+   "resumen": "Celebra UDS XV aniversario de su Escuela de Medicina e inaugura Centro de Simulación Clínica en Hermosillo",
+   "bono": 0,
+   "enriquecido": true,
+   "prioridad": 49
+  },
+  {
+   "id": "op-97039edea307",
+   "empresa": "Crece",
+   "titulo": "Crece la inversión tecnológica en México: Daktronics abre planta en Coahuila para exportar a Asia",
+   "estado": "Coahuila",
+   "ciudad": "",
+   "tipo": "Industrial",
+   "origen": "Ya en el norte y se expande",
+   "senal": "Nearshoring / inversión",
+   "fuente": "EL CEO",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaExaQjVDdG1lZV91b3hfa3FWa2l0Zk9BSXptSEpKcHdUS01pcjhocTlaZ3k4UjJseWFfLWtaZFB6YWhpcHpLMnpTSHk2VFQ1T0ZtR1ZUTnBjRklhc005dm04TzA2RzFUMllCZ1FjOGR6cmhZcmh3OU00V1hIMEJTWWV2S21ScFVvak1xWnoxLWs2UmhGNFgyd3NR?oc=5",
+   "fecha": "2026-10-23T18:51:35+00:00",
+   "resumen": "Crece la inversión tecnológica en México: Daktronics abre planta en Coahuila para exportar a Asia",
+   "bono": 0,
+   "enriquecido": true,
+   "prioridad": 49
   },
   {
    "id": "op-46db2c89c756",
@@ -2058,40 +2061,6 @@
    "prioridad": 49
   },
   {
-   "id": "op-3859b73ca023",
-   "empresa": "",
-   "titulo": "Inaugura rector Juegos Interfacultades UAT 2026 en el Campus Tampico",
-   "estado": "Tamaulipas",
-   "ciudad": "Tampico",
-   "tipo": "Escuela",
-   "origen": "Ya en el norte y se expande",
-   "senal": "Nearshoring / inversión",
-   "fuente": "Hora Cero Web",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxenlrLWJxNWc3Rm8yTGhkS2lyMmJOT3BfQXlVX29fNU44Y2E4bXlGellfSUxfM19JMkZINXdQelp6TmQxRTY1OWNSZVRkcWttd0Q4bFE3VGdWQ3dCMDdr?oc=5",
-   "fecha": "2026-10-17T01:27:02+00:00",
-   "resumen": "Inaugura rector Juegos Interfacultades UAT 2026 en el Campus Tampico",
-   "bono": 0,
-   "enriquecido": true,
-   "prioridad": 49
-  },
-  {
-   "id": "op-4c6d33e65bac",
-   "empresa": "TecNM Campus Saltillo",
-   "titulo": "TecNM Campus Saltillo prepara carrera de Inteligencia Artificial; proyectan apertura para 2027",
-   "estado": "Coahuila",
-   "ciudad": "Saltillo",
-   "tipo": "Escuela",
-   "origen": "Ya en el norte y se expande",
-   "senal": "Nearshoring / inversión",
-   "fuente": "vanguardia.com.mx",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT2NJUU1pdTdweWRYV1NQWnhDbnkyRlN0RkxFb2ZZdFJVM05NMDVfeW5sanZqa1FQVlpfSXdmTXpNMmo4NF9kNzloRHI2ZVg5WTBzUDQyZE9zWXlUN0lQREhXa0N1UndtZmFxUWI2MlFlbWxCQTVSVHc5bUNJOUhwNmJmSFo5cVBBYlhXS1lBcnJJUlAzWGZvWGhHNlpWenN2OGFNX3V0OWFSR0ZBNEQ0T3FHMkRjRXEwRFRWZEVJc3ZraDNkM3RrLUppbG1yZFZtYzNfR1FLTU5JQlpnZHpJOExR?oc=5",
-   "fecha": "2026-10-16T21:31:00+00:00",
-   "resumen": "TecNM Campus Saltillo prepara carrera de Inteligencia Artificial; proyectan apertura para 2027",
-   "bono": 0,
-   "enriquecido": true,
-   "prioridad": 49
-  },
-  {
    "id": "op-dc7c8b102b2f",
    "empresa": "CIMA",
    "titulo": "CIMA consolida presencia de Sbarro en México con la apertura de su nueva sucursal en Chihuahua",
@@ -2106,7 +2075,7 @@
    "resumen": "CIMA consolida presencia de Sbarro en México con la apertura de su nueva sucursal en Chihuahua",
    "bono": 0,
    "enriquecido": true,
-   "prioridad": 45
+   "prioridad": 42
   }
  ]
 }
