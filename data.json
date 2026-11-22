@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T12:42:55-06:00",
+ "actualizado": "2026-11-22T13:03:40-06:00",
  "fuentes": {
   "consultas": 67,
   "ok": 67,
@@ -7,6 +7,66 @@
   "detalle_fallos": []
  },
  "noticias": [
+  {
+   "id": "nt-75d8f1b4ca28",
+   "titulo": "Golpe a mercado negro de relojes de lujo en CDMX: Detienen a banda dedicada al robo en Coyoacán y Tlalpan",
+   "medio": "El Financiero",
+   "categoria": "Mercados, bolsa e inversión",
+   "tema": "Mercados",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMDZWMVBORGd1NTQ1Nkczb2s3azUwQ0JMVm9QOVdmMGNFOHJDQTBJemdBUF9ONXVxSzFncEVxcTVMZU4tcE9vUTJiU180UXk3RmVzNWhLQnFwZFdnUktjaGcyU0dLNzBDV28wcUFaTzItcElPbE9zaUlZdHdBbmdzTGJRM3JaYWI2QjFOeEh5WmVDUWlzemRLbnY5blJxVmxlQ09RSlFNeHZoUDc4T1hsTE1uSm5NT0FLaEE4VEl3TnZSeGc0RHpSVWNxOHM0aG5LS212c1BMbzZYbkFjd0tvTDFkMi1Ma2s3?oc=5",
+   "fecha": "2026-11-22T17:54:36+00:00",
+   "resumen": "",
+   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-161a5734c013",
+   "titulo": "Costos de las empresas enfrentan presiones: inflación al productor toca su mayor nivel en 17 meses",
+   "medio": "El CEO",
+   "categoria": "Economía y política económica",
+   "tema": "Tasas e inflación",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWljMDAxTzd1a3c1SmpDakVmMk9wbF9MakhJN1ZibXozeFhZeENBVV9wcTV5V3JCWGlhcG1KMEE5Rk5iUmxjSFdudlR6VUdhZEVrbUdpdVFQLXFOQWVqMWVXZWJzdy14RUxBZ3g0WkhNY05qNjlpWlBKTERvNEl2OWFLMTFTN2RUV0hQLWVkQ3ROZV9NMThrSzdKVDY1aURKa29zeHZYaw?oc=5",
+   "fecha": "2026-11-22T16:01:08+00:00",
+   "resumen": "",
+   "impacto": "Las tasas y la inflación afectan el costo del crédito y la decisión de las empresas de arrancar o posponer obras y remodelaciones.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-82cf17ba6940",
+   "titulo": "e.firma del SAT: qué es, para qué sirve y cómo tramitarla o renovarla en línea",
+   "medio": "El CEO",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Leyes y regulación",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUtqYTJlcDNvb0hzZ2VKR3UyTUwtRkJlR2h3Z24xV0hHeUFXWGE0Y3FISzFRbklMVEFRVHJNWng1cFBLRE1xVHNvODlkTTcyM2hPZkpwb1BFMFpKc2IybDBDdmlreENXLXVwcTVqU1pDaUpOdlUtb3pDTV9ta0RCbk42LUh3c1ltNWpxeG1LM29UT3lkMVRLQnZSNFJseW1Kb1luUS0tTlE4QQ?oc=5",
+   "fecha": "2026-11-22T14:01:51+00:00",
+   "resumen": "",
+   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-e2e3b950c649",
+   "titulo": "De reparar fugas a redes inteligentes: así planea la CDMX transformar su sistema de agua hacia 2047",
+   "medio": "Expansión",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Energía y servicios",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFlVV2dnQVRTSUtQOEpVX1M4cDhfSkVTWDVVTjZEa0RtYVVNcVJzZEtZMDcxQVFhVEgzYlUwbV9GVTNWdk5CaGtfdVZ4QTlkWUNhbVMwWXNzRkhrWGpyQl9KMnQweS1ZbS1rZnp1UURzeTY5Vmk0ZFVCc0FfcFJqRFcwa0dJSHZYTkxnSTVYZ2VsY1BO?oc=5",
+   "fecha": "2026-11-22T12:30:00+00:00",
+   "resumen": "",
+   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-f108aae45512",
+   "titulo": "Irán racionará electricidad desde el domingo por escasez energética agravada por la guerra",
+   "medio": "El Economista",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Energía y servicios",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ3ZIV2paUXZpcGFlRExiS0NQdG5QZmJYTE9OUjdBWEF6RWZ3SjdoY19HX1N5Y1hFUVlqdHhTcE15SnJ4Q1FtT00xREFIQVNmT1RRb1FmQ2xjTG9KQ29LcWZhN20yaUQ4YWdGNzc1ZVpRZVRvRVpadmNmRHpyM3JKTHJqUGtUdDJma2Zzd080QlhmSHMyN1NpTDBERXNqUDBiS0JCUzZuQlhBZTRjQ2NPc1NaYlFnUWFYZnZGb1ZqLXF1YlJRR2RGdkpMLU1JTXU2Ul9BZDJn0gHbAUFVX3lxTFBMdEJNaDlHZzVGYmhYN0dnb2U5UG9xT185VUY2N2JuQU9LbWhiXzFGX0piSklub2VaamI5bHh5ejMzM3B6WjZXZmNQNzhzZmJrZW1Dd1laUVNVT0l2cG01UXRHUHZCb25CM2c2M2tSdHhzMGRTLUdhYmo5ZUlDUmhpNjNfZEJUNm56b0U5ZDBmbERpd01yenU2S1RybVNTc0Y5WUtHY25lZW40UGc5VkRUTlF0V2RVRGJIQ2ZFVTc2T3AxSlF6M1p6X3VnSzF2dTBrM0Z6LTZxNW13Zw?oc=5",
+   "fecha": "2026-11-21T19:51:24+00:00",
+   "resumen": "",
+   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas.",
+   "enriquecido": true
+  },
   {
    "id": "nt-71ba659320e0",
    "titulo": "Trump abre la puerta a una \"histórica\" colaboración con el Congreso controlado por los demócratas",
@@ -89,6 +149,18 @@
    "fecha": "2026-11-21T15:00:00+00:00",
    "resumen": "",
    "impacto": "Más contratación implica más espacio de trabajo; cambios laborales pueden ajustar presupuestos de proyecto.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-fdd84a8a0f07",
+   "titulo": "Fiscalía tiene ‘datos de prueba sólidos’ vs. Vadhir Derbez; pide que comparezca y presente los suyos",
+   "medio": "El Financiero",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Leyes y regulación",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjlwbWlyN2E5YVNyZG9VM1dLWXU3SjhxWEQzRWVGQjNOem4yOFF3bDlLNVA3V3VUanlWMDUyZkx6NERhYTgzZkE1WTZWVXhjcTZab2huWXhpZnVMQmo4WDJmUWZ1OE1QekJreGgwUzlEdGtIcF9sanduYTJCWHM2UEY2Ny1HckdCMlJSNWd2Nm45aHNNaXk3VUUxSm83ZDZwV1FuTFN1RDhEOGR1aUxtR2gyMlhxVmxBUkdQTDIyZ1hyaFlz?oc=5",
+   "fecha": "2026-11-21T04:05:00+00:00",
+   "resumen": "",
+   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos.",
    "enriquecido": true
   },
   {
@@ -221,6 +293,18 @@
    "fecha": "2026-11-20T23:01:00+00:00",
    "resumen": "",
    "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
+   "enriquecido": true
+  },
+  {
+   "id": "nt-9915cdda2b89",
+   "titulo": "Anthropic: claves para inversionistas ante su salida a Bolsa",
+   "medio": "El Economista",
+   "categoria": "Empresas y grandes negocios",
+   "tema": "Nearshoring e inversión",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNnFyU2o1VEt4X1pxNVY4WElRN1lRUG5PeW9NN2Ezak9LZTV0VmtaUlRDWlQ0TnBxSEE5V1J6V09kTlJ3a3dzV0hOSC14S2x3N0RsaDRiQWxHTTVxUEtXbEF0V0RsQnB5SEtabHEySHZuTEhEaE83a0pacTNHTU96WUJHWkkxcVUyOHJpSVJqOVc3cFNsd3o1LXVrbDFwMWxNM0pydERobC1iR2kxaDVramxySWpMLU3SAbwBQVVfeXFMTnA3Zk9fQmVMdGh3VUxqYzFhaV9YTHdOdjhCQTlZSllreXNOc3lqLV8wendWUDRVMHVBXzZuOXgwNkFCSy1ER0t4dHI2YVhvNDZUMlAyQVVac1NxRFE3LVd5UGZVZmlmVjV3ZEtzcE9fTUQ3Zi1qSlM0ano5T255dzBVeHYzTTROR0RQUWpuNEdQek1HbndReFJYVmRfX3lkcEhTSnMtc0lFbWVfaVNKY1pPR1YxOWRBTXh5VWo?oc=5",
+   "fecha": "2026-11-20T23:00:00+00:00",
+   "resumen": "",
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo.",
    "enriquecido": true
   },
   {
@@ -412,8 +496,18 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMlg1Z29taG9Qd0ZPZS02NTRIVFRCSW1PYTVEdzEtdmVCTl9rQmxhMncxTXdjako1dEYwNm5nc3pwVjRRejRaeEVETWtENkRmTmJYb2FvSHhzWGtlWUkxZllrdlBEaHo1cjUwRHJ3a2hTbU81cFFucHVrejB6WmNQdEkxMUsxOFNPcUtUNDN6WkoxQmtZcHZUUVJQWkU0Rk5JcTRRaEt5a2VlakJ0R2NmM28xczhrTGtw0gG-AUFVX3lxTE1sZmIwSk1BR1N2Y2hfWW8wQVRVZnFjZnpkVlFuamxGbDNtdWFXUkg5X2ozNHhQNkJuck5GaWdIQ1Yxc3JXMVRSSmRPUVpZNS1ZclZZUnNfMFp0VmxIVHZmUnJoYnlrZXVrNmN3OXJmYTFyQU5JVXJ2aUZnODNSbEhsd19MVmoyYndLT0tQRXpnT09ybENZZHZlSkh6MktOaDY1eVV5Qy1nQlFUd3lrRXRBT3d1anlGMzJEbllXQkE?oc=5",
    "fecha": "2026-11-20T20:32:27+00:00",
    "resumen": "",
-   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo.",
-   "enriquecido": true
+   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
+  },
+  {
+   "id": "nt-2a7810999a4b",
+   "titulo": "‘Me pedían 350 mil dólares’: Vadhir Derbez denuncia extorsión e irregularidades en caso de agresión sexual",
+   "medio": "El Financiero",
+   "categoria": "Economía y política económica",
+   "tema": "Tipo de cambio",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM0lTR1lJVDN5eDZBYU9fWUZ2SzVXNHBzaVNtSVNaczZNMkU2ZUozNUlVQWl5akRZLWtvTFlfVWNpMldfa3BNdjRMbTlKUGE3cmZiUlNfZGx5OEFiTnplSUhQYzRYTTVucFlubDlLYTBqZWFfLVpwbmRXY3dnWTN5RDFKUW5sSTd5ZUpRYW1ncmRLbTh5elVMVGdHeVJWZ0tWa1A4OEdnbG5fZnlvcWR1N3Q2NkFQNjR3TWlDSWkzSkxfeG9sVlB5VDk1UDh2Rmc?oc=5",
+   "fecha": "2026-11-20T20:09:53+00:00",
+   "resumen": "",
+   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
   },
   {
    "id": "nt-27c944b4e6c1",
@@ -424,8 +518,7 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84a09HQVFmNDB1d0pjekRtWlBld0tkQngtOE1Gekd2MDNoT3VSeFN4SlFBVkQyb19GLWRfQjl4cVBCYU16NXhlbEpVb0pzYWVaVE9weUVrRTl6QW5QdFhFSXp4LVVIQjYxQm1XcGZLZ2VuMmZFNUtjeFh3UWQ?oc=5",
    "fecha": "2026-11-20T19:51:42+00:00",
    "resumen": "",
-   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas.",
-   "enriquecido": true
+   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas."
   },
   {
    "id": "nt-8c7b98a39caf",
@@ -436,8 +529,18 @@
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVWxEU05mc0h3RTM3QVZzbEFtU0dnQ1R6ekhMNmNiNXdpNHVfbi1YeDdWb0hDdDlJNkNITnFpbFRQSTUyTV9UVDVqY3Q5RnVBS25EZWFyazFlTTIwTU9meXlmOTRXM0NGZTNUQzJxeUNzOU8yRmc2ekhfX25BNTc2UEZpQTRfQmt0dXZRc3BOTzZXbkJoTkZ4X2tsck1XVXkwRkFoMmlJZVk?oc=5",
    "fecha": "2026-11-20T19:43:00+00:00",
    "resumen": "",
-   "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas.",
-   "enriquecido": true
+   "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas."
+  },
+  {
+   "id": "nt-c89171b07901",
+   "titulo": "ExCEO de Nvidia, Jensen Huang, acepta testificar en audiencia pública del Senado de EU",
+   "medio": "El Economista",
+   "categoria": "Gobierno e impacto económico",
+   "tema": "Leyes y regulación",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb3NTWXpaV3pjdTBUWld0bG9SXzJXdk9feldzbGZxM0cycE8tTlZYYzlrVzFtSzdTMmJvSjVVX2E2ZGI5OUVXWDd3RVpDcExuMmZFY0gzVW1fV05yaUdibnJZam04dENLanpOd3cweHBsWEo5a2xKNjBvak1HWjNrZ2M1amtYaWZxbEhLREtDY05kWUpIZ0lpQ21HamIyZlo4SFo3YnJ5X3UyYjFURl9SeWZVZEZLR3JNV0JkRnNuYjRDQlFmYzFKd3FoVFJfVlJzdDhKbEJHY9IB3AFBVV95cUxNM2JsTGlfaWhDS2VwZ0FtNndjNkdISW9GUVNZbXdWMmY3RUExTjFIeEFmWkV3X0IyV096dHYyMXh5RjYxSlo3cGg2VlIwcHFucDZBRFdqZWpBSk5ocVIzbFRuSFZtTTBXb3BHNjRuSGUtWm1Wc2NMbzFDMDQ3UDhIQms1UUtoNkVHYWdkc0lEWFZjaWNkMHlTUE14VTM0V0s0dEdjUFhydXU2R1BrNzBUeWRjQTZUUWdNZ2sySE9IZ1RQZ0g5SlVIZTZ4M2pocEw1R3Z2UnY1QmcxbzVQ?oc=5",
+   "fecha": "2026-11-20T19:41:54+00:00",
+   "resumen": "",
+   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
   },
   {
    "id": "nt-9d4e64c2f65a",
@@ -448,8 +551,7 @@
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSjJpSWFjVjRCT1pMYmRTV2c0U2VWamFxdVlldElEYy1oMkdCMG83Y3RBb3dCTGtWdnAyNkdZWV9yTXU3Wnk5STVqOW9kNXhZVmQwa0htZ1pmZkgzcmwtV1BsdGlZWTRmTnBTcHJndk9aNzdUc1lVbVc5MjNKaHJaVE5VSkJpdEpLcGpyN0NSaGxSdGtyd0NsWHcxYUNXajNILUFmOVBXdk04SHFqMzdaUHcxZUF0OUI0dWd3M25jS0JVM0VlZ1VzYW9LZTE3M0RjM3FCT29wTXF5aXI20gHiAUFVX3lxTE82WTZueDhzY1gwOE4tUnFpQ0hPUy1CaEwwY0YzeTk4VGFFb2JfRnJhVkFteHNEZ1FkWm02OEVmS0VLMzhsVklGTHFkRXVtMkhXVWQxN0xkNTJiVHZvelNfYm5hWnI1RnpManNFMlVTVlNrZm13U3BpdGt3Y0hfYUpOT0dhUG5wc2VxcVMxUGduQmJpZ0VSSDJydHJFQ3dhNU1SNDVPZWpmVUtreEZVTG56NVhMM3JpWjA1ck0wUVhKTXpiaEtpZUlJOGJ1c0oxbzdTUXRjcTNTRFJGSmNQTHQtNkE?oc=5",
    "fecha": "2026-11-20T19:34:41+00:00",
    "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo.",
-   "enriquecido": true
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
   },
   {
    "id": "nt-ee2eec157f4e",
@@ -484,8 +586,7 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVRfaHhGZHpxOG1XblZVQlpRR2ZKeE4zQ0c1N2thenJJNVhRWk45ZkJZRmM2MnhjVXFFbWZtWWtWQnU3Q2hoQS1qTFI5MzE4bkhscWZUTVRaUlNmQnhLZVhKRDlpNkg2d1lEXzNrcHg1U1psMUtwczRTZmpGT3llZ0pibHNDZGZmV2Q4VXZiRDdTampHTWfSAZsBQVVfeXFMTWxkc1RlZ0YwRWJaM2VsQmVGZG8yNHRndHFGU0puNVJlcTltUUoyWEdMQWJ0T3Q1TUlRd2hsQk01SWtzVVk5YzY0a0VSdkIxWTRBVUxlcmh6Z3JqSGkzWjZqOG5Db0xDZi00OWlHbDFEVXhIdGhuRS1oWXJCeWRSMFUxdXBVeWt0QWlVQW1MWGhYRUF3ZWRVa0tXOHM?oc=5",
    "fecha": "2026-11-20T18:58:01+00:00",
    "resumen": "",
-   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo.",
-   "enriquecido": true
+   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
   },
   {
    "id": "nt-6a00c9cbb1dc",
@@ -632,17 +733,6 @@
    "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
   },
   {
-   "id": "nt-cc48c89e45ea",
-   "titulo": "Columna invitada: American Society of Mexico | Certeza jurídica, la plataforma de despegue de la inversión internacional",
-   "medio": "El CEO",
-   "categoria": "Empresas y grandes negocios",
-   "tema": "Nearshoring e inversión",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNHJOSkF3QnVqNndueEg3bjJkeHlDZVd3OXVJRjl5MEI1ZXV3Xzd1b3I1dkR1c21wNXpJdjRXT0RaX041WFZRQVQzcGlqTl9DcTFLM2hTYzVWSWhmeG9rNXp5UHpod2U3cnRUMDhBY281bXhjeTUzWTZKNDRPWUNhWW5JV1ctc1lzNjlQa0FfcllhWEhOQnh2WEE0aThZYTVSaHFZMnNVb3d6ak5EVXQwcmwycEhaSHZqTC03SkZ5SVloWkNjUFlQT05aUjV5RmUyZXEySF9rODJzX00?oc=5",
-   "fecha": "2026-11-20T14:05:52+00:00",
-   "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
-  },
-  {
    "id": "nt-bb63f5434b35",
    "titulo": "Peso mexicano se mantiene por encima de las 19 unidades por dólar ante la debilidad del carry trade",
    "medio": "El CEO",
@@ -652,6 +742,17 @@
    "fecha": "2026-11-20T14:05:52+00:00",
    "resumen": "",
    "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
+  },
+  {
+   "id": "nt-cc48c89e45ea",
+   "titulo": "Columna invitada: American Society of Mexico | Certeza jurídica, la plataforma de despegue de la inversión internacional",
+   "medio": "El CEO",
+   "categoria": "Empresas y grandes negocios",
+   "tema": "Nearshoring e inversión",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNHJOSkF3QnVqNndueEg3bjJkeHlDZVd3OXVJRjl5MEI1ZXV3Xzd1b3I1dkR1c21wNXpJdjRXT0RaX041WFZRQVQzcGlqTl9DcTFLM2hTYzVWSWhmeG9rNXp5UHpod2U3cnRUMDhBY281bXhjeTUzWTZKNDRPWUNhWW5JV1ctc1lzNjlQa0FfcllhWEhOQnh2WEE0aThZYTVSaHFZMnNVb3d6ak5EVXQwcmwycEhaSHZqTC03SkZ5SVloWkNjUFlQT05aUjV5RmUyZXEySF9rODJzX00?oc=5",
+   "fecha": "2026-11-20T14:05:52+00:00",
+   "resumen": "",
+   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
   },
   {
    "id": "nt-c83e510f9048",
@@ -718,8 +819,7 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVVpaGZkNUFiZlhLVE1mbVNrU1NtOXFhcDAteFVFTHlnRXNfRmRVSDhUQ2RQVHFJWFptVlhlQ2czSFRVU2swMDJ6WHFGWkNZVGoxRTNxaC1tT0JDdFFPUFFFdWpLM3JNWW1scFBmRngwR0pLal9QNWlFRFJsWmpmREhrUmpnVzJXRE01aF8yc3IxR0p2M1NOUHdxYW9nMFEy0gGuAUFVX3lxTE5VVWJkaVZ1M1ZWWkNaRmFZbXh1VzZja0M0RmNrUWp5LUdhUzhwSXFJRUw4dGdDbk9laVdCUXlZTVFaZjc1MFY4dDI3SV9WcVdKY1RWSXdIU0dYbmM0YU5JeUhOTGkwU1ZBYTZRU1hpUmJvanRYWldUSzQ0MGFPejVucjlHUFhYSHdBWF9iT2RuTXkzdTlzcUMxejVMTndUUlRJenZmX19HOUNwczJKdw?oc=5",
    "fecha": "2026-11-20T11:55:00+00:00",
    "resumen": "",
-   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas.",
-   "enriquecido": true
+   "impacto": "Influye en dónde deciden instalarse las plantas y sus oficinas administrativas."
   },
   {
    "id": "nt-2528fe7dcdef",
@@ -755,17 +855,6 @@
    "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
   },
   {
-   "id": "nt-f44ce18dbeca",
-   "titulo": "Banxico se divide en minutas de política monetaria: Impacta la depreciación sobre inflación",
-   "medio": "El Financiero",
-   "categoria": "Economía y política económica",
-   "tema": "Tasas e inflación",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHhCdE9BcHhWWnVtcVNCTU5zY0poZHdKcVFtcXhHdU91NkFrVXk1T0xDcFlSTGNCT1VwTlZSUkh4RGJBVkprMnpmUUxIWmZnVF9qVlREVzFkRW1pWUlJRDhyemFmbEpwM2o0OUFhUndwRnRmNUk4MHNyWjA3VkJGbndNNmQ1Wm1jY1hiTWZrUHB0Y1RrTm93SHZ2VnpsWnZNZ043OWZnVlFQTlZXUWh5OWJTMlo4QzJYMlNaTlNRdG14Vk51WjVjWEZiUUUwcUNKVVFNSUFZdlJad1BS?oc=5",
-   "fecha": "2026-11-20T08:00:00+00:00",
-   "resumen": "",
-   "impacto": "Las tasas y la inflación afectan el costo del crédito y la decisión de las empresas de arrancar o posponer obras y remodelaciones."
-  },
-  {
    "id": "nt-3224c9dbc157",
    "titulo": "Ley de Rentas Justas de la CDMX fomentaría la informalidad; ven riesgo en rentabilidad de inmuebles",
    "medio": "El Financiero",
@@ -775,6 +864,17 @@
    "fecha": "2026-11-20T08:00:00+00:00",
    "resumen": "",
    "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
+  },
+  {
+   "id": "nt-f44ce18dbeca",
+   "titulo": "Banxico se divide en minutas de política monetaria: Impacta la depreciación sobre inflación",
+   "medio": "El Financiero",
+   "categoria": "Economía y política económica",
+   "tema": "Tasas e inflación",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHhCdE9BcHhWWnVtcVNCTU5zY0poZHdKcVFtcXhHdU91NkFrVXk1T0xDcFlSTGNCT1VwTlZSUkh4RGJBVkprMnpmUUxIWmZnVF9qVlREVzFkRW1pWUlJRDhyemFmbEpwM2o0OUFhUndwRnRmNUk4MHNyWjA3VkJGbndNNmQ1Wm1jY1hiTWZrUHB0Y1RrTm93SHZ2VnpsWnZNZ043OWZnVlFQTlZXUWh5OWJTMlo4QzJYMlNaTlNRdG14Vk51WjVjWEZiUUUwcUNKVVFNSUFZdlJad1BS?oc=5",
+   "fecha": "2026-11-20T08:00:00+00:00",
+   "resumen": "",
+   "impacto": "Las tasas y la inflación afectan el costo del crédito y la decisión de las empresas de arrancar o posponer obras y remodelaciones."
   },
   {
    "id": "nt-998fa1cadbb3",
@@ -974,6 +1074,17 @@
    "fecha": "2026-11-20T00:15:00+00:00",
    "resumen": "",
    "impacto": "Las tasas y la inflación afectan el costo del crédito y la decisión de las empresas de arrancar o posponer obras y remodelaciones."
+  },
+  {
+   "id": "nt-ddd7a8272d08",
+   "titulo": "Grupo Acerero avanza en plan para sustituir importaciones y fortalecer la oferta nacional",
+   "medio": "El Economista",
+   "categoria": "Economía mexicana e internacional",
+   "tema": "Comercio exterior y aranceles",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYkZnQVlzZVY0RVBOaThTOFdUeHFxMWpqRDBfbFpjY3pvWWRzOUNDOF9yMzBialNSWFZNaGg2MXJwU1BzR0lLc01RcjlNR3luLS1kS0pLc3JmaHZVeC1WVmNnaUdWVkZ2UnRtUVZpVGhBNTB0b3VJelhUcmpuWEtva3lLUFVZMEtaR1VuZ2RJZm5UbnpRVm5PT1lsU3ZTMENIZTNjdVRtaG8tWk1CY2gxemwtT05TaWZ5Wkl1RzljNTRTckRYNHFoNzhfbzVGbEFTX090eNIB2gFBVV95cUxOYXhkY3pTU01aUER4WDRyNWV6aWEwdUQwNER4NndwLXo2RVVjYlFTRllXcjcyU2N2d0Ntc3MtSkVlMnBCWTU0NlYtWHNoRW5nb2dOTlRQWHBiQ3pmRXlyTlpWRWV6b2xQMWJiMjBFcHNLVm1ra1pkV1dLckVGcjdsb21KVHVkaTM1M3pBdWJDcmtZdWxYaHFYem91TF9sTEtUb25GNGMyUW5kMWwtUXpHUks3elk1RGdhSXdRNjZoZWRORHpMMm5UNzBCdTVKdU0zWkhjSnZ0cFpEQQ?oc=5",
+   "fecha": "2026-11-20T00:06:56+00:00",
+   "resumen": "",
+   "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas."
   },
   {
    "id": "nt-0c9fb3248e91",
@@ -1590,119 +1701,6 @@
    "fecha": "2026-11-19T16:13:00+00:00",
    "resumen": "",
    "impacto": "Las tasas y la inflación afectan el costo del crédito y la decisión de las empresas de arrancar o posponer obras y remodelaciones."
-  },
-  {
-   "id": "nt-aeb7d8db1e7f",
-   "titulo": "El inversionista de Anthropic más preocupado por los riesgos de la IA ahora tiene una fortuna de 17,000 mdd",
-   "medio": "Forbes México",
-   "categoria": "Empresas y grandes negocios",
-   "tema": "Nearshoring e inversión",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT3g5WnRZR1VYMGJTeVRtdC1QcGdGT1lIbDQxSkswWnFGT19PbGFrNHBiUG5BaElWZVFzT1F5TmJZbWh6eHptdGs5OTh4MWlLaUpQVWlpNERKeDVKOG1ObHJKNDIxeDBLWmUweWNkWl9ReWlwMUlrRUZ6SUYwcXZlUUwtcUZ4dl9sUHZfVGFyLUVlRWRZNDE4WFlneEtScXB5bEozUVoxZDFrMEs5bDUxd1N0MXdkM19Mc2ZiSzZ5UTBHWkl5aXRsMg?oc=5",
-   "fecha": "2026-11-19T16:06:00+00:00",
-   "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo.",
-   "enriquecido": true
-  },
-  {
-   "id": "nt-cfbbd30b5fc8",
-   "titulo": "Subgobernadores de Banxico, Borja y Heath, señalan riesgos de bajar tasas; dólar supera los 19 pesos",
-   "medio": "Forbes México",
-   "categoria": "Economía y política económica",
-   "tema": "Tipo de cambio",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXUtTHZwbl9oeVNLZnRlUGhMTVYtczA5VXlPQVd6TjRtYnI2UkxYRzlDTTh3NEdhWHdrc2ZMbUMzRHlHNHlYM0NZbzN4bjJVNlRBeVctOEFwX0NmMlhWMXFZOVBXbnJDT3pKNURDN283WUdoS2FtS2Y0RUdrbzBPRm9XTUdYZTMtMHJNTW1nbF9Fb0t4d2xULTBmeGY5VDduM3ZicDJLTEp4cjlHS2JPUGJCbUQxdWxVSk1KYg?oc=5",
-   "fecha": "2026-11-19T16:02:00+00:00",
-   "resumen": "",
-   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo."
-  },
-  {
-   "id": "nt-9bacbc0f22c5",
-   "titulo": "Peso supera las 19 unidades y toca su peor nivel desde junio de 2025: ¿Cómo abrió el tipo de cambio HOY?",
-   "medio": "El Financiero",
-   "categoria": "Economía y política económica",
-   "tema": "Tipo de cambio",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3kxSHEwU2ZRYThVeDkyeGloalZIaWVOOEtySDlTajUtMjgzZGxkN2RLZVUycFBzNzJOem9WVjJjWnN1ck9DakhlZXM3OVpYVF9jTzVjMVVqRnotVXlXbEdFZnZKRk5qTHZMWUVWbktjZkpFSE9xUHZnWEtUYUFfS0pSWXpHb24xaEtvWDZLbnNxOWZYQnpVcTh5N1Blb3R3QVR5TzlXd2lLaVlFMUFndkwzdw?oc=5",
-   "fecha": "2026-11-19T15:58:45+00:00",
-   "resumen": "",
-   "impacto": "Un dólar más barato abarata mobiliario y acabados importados; uno más caro encarece los presupuestos de interiorismo.",
-   "enriquecido": true
-  },
-  {
-   "id": "nt-8f992b0cdad1",
-   "titulo": "Google y Amazon poseerán más acciones de Anthropic que todos los cofundadores juntos",
-   "medio": "Forbes México",
-   "categoria": "CEOs, empresarios e industrias",
-   "tema": "Mercados",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFI1cGU2ZndOQmoyUjA5ZUtWcWVSU1BUOGhyN0hfWWQ1WHRhNmRncWZ5M090bUFBUmY2bFNTakFBd0VkTnpMN29GTEpPSXdNYjE3aWwtQ1k5ZU1HR2hId1Z0TkpzdEI0VFZ3TEFmc3JqaXpSNm5CVnppbGF3SzNtaVg5RERqYTJkd3pUZjJJd1NZdXlqUzNjWHNPS1JCTVJBMk1qVHRHaXM3eUE?oc=5",
-   "fecha": "2026-11-19T15:53:00+00:00",
-   "resumen": "",
-   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos.",
-   "enriquecido": true
-  },
-  {
-   "id": "nt-949fe586c9f5",
-   "titulo": "Trump insta al Congreso a aprobar una nueva ley agraria en Estados Unidos",
-   "medio": "El Economista",
-   "categoria": "Gobierno e impacto económico",
-   "tema": "Leyes y regulación",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2FLUXg1NE9tNUk0UWgyanQtdVVuRl9CVGpkRUY2R21hR293ZXJWWE5zT1RqVC1MZ0pBdm05WHpKSGRvWkdJZ0RKaEZmN3lDLXJURWZvSk5PajVHWlB0alNnXzNkOWhVcUNZM0ZtN21Ua0ZXYjdHRVdpQzJTQ3haZ0FCNXREWnJtODNONDR6RFktVm84OXQ2eGpSZWZXaTlQR01xVS1fNUYteExaMi1PbDFGRWV3T2tsQmJJU1NpRVBpMjZBQmp2eG9B0gHPAUFVX3lxTE9waE5Nb2Q4Z0ZVTUsyd3dCOTI2REZqWUNDZzlSZ2w4R2RweFg2aWZXMkd3M01GWVZSeHp5d1BMUXZjdkdvODI4eDhjUXZDdXJvZnc4SXBzYWRVUnctOGVDMTRCNkE2LXR4V1VoRjREcmMyajVJNE5CamhVV2hWa21Ic3RBSnV0c25CdTItQmI2OG9JZ3dTZ1ZBYkpqTmI5U0pCcDJ5Q3gtQ0xyV19XckI1UUhYZzdMaVlLaTV4ZE9MbXhKeTBGM0dGWExOZlZsOA?oc=5",
-   "fecha": "2026-11-19T15:30:03+00:00",
-   "resumen": "",
-   "impacto": "Un cambio de reglas puede acelerar o frenar aperturas de oficinas y proyectos corporativos."
-  },
-  {
-   "id": "nt-d002742ce88d",
-   "titulo": "Fonatur busca atraer inversión privada para desarrollar terrenos turísticos",
-   "medio": "El Economista",
-   "categoria": "Empresas y grandes negocios",
-   "tema": "Nearshoring e inversión",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzZ4YUZ4dFNVeG1QVmxKZXB1Z2xwMW5kdUFTaEh1LWFjb1pGckdDMGJTMjZHZDJucHNsNm9hN0E0dTJwT0hDdlMzNG9Gc3VQZlRFQ3FYd0pkSWhnbEFOX2dGSy1lbTdMM25rNlN2VnNGWGhGRUJaakh4eTNTUXd5TG9RSE5JOGpBbnEzdEg4b1FFLXVTVnJtbnpmaWx5U05adUdWLWZBMUZDXzEwcGtjVVctazdLeFk0bUJxUFl4VFdQcVZvZkNaQWQ2WFV2dGpi0gHWAUFVX3lxTE1kdkJKT0RDdXZnb0hxRXM2WkFpck9pZnd1M1RraUs2dHlDcUhCcWRDLVlFcWdhbnUtVE51c2lrNkk3Snh3dFJyajVOY2VNOHcwQ2ZDcGtGS3M3ZTFRMkNwak1ZOGtyYmdxZEVtcFM2RTg4ZE5zTzlSZmM0WEFrMklNLWpDYlNXUERCdWJZVUlYY0xxMWMzc3RibUpjZHlkSll1eWlRc1R1Q0JQYVlEeWlJdXdoeTNiREQyMmZQLXA2eUN0YVFjOUJoSFVyOThDRHNEYWJtbFE?oc=5",
-   "fecha": "2026-11-19T15:00:00+00:00",
-   "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
-  },
-  {
-   "id": "nt-abc1239e08ca",
-   "titulo": "AMPI pide atender necesidades de compradores para reducir rezago de vivienda",
-   "medio": "El Economista",
-   "categoria": "Empresas y grandes negocios",
-   "tema": "Mercado inmobiliario",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZkRkRDZpbzBRMnIwalUzWGZFNk4yZHRCa25ld05OcndqSUlzVFMtTUhxREdSQkljWFpSclQtQ2RpOTBCTzJqbTFJcnM2RFBNX2gxeWtsNHZUQTREMldwQTRXR1N3Wl9wNWIxMG5MczZ5QVB2ZDR3eWFSYUlUQVd2MEloTkIyZHR0YUluRnpjN01kZFRlekU5MDJiM3VBblBoTWhhMG1ha1Vva2E0NjNCd2FIeUNYaHVkajVWSk1sRjZHUnR0Zl9CcnpsQdIB0AFBVV95cUxNX2Q1MGZWdlZKQlg3Qm9IdmNLQkpnSWF0Tlp3aThpNUNCajlzdlZFOEpNWnpiMTdZVmd6eFhDRjBSNmhzVE1aRFltZFkzOFV1ZU1EUzBFMGhEcktUOVBBeDFkdEcyVlVSY0VOcmRTUHg5S1F1aHp0b2thTkhNWVRQWHhDaWhCbE5KbFJObTNfemlSajZqUnZ6TmpOM3lmVThpT052dnNCNEFXQ1UxZ3g0c0JjelhJd2Uwd0huZElYNmpUeTQ3cS1RcW5UVlRYSnNZ?oc=5",
-   "fecha": "2026-11-19T15:00:00+00:00",
-   "resumen": "",
-   "impacto": "Refleja la oferta y demanda de oficinas: menos espacio disponible suele empujar proyectos a la medida."
-  },
-  {
-   "id": "nt-1906b61c4a7e",
-   "titulo": "México publica controles a la compra de empresas de IA y chips por inversionistas extranjeros",
-   "medio": "El Economista",
-   "categoria": "Empresas y grandes negocios",
-   "tema": "Nearshoring e inversión",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObmh3SFJRV2V2cVhRdDY1SVJGcUYzY2JlTzVPSVdKRVdud0k4X09Td1l4eUJtbUdYcDBGM0NJcDJKM3pva2ZoYnI1eDEzTlpNbDJiRkIzbXpGcFBBT2xIem10ZVU1VlhhVEtQNkVfUjRLT0FEaHdrYVd4azVfbVdqUzByTDlvci10ZTgxZDhGYkRJc0pSWnEyTjRQSU1WSWhpQ2pFX1h5QVV0b0lRSnVPaXBXbVBKMXV1TklqTlluVFhjdUxEOWU5WlFnZUpFUWRSNFdZRnhlZ9IB3AFBVV95cUxNMTNseVJibEJMbEtGODdMUzY5cG1WME9wQl9OQXpTaE1ZdTRZdnpieEV3Ml93MkJlbGxKZF9GSGZhNlpyNzZXcnVJX3ltTDJyNEhMcjZoR3lYd3F6NTNZT0NmRFdsOFpkRGpaOHotRThfZVNnVmxwelZGY0Q2X3FCR2FXMHJsczNYckNuWlB5a0RrTkdEbS02UXJZbUxTU3NwbUNyX1cycFA0YUc0T0taTGRpUXY2a2FlTXFQZi1kS1czWkZUSE1Db0wweERYT2Fyd0dpaExnTjMzbldx?oc=5",
-   "fecha": "2026-11-19T14:45:48+00:00",
-   "resumen": "",
-   "impacto": "Señal de empresas que llegan o crecen en el norte: futuras oficinas y sedes que necesitarán diseño corporativo."
-  },
-  {
-   "id": "nt-adeb25c14029",
-   "titulo": "Anthropic rompe el récord de SpaceX con su debut en la bolsa de NY",
-   "medio": "Expansión",
-   "categoria": "Mercados, bolsa e inversión",
-   "tema": "Mercados",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbzhLWV9DSzdUT0tLNURyb2VVc1RDcEVlVUJIdzBhLTNmbElkemFudElyNHhSNUw2OWoweHdDeWRHQThyODBHMEE2TVgzam13cHhaZ0hyZkNLVkU2TE5GcndBMDQ1WHJBZ1NyWW1mbFFwaUllRl9Mc2JKUGhTNDBNb3hfTERvSU40bjd6TEFFVm1tazFpbWfSAaMBQVVfeXFMTTdjWGNBaTJHUmN0N0M0VzhBRkNyWjY1ZWdRTzI2YTFKNkQtRGFQLUh3bWJtZ2NTTnJLcnFnT1psaW9CVWhMRG5XclVJWTRSTEI1bEdPSDY3TDRQUmItZ28tZlhZVFdxT21MbXRkWWF4QkFTMnc0eWZBT3I3NG41VkFUUWNOTGxBaTBVQ09uNndEc1FKYWJWa1ZuRlZZa3NfODlSMA?oc=5",
-   "fecha": "2026-11-19T14:40:00+00:00",
-   "resumen": "",
-   "impacto": "Un mercado optimista favorece anuncios de inversión y nuevos proyectos corporativos."
-  },
-  {
-   "id": "nt-830633bc1f89",
-   "titulo": "Sheinbaum se reunirá con Trump en diciembre con un objetivo: frenar los aranceles de EU a México",
-   "medio": "Expansión",
-   "categoria": "Economía mexicana e internacional",
-   "tema": "Comercio exterior y aranceles",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3VHOG1tNHNjcWxEdkVKSXNQT0NHa0xKaWQtTjVIRHQ0T240d3QzM1dxOEdqMjFUaVpsNXlvNm9zejM0SllUVXFScmNDNDNKV2tCUkhJM25aanVONFozT3Y1SUxFc3JGbzQyLUlSUVdQRnlldGgyRGJlWXZGTzZ2ZmRPQkRJUEZfazR0Zk1n0gGbAUFVX3lxTE02b1hFaTlwVUhiRHRPMU1PU0xZWnpTWTFURU1pQ2pfSl95VW9raWNqSElNQ1VlcmJsOENUam92ZElpTlRJckhSTlBVbnlaWGJuMDh4N0lZbU12VlN0cWJGRWV5Q2haRFVrUHlnWkYzbzVrQjBsbW1zeWJ1SW9RWkZmMDB4TUVZUmtZZjBDdzUxQlBuMWlwTUhWc3pv?oc=5",
-   "fecha": "2026-11-19T14:35:00+00:00",
-   "resumen": "",
-   "impacto": "Cambia el costo de materiales importados y el ritmo de inversión industrial, con efecto en oficinas de plantas nuevas."
   }
  ],
  "items": [
@@ -1721,7 +1719,41 @@
    "resumen": "Nearshoring y turismo corporativo, por qué Monterrey concentra más viajes ejecutivos",
    "bono": 11,
    "enriquecido": true,
-   "prioridad": 79
+   "prioridad": 76
+  },
+  {
+   "id": "op-e18acf759488",
+   "empresa": "Construirán",
+   "titulo": "Construirán en Zacatecas universidad para 10 mil estudiantes",
+   "estado": "Zacatecas",
+   "ciudad": "",
+   "tipo": "Escuela",
+   "origen": "Ya en el norte y se expande",
+   "senal": "Permiso de construcción",
+   "fuente": "Punto MX",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ2NEYjg4UUlnOEN1YVI4X1FyX2huSVBSQmRtVWE1SHpEb3l0dFpFMS1udjRPM2xPREFST1lCcExZOXJJSm5sWXZfa3BTV251cWtEamNRWGxwNHlLWF9LbnFkbjZndGNsdzhZQmpaQTZCenBtMnJ4TWdjSDRsRDB5cndNTGFacjVPLTRkQnFUWVlOM3PSAZsBQVVfeXFMUEY1SUZQVG5Ga1dqeThxcm5CZzJObFRLd1JDMmxkZTVELTNZMllVSHptUW52VmZsalRoYkxwc0NySGhOZWVoQ3R2UXRrbm50X3ljN1E4U3pvLXc2OGJ4YXBYX2ZHTzdSM1F2Z0g2VVpvSHNBNFItRV9JYy0xMnNtX3VDZEFSNzM3WVg5X29BVjdRZ2Fod1BfODlqYnM?oc=5",
+   "fecha": "2026-11-22T03:11:10+00:00",
+   "resumen": "Construirán en Zacatecas universidad para 10 mil estudiantes",
+   "bono": 0,
+   "enriquecido": true,
+   "prioridad": 63
+  },
+  {
+   "id": "op-eb958c301385",
+   "empresa": "Informa la SET",
+   "titulo": "Informa la SET que están en construcción 10 nuevas escuelas de educación media superior en Tamaulipas",
+   "estado": "Tamaulipas",
+   "ciudad": "",
+   "tipo": "Escuela",
+   "origen": "Ya en el norte y se expande",
+   "senal": "Permiso de construcción",
+   "fuente": "Gaceta de Tamaulipas",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDVpa1dlZ1VRRXJ4VG5LQm1EYTlHc09xaEl2V1dBZEZmQ092Mm16TThLWkdON0JaU2JMM2k2UVNuUVFUaFFPTEV2ZzM4Ri1GSXFkQlZPa3dGWDBZZm1sVTlPR0RDTlVXV3VwbVlyNGF4UFprSjY4elhna19xSGE3MEJUT0cwbjNPaXlSMjMwOWF1OXVBM1NBSWQ4RkFMZXY5MHlzSFpibkdERnlFTDlnLWdFdy1pYkN4NW1rRHJJQl9jSjlxbEhB?oc=5",
+   "fecha": "2026-11-21T21:22:13+00:00",
+   "resumen": "Informa la SET que están en construcción 10 nuevas escuelas de educación media superior en Tamaulipas",
+   "bono": 0,
+   "enriquecido": true,
+   "prioridad": 63
   },
   {
    "id": "op-0b32766f7b12",
@@ -1738,7 +1770,7 @@
    "resumen": "Inauguran planta de Electro Componentes de México en Torreón con inversión de 307 mdp",
    "bono": 5,
    "enriquecido": true,
-   "prioridad": 66
+   "prioridad": 63
   },
   {
    "id": "op-cf5b2f6e08c8",
@@ -1755,24 +1787,58 @@
    "resumen": "Inauguran planta en Torreón con inversión de 300 mdp; generará mil 200 empleos directos",
    "bono": 5,
    "enriquecido": true,
-   "prioridad": 66
+   "prioridad": 63
   },
   {
-   "id": "op-209943a10c2e",
-   "empresa": "Miba",
-   "titulo": "Miba inaugura planta de 30 millones de dólares en Coahuila y genera 70 empleos",
-   "estado": "Coahuila",
+   "id": "op-36a3205dc52a",
+   "empresa": "Claudia Sheinbaum",
+   "titulo": "Claudia Sheinbaum anuncia ampliación de la Universidad Rosario Castellanos en Zacatecas y entrega becas Gertrudis Bocanegra",
+   "estado": "Zacatecas",
    "ciudad": "",
-   "tipo": "Industrial",
+   "tipo": "Escuela",
    "origen": "Ya en el norte y se expande",
    "senal": "Nearshoring / inversión",
-   "fuente": "MexicoIndustry",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYU9rSDNPdWY2WGEtSlBBVHpzUTNvRFdJNnVia056TVpSV0Z4dEFNS1JnZ2U3Y2xPN1BNaUlCMUFPNlBJcExBMmVOdk0xc25Xblo3U2xNRFNPVU9nQ0RONmxTVWc3UHpFN3IwTFBzY1Z0cXlma0tLaHFGMjVPbmRJN3NkZFlaRXc2ZzZ0MWxTOGZrQjhrTjFBeXI4eGw0OHpoeFFueEJ3RG41aHZ1X3VxYmJQVQ?oc=5",
-   "fecha": "2026-11-20T16:30:00+00:00",
-   "resumen": "Miba inaugura planta de 30 millones de dólares en Coahuila y genera 70 empleos",
-   "bono": 5,
+   "fuente": "La Chispa",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS1djUmZJQVFKY0tPZmNUT081V05VRWtYakw5NWZIZ1hkN3pWR21sNmFQMXEtUmtMUFdzNmFBWkxlVU5OcWxxcjJGWGN5SG55MUp1NTVqU1NYNnprblQ3NmthN3lXRGsySDFVOGZEaURtWF9JT3J6ekJ3T3huZFVTOWtKemZJSllmVnFHMElMX1NVY2pEQlpaRVhmeWRwSlVyUDBDdW9sek1oanQyV1JxclhFM3pZYk5kVW9XZzdhb3plZWx5aGIxZzdYc3BSd0h0ckRtbklUek1VWm5r?oc=5",
+   "fecha": "2026-11-22T17:03:45+00:00",
+   "resumen": "Claudia Sheinbaum anuncia ampliación de la Universidad Rosario Castellanos en Zacatecas y entrega becas Gertrudis Bocanegra",
+   "bono": 0,
    "enriquecido": true,
-   "prioridad": 63
+   "prioridad": 61
+  },
+  {
+   "id": "op-c3de07b5ca45",
+   "empresa": "Claudia Sheinbaum",
+   "titulo": "Claudia Sheinbaum anuncia ampliación de Universidad Rosario Castellanos en Zacatecas; tendrá Medicina y Enfermería",
+   "estado": "Zacatecas",
+   "ciudad": "",
+   "tipo": "Escuela",
+   "origen": "Ya en el norte y se expande",
+   "senal": "Nearshoring / inversión",
+   "fuente": "Por Esto!",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdFItMWJiVFU0WmdzampPcVNPSDFIQURHNE02OU9oaEJaUTBCa01DZGgyVGtQS1NGcEp5WW9FN3c1UGV4aWlLNG45Z3l4a2hrak82MVJ5cnpCa0pnWTBIcEUyRXQ4VGY4QUhlRk9fTklHX2NUUVREVFhzV0pFSlJaVlFZU24wOFc2Q2NmWmU0ekxkaU1zVjVfcHBZRVYxeERWVW5KSFMwLXUyeVdHRnF6cGdvaktpTDVVVWhicU5sa3RPaVFpbUZETnoxc3FLeEhxeTlNTVBHOEpybWRfaFHSAeMBQVVfeXFMTVNmOEh5Wk4xRldZN3dwOE1pVXk4Z21sR09OSUViQlJ2YVZiMGRJcUd5SFVRbTJUWVlQZ25rWVZuNFRwUTdfT2pEM0VJVGRzdEJzRC01Z2R1TUpGVG1SaWk1VnJ5cWxNc0dQQzgtZzhMM0lYQXdLMjVNbVZWSGQ1UXJJN0F4dVI3aF9EUHR3OTQ0Y1AyWnlGY01vOVltWGh1TnVHaGNIYVpibXV0RU1JOWxZellRR3JsTm1rV091c1J0bmtlbFU1NVZjVWEwa3BZOTA2UF9kTXA3eHUzSlh3SXE4X3c?oc=5",
+   "fecha": "2026-11-22T00:02:47+00:00",
+   "resumen": "Claudia Sheinbaum anuncia ampliación de Universidad Rosario Castellanos en Zacatecas; tendrá Medicina y Enfermería",
+   "bono": 0,
+   "enriquecido": true,
+   "prioridad": 61
+  },
+  {
+   "id": "op-83a01c16c18f",
+   "empresa": "",
+   "titulo": "Universidad Rosario Castellanos abrirá espacio para 10 mil jóvenes en Zacatecas",
+   "estado": "Zacatecas",
+   "ciudad": "",
+   "tipo": "Escuela",
+   "origen": "Ya en el norte y se expande",
+   "senal": "Nearshoring / inversión",
+   "fuente": "24-horas",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmZXTmR5M2NDbTZ2NTVHaUVPakF3OVljeEtIc09XUTFWTVNtU3liSHd3WS0xbmV0X3JwMzQ1dW00c0lWbEdLTUxEeFlDMGROR3V3c1ZfVGlSNnROb0JpMExEY0hiTVdoX1RSdUFvemdSQlotbEJhbFhnNGhRcUhxdnZyc1BZS25TbEFXOFdCaHhMMEJuSktGOFN2Y1FFSXY1bVVWYXQ4R2laMHd2?oc=5",
+   "fecha": "2026-11-21T20:41:28+00:00",
+   "resumen": "Universidad Rosario Castellanos abrirá espacio para 10 mil jóvenes en Zacatecas",
+   "bono": 0,
+   "enriquecido": true,
+   "prioridad": 61
   },
   {
    "id": "op-17e53fbf0c04",
@@ -1790,6 +1856,40 @@
    "bono": 0,
    "enriquecido": true,
    "prioridad": 61
+  },
+  {
+   "id": "op-2348b4fbaee5",
+   "empresa": "Segunda",
+   "titulo": "Segunda planta potabilizadora en Durango iniciará construcción en 2027",
+   "estado": "Durango",
+   "ciudad": "",
+   "tipo": "Industrial",
+   "origen": "Ya en el norte y se expande",
+   "senal": "Permiso de construcción",
+   "fuente": "El Siglo de Durango",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1NjUFY5R1g1c3BKUFoxR1Vmd1JxbktnS3JyVWo4ZzYwMk9UUUNwV0NoZ0E3ZDB0UVlKZHpTT0pGZ0EyNTlVTXc0Yks2NjRseEJRSEJmZEJWNG5IREZBYVpRNzFMRkJEYUU4Q3hoNHh5NnYtcWlfeWJaRllZc1ZBY0dMR3dhcmw4ZmRyVG5UNUdSci10U1d0X2E4MmF5akllR0Z4UDU2UG9KM2E2WnpSQ2JqV0tNTjM4VkJZYVlzZw?oc=5",
+   "fecha": "2026-11-21T17:54:00+00:00",
+   "resumen": "Segunda planta potabilizadora en Durango iniciará construcción en 2027",
+   "bono": 0,
+   "enriquecido": true,
+   "prioridad": 60
+  },
+  {
+   "id": "op-209943a10c2e",
+   "empresa": "Miba",
+   "titulo": "Miba inaugura planta de 30 millones de dólares en Coahuila y genera 70 empleos",
+   "estado": "Coahuila",
+   "ciudad": "",
+   "tipo": "Industrial",
+   "origen": "Ya en el norte y se expande",
+   "senal": "Nearshoring / inversión",
+   "fuente": "MexicoIndustry",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYU9rSDNPdWY2WGEtSlBBVHpzUTNvRFdJNnVia056TVpSV0Z4dEFNS1JnZ2U3Y2xPN1BNaUlCMUFPNlBJcExBMmVOdk0xc25Xblo3U2xNRFNPVU9nQ0RONmxTVWc3UHpFN3IwTFBzY1Z0cXlma0tLaHFGMjVPbmRJN3NkZFlaRXc2ZzZ0MWxTOGZrQjhrTjFBeXI4eGw0OHpoeFFueEJ3RG41aHZ1X3VxYmJQVQ?oc=5",
+   "fecha": "2026-11-20T16:30:00+00:00",
+   "resumen": "Miba inaugura planta de 30 millones de dólares en Coahuila y genera 70 empleos",
+   "bono": 5,
+   "enriquecido": true,
+   "prioridad": 60
   },
   {
    "id": "op-1136e094f129",
@@ -1860,6 +1960,23 @@
    "prioridad": 59
   },
   {
+   "id": "op-7576beddafd7",
+   "empresa": "",
+   "titulo": "Tamaulipas fortalece su infraestructura logística para atraer inversiones y capital extranjero",
+   "estado": "Tamaulipas",
+   "ciudad": "",
+   "tipo": "Industrial",
+   "origen": "Internacional que llega o se consolida en Monterrey",
+   "senal": "Nearshoring / inversión",
+   "fuente": "EL CEO",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlV2eTVVa21CVDl1bFZDN1hGampFcHdUZTg5T1N2WmE5X19OeUpKa2VqTEFyNTF6OXJyM0Y4eG9jVC14VXZVSjBHdGtaNU5CQmZna3Yxd2dwOUtJUks0UzlEM1pWUFRkd2ZOZ3JLS0dCNFdGTU11TUhRTl9McTFyc2hXeWNqT2NDeW1xM3JmcEhERkdfcktpZUFDenVCWmRLRUtDeWx6Z1JaZ2xYWmlVVTNR?oc=5",
+   "fecha": "2026-11-16T17:35:03+00:00",
+   "resumen": "Tamaulipas fortalece su infraestructura logística para atraer inversiones y capital extranjero",
+   "bono": 0,
+   "enriquecido": true,
+   "prioridad": 58
+  },
+  {
    "id": "op-ab1081033192",
    "empresa": "Electro Componentes",
    "titulo": "El gobernador Manolo Jiménez Salinas y el alcalde Miguel Ángel Riquelme Solís inauguraron la tarde de este viernes la planta de Electro Componentes de México, en el parque industrial VYNMSA, en Torreón. Su instalación generará cerca de mil 200 empl",
@@ -1874,7 +1991,7 @@
    "resumen": "El gobernador Manolo Jiménez Salinas y el alcalde Miguel Ángel Riquelme Solís inauguraron la tarde de este viernes la planta de Electro Componentes de México, en el parque industrial VYNMSA, en Torreón. Su instalación generará cerca de mil 200 empl",
    "bono": 0,
    "enriquecido": true,
-   "prioridad": 58
+   "prioridad": 55
   },
   {
    "id": "op-5c08bbef53d9",
@@ -1891,24 +2008,24 @@
    "resumen": "Marina del Pilar impulsa la expansión de la Universidad Rosario Castellanos en Baja California",
    "bono": 0,
    "enriquecido": true,
-   "prioridad": 58
+   "prioridad": 55
   },
   {
-   "id": "op-7576beddafd7",
+   "id": "op-fad485c34559",
    "empresa": "",
-   "titulo": "Tamaulipas fortalece su infraestructura logística para atraer inversiones y capital extranjero",
-   "estado": "Tamaulipas",
+   "titulo": "En Zacatecas, presidenta anuncia ampliación del nuevo campus de la Universidad Nacional Rosario Castellanos para 10 mil jóvenes",
+   "estado": "Zacatecas",
    "ciudad": "",
-   "tipo": "Industrial",
-   "origen": "Internacional que llega o se consolida en Monterrey",
+   "tipo": "Escuela",
+   "origen": "Ya en el norte y se expande",
    "senal": "Nearshoring / inversión",
-   "fuente": "EL CEO",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlV2eTVVa21CVDl1bFZDN1hGampFcHdUZTg5T1N2WmE5X19OeUpKa2VqTEFyNTF6OXJyM0Y4eG9jVC14VXZVSjBHdGtaNU5CQmZna3Yxd2dwOUtJUks0UzlEM1pWUFRkd2ZOZ3JLS0dCNFdGTU11TUhRTl9McTFyc2hXeWNqT2NDeW1xM3JmcEhERkdfcktpZUFDenVCWmRLRUtDeWx6Z1JaZ2xYWmlVVTNR?oc=5",
-   "fecha": "2026-11-16T17:35:03+00:00",
-   "resumen": "Tamaulipas fortalece su infraestructura logística para atraer inversiones y capital extranjero",
+   "fuente": "Gob MX",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMlJURzRPbUFDeFdPb0R2bjlFYjR0eW5fRmw5WWY2c2NGTVBXM3BJVDJ3OElBTWp6X1MxMFRVSHNXVERHOG5fc0FUOW4xVV9zSXNrOGJQM2hlUHBPQnVIdmFoNUxHSmE2b3hSQ1ZDZDc0UEVfSklHeTdXMUlxVWpsZW1LOHNsQ3pOUlVUTHlSTGpLYV9QMjRSWmtuTENEV2pKTGFIN21HZnZaSmFLSDNrTFgtNmtqRUlZcTJrZ2tIOXMwTWlLNUtHMXo3am5ZamdwZndrOXRJNEVsUGx3aWhhRHJxYnI1NHVyRzVWSHpqQVBkaWRNbHJXZVpCaEROU0FadDg2XzJnYVh4VTg?oc=5",
+   "fecha": "2026-11-19T06:32:00+00:00",
+   "resumen": "En Zacatecas, presidenta anuncia ampliación del nuevo campus de la Universidad Nacional Rosario Castellanos para 10 mil jóvenes",
    "bono": 0,
    "enriquecido": true,
-   "prioridad": 58
+   "prioridad": 55
   },
   {
    "id": "op-2ea28f0ad296",
@@ -1974,23 +2091,6 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX193dDRXUEl0NmhoM2xJdGlfUE94aGNQalk4OUswU2xvS2lmUU9XeHRXeXl0QnJVdml0eDJGVVV4Mk5yNDF4cEJQQWNuVFRGVWhFY3ZES1AySGpUcGhXU2dQdHhfVEV2ZTY3OERwRjVIdTY1cGJWZ1ZUM091LW9mdThwWVdsM016TXc0WklUaDVrbmlBaENFU3VnZ2I5aHhCODdONDR4TWtNbWdNdGlFUGZoVW9zVGtTb0VrekRYdjZXajBGVmxmdkotQmpnZw?oc=5",
    "fecha": "2026-11-16T16:57:06+00:00",
    "resumen": "Empresa lagunera construirá planta de Fermachem en Lerdo, Durango; generará 3 mil empleos",
-   "bono": 0,
-   "enriquecido": true,
-   "prioridad": 54
-  },
-  {
-   "id": "op-4b8e3cc939bf",
-   "empresa": "Coahuila Arranca",
-   "titulo": "Coahuila: Arranca construcción de techumbres en la Región Centro; se proyectan 15 proyectos en escuelas",
-   "estado": "Coahuila",
-   "ciudad": "",
-   "tipo": "Escuela",
-   "origen": "Ya en el norte y se expande",
-   "senal": "Permiso de construcción",
-   "fuente": "PostaMx",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRzB5MWRIVV9ubUpqRnBmRC1uZWh5djdDMVNQV0lUd2o4S19Ec2FhMDlOWDlDOGMtNDU3ZXdKQVdMaldyWlhQN09GV2VZcFJhTkdRYVRXZmdjNktaM2N0YldOM0ppbXp1YlFNZGtKaFNwSVdJZHl2dVJJUk9lUklpWDVfMUJBV3A0eWNGeW1CSXVJOUpOOG9GTElvOWdzMjIzd1VrcjBTb005M2RPeEFXbFdCVDN4SUR4WHROZHhZZ00zMGY3UjI3cHgyWkllOVpmdi1HZmp6a0pVMWNSaFHSAeMBQVVfeXFMUGdNQzNjbmc4dUdLSVZFM1NjVmJ0aFZNLTR3cVZMYV9ZYlczS2JyWnpKNm51c0pVNTBxakZZNENtS215cHZZWklnQ0JwQU1acVc1a0NaMFBVSVlMa2dxQVBXYkJVWTlWQktPd0x6VFU3RXlEbURNdnhvT1NUeWpJZjhVWkxqWnNRWGtYMlJjUnVsdnBIR3pkemg4RzhYLUZ4TjZpQS1qRzhmd1dJejVOM0RVUzlhd0NVRVBUYlBXcDBGUGl0R1Q0Y1h5VEp3VHV0YnpQRzdEX3RpMmV4V2xDVEF0aXM?oc=5",
-   "fecha": "2026-11-14T22:11:00+00:00",
-   "resumen": "Coahuila: Arranca construcción de techumbres en la Región Centro; se proyectan 15 proyectos en escuelas",
    "bono": 0,
    "enriquecido": true,
    "prioridad": 54
@@ -2064,23 +2164,6 @@
    "prioridad": 54
   },
   {
-   "id": "op-c7280d492b2b",
-   "empresa": "Duplicarán",
-   "titulo": "Duplicarán capacidad de planta potabilizadora en Nuevo Laredo con inversión de 84 mdp",
-   "estado": "Tamaulipas",
-   "ciudad": "Nuevo Laredo",
-   "tipo": "Industrial",
-   "origen": "Ya en el norte y se expande",
-   "senal": "Nearshoring / inversión",
-   "fuente": "La Jornada",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYjhRTjgyTnlCNU5WampvdmFmU0RGX0dka2xNTkFYRXd5M25xdkdIcGRhMmdKUGI1cEZxdVRUc1RRaTRhRWRkeURvRk1RLVdCdU5ibVBZcHQ5UW1DSFVLNFYzcTNQY3JPRGROX1pEVGkwM25QZklyVHFPbEVvelFRMVF6R3lLd3R2N21wU0cyYWlpLTdrRnhDZkNTM3ZENWI0ZEItTEtGWjNPRlR4a2QwMllhUGtpMTI1czQ0djZzTVV2YzZqNVZ5TkFaWmUxZmxBNmdfbHRn?oc=5",
-   "fecha": "2026-11-08T03:27:00+00:00",
-   "resumen": "Duplicarán capacidad de planta potabilizadora en Nuevo Laredo con inversión de 84 mdp",
-   "bono": 5,
-   "enriquecido": true,
-   "prioridad": 54
-  },
-  {
    "id": "op-5bb90e3ba0c7",
    "empresa": "Hengst Filtration",
    "titulo": "Hengst Filtration abre nueva planta en Monterrey",
@@ -2147,6 +2230,23 @@
    "bono": 3,
    "enriquecido": true,
    "prioridad": 52
+  },
+  {
+   "id": "op-4b8e3cc939bf",
+   "empresa": "Coahuila Arranca",
+   "titulo": "Coahuila: Arranca construcción de techumbres en la Región Centro; se proyectan 15 proyectos en escuelas",
+   "estado": "Coahuila",
+   "ciudad": "",
+   "tipo": "Escuela",
+   "origen": "Ya en el norte y se expande",
+   "senal": "Permiso de construcción",
+   "fuente": "PostaMx",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRzB5MWRIVV9ubUpqRnBmRC1uZWh5djdDMVNQV0lUd2o4S19Ec2FhMDlOWDlDOGMtNDU3ZXdKQVdMaldyWlhQN09GV2VZcFJhTkdRYVRXZmdjNktaM2N0YldOM0ppbXp1YlFNZGtKaFNwSVdJZHl2dVJJUk9lUklpWDVfMUJBV3A0eWNGeW1CSXVJOUpOOG9GTElvOWdzMjIzd1VrcjBTb005M2RPeEFXbFdCVDN4SUR4WHROZHhZZ00zMGY3UjI3cHgyWkllOVpmdi1HZmp6a0pVMWNSaFHSAeMBQVVfeXFMUGdNQzNjbmc4dUdLSVZFM1NjVmJ0aFZNLTR3cVZMYV9ZYlczS2JyWnpKNm51c0pVNTBxakZZNENtS215cHZZWklnQ0JwQU1acVc1a0NaMFBVSVlMa2dxQVBXYkJVWTlWQktPd0x6VFU3RXlEbURNdnhvT1NUeWpJZjhVWkxqWnNRWGtYMlJjUnVsdnBIR3pkemg4RzhYLUZ4TjZpQS1qRzhmd1dJejVOM0RVUzlhd0NVRVBUYlBXcDBGUGl0R1Q0Y1h5VEp3VHV0YnpQRzdEX3RpMmV4V2xDVEF0aXM?oc=5",
+   "fecha": "2026-11-14T22:11:00+00:00",
+   "resumen": "Coahuila: Arranca construcción de techumbres en la Región Centro; se proyectan 15 proyectos en escuelas",
+   "bono": 0,
+   "enriquecido": true,
+   "prioridad": 51
   },
   {
    "id": "op-a4bf38399c85",
